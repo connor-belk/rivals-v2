@@ -1,0 +1,4087 @@
+﻿[
+  {
+    "Vehicle": "2017 Abarth 124 Spider",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 4"
+  },
+  {
+    "Vehicle": "2022 Acura NSX Type S",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 20"
+  },
+  {
+    "Vehicle": "2020 Acura #6 ARX-05 DPi",
+    "Category": "Forza Proto-H",
+    "Availability": "Reward",
+    "Released": "Update 1"
+  },
+  {
+    "Vehicle": "2018 Acura #36 NSX GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2017 Acura NSX",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2001 Acura Integra Type R",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Alfa Romeo Giulia Quadrifoglio",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 4"
+  },
+  {
+    "Vehicle": "2014 Alfa Romeo 4C",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Update 6"
+  },
+  {
+    "Vehicle": "2011 Alfa Romeo Giulietta Quadrifoglio Verde",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 Alfa Romeo Giulia Sprint GTA Stradale",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Reward",
+    "Released": "Update 4"
+  },
+  {
+    "Vehicle": "2017 Alpine A110",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Alpine GTA Le Mans",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1971 AMC Javelin AMX",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 AMC Rebel The Machine",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Apollo Intensa Emozione",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Ariel Atom 500 V8",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Aston Martin Valkyrie",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Update 3"
+  },
+  {
+    "Vehicle": "2022 Aston Martin Valkyrie AMR Pro",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2019 Aston Martin Valhalla Concept Car",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Aston Martin DBS Superleggera",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Aston Martin Vantage",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Aston Martin #97 AMR Vantage GTE",
+    "Category": "Forza GT2",
+    "Availability": "Reward",
+    "Released": "Update 11"
+  },
+  {
+    "Vehicle": "2017 Aston Martin Vulcan AMR Pro",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Aston Martin Vanquish Zagato Coupe",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Aston Martin Vulcan",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Aston Martin Vantage GT12",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Aston Martin V12 Vantage S",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2008 Aston Martin DBS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2001 Aston Martin V12 Vanquish",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Aston Martin V8 Vantage V600",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1989 Aston Martin #18 Aston Martin AMR1",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Aston Martin DBS",
+    "Category": "Vintage Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1964 Aston Martin DB5",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1960 Aston Martin DB4 GT Zagato",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1958 Aston Martin DBR1",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Audi RS e-tron GT",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Audi RS 6 Avant",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Audi RS 7 Sportback",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Audi R8 V10 performance",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 1"
+  },
+  {
+    "Vehicle": "2020 Audi TT RS Coupe",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2020 Audi RS 3 Sedan",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Audi #44 R8 LMS GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2018 Audi #1 Audi Sport RS 3 LMS",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Audi TT RS",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Audi RS 5 Coupe",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Audi RS 4 Avant",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Audi #17 Rotek Racing TT RS",
+    "Category": "Forza GT4",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Audi R8 V10 plus",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Audi RS 6 Avant",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Audi S1",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Audi #2 Audi Team Joest R18 e-tron quattro",
+    "Category": "Forza P1",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Audi R8 Coupé V10 plus 5.2 FSI quattro",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Audi RS 7 Sportback",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Update 5"
+  },
+  {
+    "Vehicle": "2013 Audi RS 4 Avant",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Audi RS 3 Sportback",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2010 Audi R8 Coupé 5.2 FSI quattro",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 20"
+  },
+  {
+    "Vehicle": "2006 Audi RS 4",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2004 Audi S4",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Audi RS 6",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2001 Audi RS 4 Avant",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Audi Avant RS 2",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1989 Audi #4 Audi 90 quattro IMSA GTO",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 Audi Sport quattro",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 Austin-Healey 3000 MkIII",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1939 Auto Union Type D",
+    "Category": "The Birth of Grand Prix",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Automobili Pininfarina Battista",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 BAC Mono",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Bentley Continental Supersports",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Bentley #17 M-Sport Bentley Continental GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Bentley #7 Team Bentley Speed 8",
+    "Category": "Early LMP",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 BMW #25 BMW Team RLL M Hybrid V8",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2023 BMW #96 Turner Motorsports M4 GT3",
+    "Category": "Forza GT3",
+    "Availability": "Reward",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2023 BMW M2",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Update 5"
+  },
+  {
+    "Vehicle": "2021 BMW M3 Competition Sedan",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 BMW M4 Competition Coupé",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 BMW M8 Competition Coupé",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 BMW M2 Competition Coupé",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2019 BMW Z4 Roadster",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 BMW #1 BMW M Motorsport M8 GTE",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 BMW M5",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 BMW #24 BMW Team RLL M6 GTLM",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 BMW M4 GTS",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 BMW i8",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 BMW M4 Coupé",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2013 BMW M6 Coupé",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 BMW M5",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 BMW 1 Series M Coupé",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Reward",
+    "Released": "Update 8"
+  },
+  {
+    "Vehicle": "2010 BMW M3 GTS",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2010 BMW M6 Coupé",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2009 BMW M5",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2008 BMW M3",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2005 BMW M3",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 BMW M5",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2002 BMW M3-GTR",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 BMW Z3 M Coupé",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2000 BMW 323ti Sport",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1999 BMW #16 BMW V12 LMR",
+    "Category": "Early LMP",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "1999 BMW #15 BMW Motorsport V12 LMR",
+    "Category": "Early LMP",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 BMW M3",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 BMW 850CSi",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 BMW M3",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 BMW M5",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1986 BMW M635 CSi",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "1981 BMW M1",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1979 BMW #6 BMW Motorsport M1 Procar",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1976 BMW #1 BMW 3.0 CSL",
+    "Category": "GTX Sportscars",
+    "Availability": "Reward",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "1975 BMW #25 BMW Motorsport 3.0 CSL",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 BMW 2002 Turbo",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Brabham BT62",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Brabham BT24",
+    "Category": "Formula 60s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1964 Brabham BT8",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Reward",
+    "Released": "Update 7"
+  },
+  {
+    "Vehicle": "1974 BRM #14 Team Motul P201",
+    "Category": "Formula 70s",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2019 Bugatti Divo",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Bugatti Chiron",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Bugatti Veyron Super Sport",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "1992 Bugatti EB110 Super Sport",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1926 Bugatti Type 35 C",
+    "Category": "The Birth of Grand Prix",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1987 Buick Regal GNX",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1985 Buick #6 Performance Motorsports Somerset Regal Trans-Am",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1970 Buick GSX",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Cadillac #31 Whelen Engineering Cadillac Racing V-Series.R",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Cadillac #2 Cadillac Racing V-Series.R",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Cadillac #01 Cadillac Racing V-Series.R",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2022 Cadillac CT5-V Blackwing",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2022 Cadillac CT4-V Blackwing",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Cadillac #31 Whelen Racing DPi-V.R",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2018 Cadillac #57 TA CTS-V",
+    "Category": "Forza T/A",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2016 Cadillac CTS-V Sedan",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Cadillac ATS-V",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Cadillac #3 Cadillac Racing ATS-V.R",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2014 Cadillac CTS-V Sport Wagon",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2013 Caterham Superlight R500",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1966 Chaparral #66 Chaparral Cars 2E",
+    "Category": "Prototype Group Racing",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2025 Chevrolet IndyCar",
+    "Category": "IndyCar",
+    "Availability": "Showroom All",
+    "Released": "Update 21"
+  },
+  {
+    "Vehicle": "2024 Chevrolet NASCAR Next Gen Camaro ZL1",
+    "Category": "NASCAR",
+    "Availability": "Showroom All",
+    "Released": "Update 14"
+  },
+  {
+    "Vehicle": "2024 Chevrolet Corvette E-Ray",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Chevrolet Corvette Z06",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Chevrolet #3 Corvette Racing C8.R",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Chevrolet Corvette Stingray Coupe Forza Edition",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom DLC",
+    "Released": "VIP"
+  },
+  {
+    "Vehicle": "2020 Chevrolet Corvette Stingray Coupe",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Chevrolet Corvette ZR1",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Chevrolet #23 Ruman Racing TA Corvette",
+    "Category": "Forza T/A",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2018 Chevrolet Camaro ZL1 1LE Forza Edition",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom DLC",
+    "Released": "VIP"
+  },
+  {
+    "Vehicle": "2018 Chevrolet Camaro ZL1 1LE",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Chevrolet Camaro ZL1",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Chevrolet Camaro Super Sport",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Chevrolet #10 Konica Minolta Corvette Daytona Prototype",
+    "Category": "Forza P2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Chevrolet Corvette Z06",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Chevrolet #3 Corvette Racing Corvette C7.R",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2010 Chevrolet #55 Level 5 Motorsports Oreca FLM09",
+    "Category": "Forza P2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2009 Chevrolet Corvette ZR1",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Chevrolet Corvette Z06",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Chevrolet Camaro 35th Anniversary Super Sport",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Chevrolet Corvette ZR-1",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Chevrolet Camaro IROC-Z",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 Chevrolet Monte Carlo Super Sport",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 Chevrolet #77 Beretta Trans Am",
+    "Category": "GTX Sportscars",
+    "Availability": "Reward",
+    "Released": "Update 14"
+  },
+  {
+    "Vehicle": "1976 Chevrolet #76 Greenwood Corvette",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Chevrolet Corvette ZR-1",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Chevrolet Chevelle Super Sport 454",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Chevrolet Camaro Z28",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Chevrolet Nova Super Sport 396",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Chevrolet Camaro Jordan Luka 3 Motorsport Edition",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Update 12"
+  },
+  {
+    "Vehicle": "1969 Chevrolet Camaro Super Sport Coupe",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Chevrolet Corvette Stingray 427",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1964 Chevron B16",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Reward",
+    "Released": "Update 9"
+  },
+  {
+    "Vehicle": "1972 Chrysler VH Valiant Charger R/T E49",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Citroën DS 3 Racing",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1979 Datsun #33 280ZX Turbo",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Datsun 510",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Datsun 2000 Roadster",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 De Tomaso Pantera GT5",
+    "Category": "Vintage Exotic GT",
+    "Availability": "Showroom DLC",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Vehicle": "2019 Dodge #9 American V8 Road Racing TA Challenger",
+    "Category": "Forza T/A",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2018 Dodge Challenger SRT Demon",
+    "Category": "Modern Sport Touring",
+    "Availability": "Reward",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Dodge Viper ACR",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Dodge Charger SRT Hellcat",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Dodge #93 SRT Motorsports Viper GTS-R",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Dodge Dart GT",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Dodge Challenger SRT8",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2008 Dodge Viper SRT10 ACR",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2005 Dodge SRT-4 ACR",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1999 Dodge Viper GTS ACR",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1996 Dodge Stealth R/T Turbo",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1986 Dodge Shelby Omni GLHS",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Dodge Coronet Super Bee",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Dodge Challenger R/T",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Dodge Charger Daytona HEMI",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Dodge Charger R/T",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Donkervoort D8 GTO",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Eagle Talon TSi Turbo",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Eagle-Weslake T1G",
+    "Category": "Formula 60s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Elemental RP1",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Update 8"
+  },
+  {
+    "Vehicle": "2018 Exomotive Exocet Sport V8 XP-5",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2022 Ferrari 296 GTB",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 3"
+  },
+  {
+    "Vehicle": "2020 Ferrari SF90 Stradale",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Ferrari Roma",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Ferrari #62 Risi Competizione 488 GTE",
+    "Category": "Forza GT2",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2019 Ferrari 488 Pista",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Ferrari F8 Tributo",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Ferrari Monza SP2",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Ferrari FXX-K Evo",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Ferrari Portofino",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Ferrari #25 Corse Clienti 488 Challenge",
+    "Category": "488 Challenge Spec",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Ferrari 812 Superfast",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Ferrari J50",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Ferrari F12tdf",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Ferrari 488 GTB",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2014 Ferrari FXX K",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Update 1"
+  },
+  {
+    "Vehicle": "2014 Ferrari California T",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Ferrari LaFerrari",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Ferrari 458 Speciale",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Ferrari 599XX Evolution",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Ferrari #62 Risi Competizione F458 Italia GTC",
+    "Category": "Forza GT3",
+    "Availability": "Showroom All",
+    "Released": "Update 11"
+  },
+  {
+    "Vehicle": "2010 Ferrari 599XX",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Reward",
+    "Released": "Update 6"
+  },
+  {
+    "Vehicle": "2009 Ferrari 458 Italia",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2007 Ferrari 430 Scuderia",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 4"
+  },
+  {
+    "Vehicle": "2003 Ferrari 360 Challenge Stradale",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Ferrari Enzo Ferrari",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Ferrari 575M Maranello",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Ferrari #12 Risi Competizione F333 SP",
+    "Category": "Early LMP",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1996 Ferrari F50 GT",
+    "Category": "Early Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Ferrari F50",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1994 Ferrari F355 Berlinetta",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Ferrari 512 TR",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Ferrari #1 Scuderia Ferrari 641",
+    "Category": "Grand Prix Rivals",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1989 Ferrari F40 Competizione",
+    "Category": "Early Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1987 Ferrari F40",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 Ferrari 288 GTO",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1982 Ferrari #72 N.A.R.T. 512 BB/LM",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1976 Ferrari #1 Scuderia Ferrari 312 T2",
+    "Category": "Formula 70s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Ferrari 512 S",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Ferrari Dino 246 GT",
+    "Category": "Vintage Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Ferrari #24 Ferrari Spa 330 P4",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1964 Ferrari F-158",
+    "Category": "Formula 60s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1963 Ferrari 250LM",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1962 Ferrari 250 GTO",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1962 Ferrari 250 GT Berlinetta Lusso",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1957 Ferrari 250 Testa Rossa",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1953 Ferrari 500 Mondial",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1948 Ferrari 166 Inter Sport",
+    "Category": "The Birth of Grand Prix",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2024 Ford NASCAR Next Gen Mustang Dark Horse",
+    "Category": "NASCAR",
+    "Availability": "Showroom All",
+    "Released": "Update 14"
+  },
+  {
+    "Vehicle": "2024 Ford #25 Mustang RTR",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2024 Ford #88 Mustang RTR",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2024 Ford #124 Mustang RTR",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2024 Ford Mustang Dark Horse",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom DLC",
+    "Released": "Update 13 Car Pass"
+  },
+  {
+    "Vehicle": "2024 Ford Mustang GT",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2024 Ford Mustang GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Vehicle": "2020 Ford Mustang Shelby GT500",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Ford #98 Breathless Pro Racing TA Mustang",
+    "Category": "Forza T/A",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2018 Ford Mustang GT",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Ford GT",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Ford #17 Shell V-Power Racing Team Falcon FG X",
+    "Category": "Forza AUS",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Ford Focus RS",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Ford #66 Ford Racing GT Le Mans",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Ford Shelby GT-350R",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype",
+    "Category": "Forza P2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Ford Falcon GT F 351",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Ford FPV Limited Edition Pursuit Ute",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "2014 Ford #17 AMD Tuning Focus ST BTCC",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2013 Ford Shelby GT500",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2009 Ford Focus RS",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2005 Ford Ford GT",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Ford Focus RS",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2000 Ford SVT Cobra R",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1999 Ford Racing Puma",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Ford Mustang SVT Cobra R",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "1993 Ford SVT Cobra R",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Ford Escort RS Cosworth",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Ford Falcon GT",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 Ford #15 Roush Racing Whistler Mustang",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1987 Ford Sierra Cosworth RS500",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1986 Ford Mustang SVO",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1986 Ford Escort RS Turbo",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1982 Ford #6 Zakspeed Roush Mustang IMSA GT",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1981 Ford #2 Zakspeed Racing Capri Turbo",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1981 Ford Fiesta XR2",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1977 Ford Escort RS1800",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 Ford XB Falcon GT",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 Ford Escort RS1600",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1972 Ford Falcon XA GT-HO",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "1970 Ford #15 Mustang Boss 302 Trans Am",
+    "Category": "Vintage Trans Am",
+    "Availability": "Reward",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "1969 Ford Mustang Boss 302",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1968 Ford Mustang GT 2+2 Fastback",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1966 Ford #2 GT40 MkII Le Mans",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1966 Ford Lotus Cortina",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 Ford Mustang GT Coupe",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1964 Ford GT40 Mk I",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Formula Drift #91 BMW M2",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 16"
+  },
+  {
+    "Vehicle": "2020 Formula Drift #151 Toyota GR Supra",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2016 Formula Drift #530 HSV Maloo Gen-F",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "2015 Formula Drift #13 Ford Mustang",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2006 Formula Drift #43 Dodge Viper SRT10",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2001 Formula Drift #215 Nissan Silvia Spec-R",
+    "Category": "Formula Drift",
+    "Availability": "Showroom DLC",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Vehicle": "1995 Formula Drift #34 Toyota Supra MxIV",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 20"
+  },
+  {
+    "Vehicle": "1997 Formula Drift #777 Nissan 240SX",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "1975 Forsberg Racing Nissan ‘Gold Leader’ Datsun 280Z",
+    "Category": "Formula Drift",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2019 Ginetta #6 Team LNT Ginetta G60-LT-P1",
+    "Category": "Forza P1",
+    "Availability": "Showroom All",
+    "Released": "Update 1"
+  },
+  {
+    "Vehicle": "2019 Ginetta G55 GT4",
+    "Category": "Forza GT4",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2019 Ginetta G40 Junior",
+    "Category": "G40 Junior Spec",
+    "Availability": "Showroom All",
+    "Released": "Update 8"
+  },
+  {
+    "Vehicle": "2022 Gordon Murray Automotive T.50",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2019 Hennessey Camaro Exorcist",
+    "Category": "Modern Exotic GT",
+    "Availability": "Reward",
+    "Released": "Update 14"
+  },
+  {
+    "Vehicle": "1985 HDT VK Commodore Group A",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "2017 Holden #22 Walkinshaw Performance VF Commodore",
+    "Category": "Forza AUS",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Holden #10 Holden Xbox Racing Team Commodore VF",
+    "Category": "Forza AUS",
+    "Availability": "Reward",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "1991 Holden HSV Commodore Group A SV",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "1988 Holden VL Commodore Group A SV",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1977 Holden Torana A9X",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 Holden HQ Monaro GTS 350",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1968 Holden Monaro GTS 327",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2025 Honda IndyCar",
+    "Category": "IndyCar",
+    "Availability": "Showroom All",
+    "Released": "Update 21"
+  },
+  {
+    "Vehicle": "2020 Honda #73 LA Honda World Racing Civic",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Honda Civic Type R",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2009 Honda S2000 CR",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2005 Honda NSX-R",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2004 Honda Civic Type R",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2000 Honda Prelude Type SH",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Honda Civic Type R",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Honda NSX-R",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 Honda CR-X SiR",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Honda S800",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Honda RA300",
+    "Category": "Formula 60s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 HSV Limited Edition Gen-F GTS Maloo",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "2014 HSV GEN-F GTS",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 HSV GTS",
+    "Category": "Modern Sport Touring",
+    "Availability": "Reward",
+    "Released": "Update 15"
+  },
+  {
+    "Vehicle": "1996 HSV GTSR",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Hyundai IONIQ 5 N",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Reward",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2022 Hyundai Elantra N",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2021 Hyundai #98 Bryan Herta Autosport Elantra N",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2021 Hyundai i20 N",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2020 Hyundai i30 N",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2020 Hyundai #98 Bryan Herta Autosport Veloster N",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Hyundai Veloster N Forza Edition",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom DLC",
+    "Released": "VIP"
+  },
+  {
+    "Vehicle": "2019 Hyundai Veloster N",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Infiniti Q50 Eau Rouge",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Infiniti IPL G Coupe",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Infiniti G35 Coupe",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Jaguar F-TYPE R Coupé",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Jaguar XKR-S GT",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Jaguar XFR-S",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Jaguar XJ220S TWR",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Jaguar XJ220",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 Jaguar Sport XJR-15",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 Jaguar #1 Jaguar Racing XJR-9",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1983 Jaguar #44 Group 44 XJR-5",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1961 Jaguar E-type",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1959 Jaguar Mk II 3.8",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1956 Jaguar D-Type",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Koenigsegg Jesko",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Koenigsegg Agera RS",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Koenigsegg One:1",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2020 KTM X-Bow GT2",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Update 1"
+  },
+  {
+    "Vehicle": "2018 KTM X-Bow GT4",
+    "Category": "Forza GT4",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 KTM X-Bow R",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2024 Lamborghini SC63",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2024 Lamborghini Revuelto",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2022 Lamborghini Huracán EVO Spyder",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 12"
+  },
+  {
+    "Vehicle": "2021 Lamborghini Countach LPI 800-4",
+    "Category": "Modern Hypercars",
+    "Availability": "Reward",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2020 Lamborghini Essenza SCV12",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Lamborghini Huracán STO",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Lamborghini Huracán EVO",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Lamborghini Sián FKP 37",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo",
+    "Category": "Super Trofeo",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2018 Lamborghini Aventador SVJ",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Lamborghini Huracán Performante",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Lamborghini Centenario LP 770-4",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Lamborghini Aventador Superveloce",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2015 Lamborghini #63 Squadra Corse Huracan LP620-2 Super Trofeo",
+    "Category": "Super Trofeo",
+    "Availability": "Showroom All",
+    "Released": "Update 3"
+  },
+  {
+    "Vehicle": "2014 Lamborghini Huracán LP 610-4",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 6"
+  },
+  {
+    "Vehicle": "2013 Lamborghini Veneno",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Lamborghini Aventador J",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Lamborghini Sesto Elemento",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2011 Lamborghini Gallardo LP 570-4 Superleggera",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2010 Lamborghini Murciélago LP 670-4 SV",
+    "Category": "Modern Exotic GT",
+    "Availability": "Reward",
+    "Released": "Update 4"
+  },
+  {
+    "Vehicle": "2008 Lamborghini Revénton",
+    "Category": "Modern Exotic GT",
+    "Availability": "Reward",
+    "Released": "Update 10"
+  },
+  {
+    "Vehicle": "1999 Lamborghini Diablo GTR",
+    "Category": "Early Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Lamborghini Diablo SV",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 Lamborghini Countach LP5000 QV",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 Lamborghini Espada 400 GT",
+    "Category": "Vintage Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1972 Lamborghini Jarama S",
+    "Category": "Vintage Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Lamborghini Miura P400",
+    "Category": "Vintage Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Lancia Delta HF Integrale EVO",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Update 4"
+  },
+  {
+    "Vehicle": "2021 Lexus LC 500",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Lexus #14 VASSER SULLIVAN RC F GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2020 Lexus RC F Track Edition",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Lexus RC F",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Lexus IS 350 F Sport",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Lexus GS350 F Sport",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2010 Lexus LFA",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Ligier #11 Euro International JS P3",
+    "Category": "Forza P3",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1969 Lola #10 Simoniz Special T163",
+    "Category": "Prototype Group Racing",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Lola #6 Sunoco T70 MkIIIB",
+    "Category": "Prototype Group Racing",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 Lotus Emira",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Lotus Evija",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Lotus Evora GT430",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Reward",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2016 Lotus 3-Eleven",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Lotus Evora S",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Lotus Esprit V8",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1986 Lotus #12 Team Lotus 98T",
+    "Category": "Grand Prix Rivals",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1976 Lotus #5 Team Lotus 77",
+    "Category": "Formula 70s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1971 Lotus Elan Sprint",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Lotus Type 49",
+    "Category": "Formula 60s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 Lotus #1 Team Lotus Type 40",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom DLC Car Pass",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 Lotus Team Lotus type 35",
+    "Category": "Formula 60s",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2021 Lynk & Co 03+",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Lynk & Co #62 Cyan Racing 03",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Maserati Ghibli S Q4",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2004 Maserati MC12",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Maserati Ghibli Cup",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1961 Maserati Tipo 61 Birdcage",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1957 Maserati 300 S",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1953 Maserati A6GCS/53 PininFarina Berlinetta",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1939 Maserati 8CTF",
+    "Category": "The Birth of Grand Prix",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Matra-Simca #146 Equipe Matra-Simca MS650 Tour de France",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2022 Mazda MX-5 Miata RF",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2017 Mazda MX-5 Cup",
+    "Category": "Forza Specials",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2016 Mazda MX-5",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Mazda Formula Mazda",
+    "Category": "Formula Mazda Spec",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Mazda #70 SpeedSource Lola B12/80",
+    "Category": "Forza P2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Mazda MX-5",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Mazda RX-8 R3",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2010 Mazda #16 Mazda Racing B09/86",
+    "Category": "Forza P2",
+    "Availability": "Showroom All",
+    "Released": "Update 14"
+  },
+  {
+    "Vehicle": "2008 Mazda Furai",
+    "Category": "Forza Specials",
+    "Availability": "Showroom DLC",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Vehicle": "2002 Mazda RX-7 Spirit R Type-A",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Mazda RX-7",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1994 Mazda MX-5 Miata",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Mazda 323 GT-R",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 Mazda #55 Mazda 787B",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 Mazda #62 RX-7",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Mazda Savanna RX-7",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Mazda MX-5 Miata",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1985 Mazda RX-7 GSL-SE",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 Mazda RX-3",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1972 Mazda Cosmo 110S Series II",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2023 McLaren Artura",
+    "Category": "Modern Exotic GT",
+    "Availability": "Reward",
+    "Released": "Update 12"
+  },
+  {
+    "Vehicle": "2021 McLaren 765LT Coupe",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 McLaren Sabre",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Update 3"
+  },
+  {
+    "Vehicle": "2021 McLaren 620R",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 McLaren GT",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 McLaren Senna GTR",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2019 McLaren #03 720S GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2019 McLaren 720S Spider",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 McLaren Senna",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 McLaren 720S Coupe",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 McLaren 600LT Coupé",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 McLaren P1 GTR",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 McLaren 650S Coupe",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 3"
+  },
+  {
+    "Vehicle": "2013 McLaren P1",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 McLaren F1 GT",
+    "Category": "Early Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 McLaren F1",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 McLaren #12 Honda McLaren MP4/4",
+    "Category": "Grand Prix Rivals",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1976 McLaren #11 Team McLaren M23",
+    "Category": "Formula 70s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 McLaren #4 McLaren Cars M8B",
+    "Category": "Prototype Group Racing",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1966 McLaren #4 Bruce McLaren Motor Racing M1B",
+    "Category": "Prototype Group Racing",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1966 McLaren M2B",
+    "Category": "Formula 60s",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Mercedes-AMG Mercedes-AMG ONE",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Mercedes-AMG GT Black Series",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Mercedes-AMG GT3",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2018 Mercedes-AMG GT 4-Door Coupé",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Mercedes-AMG E 63 S",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Mercedes-AMG GT R",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Mercedes-AMG C 63 S Coupé Forza Edition",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom DLC",
+    "Released": "VIP"
+  },
+  {
+    "Vehicle": "2016 Mercedes-AMG C 63 S Coupé",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Mercedes-Benz #33 Mac Tools Ciceley Motorsports A-Class (A45)",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 Mercedes-Benz A 45 AMG",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Mercedes-Benz C 63 AMG Coupé Black Series",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Mercedes-Benz SLK 55 AMG",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 Mercedes-Benz SLS AMG",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2009 Mercedes-Benz SL 65 AMG Black Series",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2004 Mercedes-Benz C 32 AMG",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Mercedes-Benz AMG CLK GTR",
+    "Category": "Early Factory Racecars",
+    "Availability": "Reward",
+    "Released": "Update 10"
+  },
+  {
+    "Vehicle": "1990 Mercedes-Benz 190E 2.5-16 Evolution II",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1989 Mercedes-Benz #63 Sauber-Mercedes C 9",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1955 Mercedes-Benz 300 SLR",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1954 Mercedes-Benz 300 SL Coupé",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1939 Mercedes-Benz W154",
+    "Category": "The Birth of Grand Prix",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Mercury #15 Whistler Radar Cougar XR-7",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Mercury Cougar Eliminator",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1986 Merkur #11 MAC Tools XR4Ti",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 MG MG6 XPower",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 MG #20 MG6 XPower",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "1966 MG MGB GT",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1958 MG MGA Twin-Cam",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 MINI John Cooper Works GP",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 MINI John Cooper Works GP",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 MINI Cooper S",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2008 Mitsubishi Lancer Evolution X GSR",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2006 Mitsubishi Lancer Evolution IX MR",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2005 Mitsubishi #1 Sierra Sierra Enterprises Lancer Evolution Time Attack",
+    "Category": "Forza Specials",
+    "Availability": "Showroom All",
+    "Released": "Update 20"
+  },
+  {
+    "Vehicle": "2004 Mitsubishi Lancer Evolution VIII MR",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1999 Mitsubishi Lancer Evolution VI GSR",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Mitsubishi FTO GP Version R",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Mitsubishi GTO",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Mitsubishi Lancer Evolution III GSR",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 10"
+  },
+  {
+    "Vehicle": "1995 Mitsubishi Eclipse GSX",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Mitsubishi Galant VR-4",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 NIO EP9",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2024 Nissan Z NISMO",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Reward",
+    "Released": "Update 20"
+  },
+  {
+    "Vehicle": "2023 Nissan Z",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Nissan GT-R NISMO (R35)",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Nissan 370Z Nismo",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Nissan Sentra NISMO",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Nissan Altima Racecar",
+    "Category": "Forza AUS",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Nissan GT-R (R35)",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Nissan #23 GT-R LM NISMO",
+    "Category": "Forza P1",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Nissan Fairlady Z",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Nissan Skyline GT-R V-Spec II",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2000 Nissan Silvia Spec-R",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1999 Nissan #23 NISMO Clarion R391",
+    "Category": "Early LMP",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1998 Nissan R390 (GT1)",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Nissan Silvia K's Aero",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Nissan #23 Pennzoil NISMO Skyline GT-R",
+    "Category": "GTX Sportscars",
+    "Availability": "Reward",
+    "Released": "Update 11"
+  },
+  {
+    "Vehicle": "1997 Nissan Skyline GT-R V-Spec",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1994 Nissan Fairlady Z Version S Twin Turbo",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1994 Nissan Silvia K's",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Nissan Skyline GT-R V-Spec",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Nissan 240SX SE",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Nissan Silvia CLUB K's",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1991 Nissan #23 Nissan R91CP",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Nissan Pulsar GTi-R",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 Nissan #24 Nissan Motorsports International R88C",
+    "Category": "GTP/C",
+    "Availability": "Reward",
+    "Released": "Update 9"
+  },
+  {
+    "Vehicle": "1988 Nissan #33 Bob Sharp Racing 300ZX",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1987 Nissan Skyline GTS-R (HR31)",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1985 Nissan #83 GTP ZX-Turbo",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 Nissan #20 Bluebird Super Silhouette",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 Nissan #11 Tomica Skyline Turbo Super Silhouette",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1973 Nissan Skyline H/T 2000GT-R",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1971 Nissan Skyline 2000GT-R",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Nissan #21 Nissan Racing R382",
+    "Category": "Prototype Group Racing",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Nissan Fairlady Z 432",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Nissan R380 II",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Oldsmobile #75 Cutlass Supreme Trans Am",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "1969 Oldsmobile Hurst/Olds 442",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1979 Opel Kadett C GT/E",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Oreca #38 Performance Tech Motorsports Oreca 07",
+    "Category": "Forza P2",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2017 Oreca #38 Jackie Chan DC Racing Oreca 07",
+    "Category": "Forza P2",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2022 Pagani Huayra R",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Reward",
+    "Released": "Update 3"
+  },
+  {
+    "Vehicle": "2016 Pagani Huayra BC",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2009 Pagani Zonda Cinque Roadster",
+    "Category": "Modern Hypercars",
+    "Availability": "Reward",
+    "Released": "Update 6"
+  },
+  {
+    "Vehicle": "2018 Peugeot #7 DG Sport Compétition 308",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2011 Peugeot 308 GTI",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Peugeot #3 Peugeot Talbot Sport 905 EVO 1C",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 Peugeot 205 Turbo 16",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1971 Plymouth Cuda 426 HEMI",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1971 Plymouth GTX 426 HEMI",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2002 Pontiac Firebird Trans Am Ram Air",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1987 Pontiac Firebird Trans Am GTA",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1973 Pontiac Firebird Trans Am SD-455",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Pontiac GTO Judge",
+    "Category": "Street Drag Racers",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Pontiac Firebird Trans Am",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2024 Porsche #5 Porsche Penske Motorsport 963",
+    "Category": "Forza Proto-H",
+    "Availability": "Showroom DLC",
+    "Released": "Porsche 963 Combo"
+  },
+  {
+    "Vehicle": "2023 Porsche 911 Turbo S",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "2023 Porsche 911 GT3 R",
+    "Category": "Forza GT3",
+    "Availability": "Showroom All",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "2023 Porsche 911 GT3 RS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 18"
+  },
+  {
+    "Vehicle": "2022 Porsche 718 Cayman GT4 RS",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Reward",
+    "Released": "Update 5"
+  },
+  {
+    "Vehicle": "2021 Porsche Mission R",
+    "Category": "Mission R Spec",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Porsche 911 GT3",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Porsche Taycan Turbo S",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Porsche #70 Porsche Motorsport 935",
+    "Category": "Modern Factory Racecars",
+    "Availability": "Reward",
+    "Released": "Update 8"
+  },
+  {
+    "Vehicle": "2019 Porsche 911 GT3 RS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Porsche 911 Speedster",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Porsche 911 Carrera S",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Porsche 911 GT2 RS Forza Edition",
+    "Category": "Modern Sport GT",
+    "Availability": "Reward",
+    "Released": "Forza Loyalty"
+  },
+  {
+    "Vehicle": "2018 Porsche 911 GT2 RS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Porsche #73 Park Place Motorsports 911 GT3 R",
+    "Category": "Forza GT3",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2018 Porsche 718 Cayman GTS",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Porsche #2 Porsche Team 919 Hybrid",
+    "Category": "Forza P1",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Porsche #92 Porsche GT Team 911 RSR",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Porsche Panamera Turbo",
+    "Category": "Sport Luxury",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Porsche Cayman GT4",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "2016 Porsche 911 GT3 RS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 1"
+  },
+  {
+    "Vehicle": "2015 Porsche #91 Porsche Team Manthey 991 RSR",
+    "Category": "Forza GT2",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Porsche Cayman GTS",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Update 8"
+  },
+  {
+    "Vehicle": "2014 Porsche 918 Spyder",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2014 Porsche 911 Turbo S",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Update 5"
+  },
+  {
+    "Vehicle": "2012 Porsche 911 GT2 RS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2007 Porsche 911 GT3",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2004 Porsche 911 GT3",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Porsche Carrera GT",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Porsche 911 GT1 Strassenversion",
+    "Category": "Early Factory Racecars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Porsche 911 GT2",
+    "Category": "Sport GT Icons",
+    "Availability": "Reward",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Porsche 911 Turbo S Leichtbau",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Porsche 968 Turbo S",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Porsche 928 GTS",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1989 Porsche 944 Turbo",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1987 Porsche #203 Porsche AG 961",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "1987 Porsche #17 Porsche AG 962c",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1987 Porsche 959",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1983 Porsche #11 John Fitzpatrick Racing 956",
+    "Category": "GTP/C",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "1982 Porsche 911 Turbo 3.3",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1981 Porsche #1 Porsche System Engineering 924 GTP Le Mans",
+    "Category": "GTX Sportscars",
+    "Availability": "Reward",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "1980 Porsche 924 Carrera GTS",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1978 Porsche #78 MOMO 935/78",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "1978 Porsche #43 Porsche Racing 935/78",
+    "Category": "GTX Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "1974 Porsche #1 911 RSR",
+    "Category": "GTX Sportscars",
+    "Availability": "Reward",
+    "Released": "Update 5"
+  },
+  {
+    "Vehicle": "1973 Porsche 911 Carrera RS",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1971 Porsche #23 917/20",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Update 19"
+  },
+  {
+    "Vehicle": "1970 Porsche #3 917 LH",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1970 Porsche 914/6",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1960 Porsche 718 RS 60",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1957 Porsche 356A Speedster",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1955 Porsche 550 Spyder",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Radical RXC Turbo",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 RAESR Tachyon Speed",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Renault Megane R.S.",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Renault Clio R.S. 16 Concept",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2008 Renault Mégane R26.R",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Renault Sport Clio V6",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1993 Renault Clio Williams",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1980 Renault 5 Turbo",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1977 Renault #15 Equipe Renault Elf R.S. 01",
+    "Category": "Formula 70s",
+    "Availability": "Reward",
+    "Released": "Update 7"
+  },
+  {
+    "Vehicle": "1967 Renault 8 Gordini",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Rimac Nevera",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Rimac Concept Two",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Saleen S302 Black Label",
+    "Category": "Modern Sport Touring",
+    "Availability": "Reward",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "2018 Saleen S1",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Saleen S7 LM",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2004 Saleen S7",
+    "Category": "Exotic GT Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1967 Shelby GT 500",
+    "Category": "Vintage Muscle",
+    "Availability": "Showroom All",
+    "Released": "Update 13"
+  },
+  {
+    "Vehicle": "1965 Shelby Cobra Daytona Coupe",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1965 Shelby Cobra 427 S/C",
+    "Category": "Vintage Le Mans Sportscars",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1963 Shelby Monaco King Cobra",
+    "Category": "Vintage Le Mans Prototypes",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2016 Spania GTA GTA Spano",
+    "Category": "Modern Exotic GT",
+    "Availability": "Showroom All",
+    "Released": "Update 2"
+  },
+  {
+    "Vehicle": "2013 SRT Viper GTS",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2022 SUBARU BRZ",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 SUBARU STI S209 Forza Edition",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom DLC",
+    "Released": "VIP"
+  },
+  {
+    "Vehicle": "2019 SUBARU STI S209",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 SUBARU #1 Adrian Flux SUBARU Racing Levorg GT",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2015 SUBARU WRX STI",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2013 SUBARU BRZ",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2011 SUBARU WRX STI",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2008 SUBARU IMPREZA WRX STI",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2005 SUBARU IMPREZA WRX STi",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 10"
+  },
+  {
+    "Vehicle": "2004 SUBARU IMPREZA WRX STI",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 SUBARU Impreza 22B-STi Version",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 SUBARU LEGACY RS",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2024 Toyota NASCAR Next Gen Camry XSE",
+    "Category": "NASCAR",
+    "Availability": "Showroom All",
+    "Released": "Update 14"
+  },
+  {
+    "Vehicle": "2023 Toyota Camry TRD",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2022 Toyota GR86",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2021 Toyota GR Yaris",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Reward",
+    "Released": "Update 17"
+  },
+  {
+    "Vehicle": "2020 Toyota GR Supra",
+    "Category": "Modern Sport Coupe",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Toyota 86 TRD SE",
+    "Category": "Modern Sport Compact",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2014 Toyota #8 Toyota Racing TS040 HYBRID",
+    "Category": "Forza P1",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Toyota Celica Sport Specialty II",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1999 Toyota #3 Toyota Motorsports GT-ONE TS020",
+    "Category": "Early LMP",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Toyota Supra RZ",
+    "Category": "Sport GT Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Toyota Mark II Tourer V JZX100",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom DLC",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Vehicle": "1995 Toyota MR2 GT",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1994 Toyota Celica GT-Four ST205",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Toyota #99 All American Racers Toyota Eagle MkIII",
+    "Category": "GTP/C",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Toyota Celica GT-Four RC ST185",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Toyota Supra 2.0 GT",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1989 Toyota MR2 SC",
+    "Category": "Early Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1985 Toyota Sprinter Trueno GT Apex",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1984 Toyota #25 Horsepower Techs Starlet Time Attack",
+    "Category": "Forza Specials",
+    "Availability": "Showroom All",
+    "Released": "Update 20"
+  },
+  {
+    "Vehicle": "1974 Toyota Celica GT",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1974 Toyota Corolla SR5",
+    "Category": "Vintage Sport Compact",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1969 Toyota 2000GT",
+    "Category": "Sport Coupe Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 TVR Griffith",
+    "Category": "Modern Sport GT",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2015 Ultima Evolution Coupe 1020",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 Vauxhall #66 Power Maxed TAG Racing Astra",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom DLC",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Vehicle": "2016 Vauxhall Corsa VXR",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2012 Vauxhall Astra VXR",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2006 Vauxhall Astra VXR",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1990 Vauxhall Lotus Carlton",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2022 Volkswagen Golf R",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2021 Volkswagen Golf R",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2018 Volkswagen #22 Experion Racing Golf GTI",
+    "Category": "Forza Touring Cars",
+    "Availability": "Showroom DLC",
+    "Released": "Car Pass"
+  },
+  {
+    "Vehicle": "2014 Volkswagen Golf R",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2003 Volkswagen Golf R32",
+    "Category": "Modern Hot Hatch",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1998 Volkswagen Gti VR6 Mk3",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1995 Volkswagen Corrado VR6",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1992 Volkswagen Golf Gti 16v Mk2",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1988 Volkswagen Scirocco 16v",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1983 Volkswagen Golf GTI",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1981 Volkswagen Scirocco S",
+    "Category": "Hot Hatch Icons",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "1997 Volvo 850 R",
+    "Category": "Sport Touring Classics",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2017 VUHL 05RR",
+    "Category": "Track Toys",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2020 Xpeng P7",
+    "Category": "Modern Sport Touring",
+    "Availability": "Showroom All",
+    "Released": "Base"
+  },
+  {
+    "Vehicle": "2019 Zenvo TSR-S",
+    "Category": "Modern Hypercars",
+    "Availability": "Showroom All"
+  }
+]

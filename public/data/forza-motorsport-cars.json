@@ -1,0 +1,4769 @@
+[
+  {
+    "Year": "2017",
+    "Make": "Abarth",
+    "Model": "124 Spider",
+    "Category": "Modern Sport Compact",
+    "Released": "Update 4"
+  },
+  {
+    "Year": "2022",
+    "Make": "Acura",
+    "Model": "NSX Type S",
+    "Category": "Modern Sport GT",
+    "Released": "Update 20"
+  },
+  {
+    "Year": "2020",
+    "Make": "Acura",
+    "Model": "#6 ARX-05 DPi",
+    "Category": "Forza Proto-H",
+    "Released": "Update 1"
+  },
+  {
+    "Year": "2018",
+    "Make": "Acura",
+    "Model": "#36 NSX GT3",
+    "Category": "Forza GT3",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2017",
+    "Make": "Acura",
+    "Model": "NSX",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2001",
+    "Make": "Acura",
+    "Model": "Integra Type R",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Alfa Romeo",
+    "Model": "Giulia Quadrifoglio",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 4"
+  },
+  {
+    "Year": "2014",
+    "Make": "Alfa Romeo",
+    "Model": "4C",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 6"
+  },
+  {
+    "Year": "2011",
+    "Make": "Alfa Romeo",
+    "Model": "Giulietta Quadrifoglio Verde",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "Alfa Romeo",
+    "Model": "Giulia Sprint GTA Stradale",
+    "Category": "Vintage Sport Compact",
+    "Released": "Update 4"
+  },
+  {
+    "Year": "2017",
+    "Make": "Alpine",
+    "Model": "A110",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Alpine",
+    "Model": "GTA Le Mans",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1971",
+    "Make": "AMC",
+    "Model": "Javelin AMX",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "AMC",
+    "Model": "Rebel The Machine",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Apollo",
+    "Model": "Intensa Emozione",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Ariel",
+    "Model": "Atom 500 V8",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Aston Martin",
+    "Model": "Valkyrie",
+    "Category": "Modern Hypercars",
+    "Released": "Update 3"
+  },
+  {
+    "Year": "2022",
+    "Make": "Aston Martin",
+    "Model": "Valkyrie AMR Pro",
+    "Category": "Modern Factory Racecars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2019",
+    "Make": "Aston Martin",
+    "Model": "Valhalla Concept Car",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Aston Martin",
+    "Model": "DBS Superleggera",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Aston Martin",
+    "Model": "Vantage",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Aston Martin",
+    "Model": "#97 AMR Vantage GTE",
+    "Category": "Forza GT2",
+    "Released": "Update 11"
+  },
+  {
+    "Year": "2017",
+    "Make": "Aston Martin",
+    "Model": "Vulcan AMR Pro",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Aston Martin",
+    "Model": "#7 Aston Martin Racing V12 Vantage GT3",
+    "Category": "Forza GT3",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Aston Martin",
+    "Model": "Vanquish Zagato Coupe",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Aston Martin",
+    "Model": "Vulcan",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Aston Martin",
+    "Model": "Vantage GT12",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Aston Martin",
+    "Model": "V12 Vantage S",
+    "Category": "Modern Sport GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2008",
+    "Make": "Aston Martin",
+    "Model": "DBS",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2001",
+    "Make": "Aston Martin",
+    "Model": "V12 Vanquish",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Aston Martin",
+    "Model": "V8 Vantage V600",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1989",
+    "Make": "Aston Martin",
+    "Model": "#18 Aston Martin AMR1",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Aston Martin",
+    "Model": "DBS",
+    "Category": "Vintage Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "1964",
+    "Make": "Aston Martin",
+    "Model": "DB5",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1960",
+    "Make": "Aston Martin",
+    "Model": "DB4 GT Zagato",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1958",
+    "Make": "Aston Martin",
+    "Model": "DBR1",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Audi",
+    "Model": "RS e-tron GT",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Audi",
+    "Model": "RS 6 Avant",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Audi",
+    "Model": "RS 7 Sportback",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Audi",
+    "Model": "R8 V10 performance",
+    "Category": "Modern Sport GT",
+    "Released": "Update 1"
+  },
+  {
+    "Year": "2020",
+    "Make": "Audi",
+    "Model": "TT RS Coupe",
+    "Category": "Modern Sport Coupe",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2020",
+    "Make": "Audi",
+    "Model": "RS 3 Sedan",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Audi",
+    "Model": "#44 R8 LMS GT3",
+    "Category": "Forza GT3",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2018",
+    "Make": "Audi",
+    "Model": "#1 Audi Sport RS 3 LMS",
+    "Category": "Forza Touring Cars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Audi",
+    "Model": "TT RS",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Audi",
+    "Model": "RS 5 Coupe",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Audi",
+    "Model": "RS 4 Avant",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Audi",
+    "Model": "#17 Rotek Racing TT RS",
+    "Category": "Forza GT4",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Audi",
+    "Model": "R8 V10 plus",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Audi",
+    "Model": "RS 6 Avant",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Audi",
+    "Model": "S1",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Audi",
+    "Model": "#2 Audi Team Joest R18 e-tron quattro",
+    "Category": "Forza P1",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Audi",
+    "Model": "R8 Coupé V10 plus 5.2 FSI quattro",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Audi",
+    "Model": "RS 7 Sportback",
+    "Category": "Sport Luxury",
+    "Released": "Update 5"
+  },
+  {
+    "Year": "2013",
+    "Make": "Audi",
+    "Model": "RS 4 Avant",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Audi",
+    "Model": "RS 3 Sportback",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2010",
+    "Make": "Audi",
+    "Model": "R8 Coupé 5.2 FSI quattro",
+    "Category": "Modern Sport GT",
+    "Released": "Update 20"
+  },
+  {
+    "Year": "2006",
+    "Make": "Audi",
+    "Model": "RS 4",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2004",
+    "Make": "Audi",
+    "Model": "S4",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Audi",
+    "Model": "RS 6",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2001",
+    "Make": "Audi",
+    "Model": "RS 4 Avant",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Audi",
+    "Model": "Avant RS 2",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1989",
+    "Make": "Audi",
+    "Model": "#4 Audi 90 quattro IMSA GTO",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "Audi",
+    "Model": "Sport quattro",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "Austin-Healey",
+    "Model": "3000 MkIII",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1939",
+    "Make": "Auto Union",
+    "Model": "Type D",
+    "Category": "The Birth of Grand Prix",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Automobili Pininfarina",
+    "Model": "Battista",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "BAC",
+    "Model": "Mono",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Bentley",
+    "Model": "Continental Supersports",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Bentley",
+    "Model": "#17 M-Sport Bentley Continental GT3",
+    "Category": "Forza GT3",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Bentley",
+    "Model": "#7 Team Bentley Speed 8",
+    "Category": "Early LMP",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "BMW",
+    "Model": "#25 BMW Team RLL M Hybrid V8",
+    "Category": "Forza Proto-H",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2023",
+    "Make": "BMW",
+    "Model": "#96 Turner Motorsports M4 GT3",
+    "Category": "Forza GT3",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2023",
+    "Make": "BMW",
+    "Model": "M2",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 5"
+  },
+  {
+    "Year": "2021",
+    "Make": "BMW",
+    "Model": "M3 Competition Sedan",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "BMW",
+    "Model": "M4 Competition Coupé",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "BMW",
+    "Model": "M8 Competition Coupé",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "BMW",
+    "Model": "M2 Competition Coupé",
+    "Category": "Modern Sport Coupe",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2019",
+    "Make": "BMW",
+    "Model": "Z4 Roadster",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "BMW",
+    "Model": "#1 BMW M Motorsport M8 GTE",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "BMW",
+    "Model": "M5",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "BMW",
+    "Model": "#24 BMW Team RLL M6 GTLM",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "BMW",
+    "Model": "M4 GTS",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "BMW",
+    "Model": "i8",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "BMW",
+    "Model": "M4 Coupé",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2013",
+    "Make": "BMW",
+    "Model": "M6 Coupé",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "BMW",
+    "Model": "M5",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "BMW",
+    "Model": "1 Series M Coupé",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 8"
+  },
+  {
+    "Year": "2010",
+    "Make": "BMW",
+    "Model": "M3 GTS",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2010",
+    "Make": "BMW",
+    "Model": "M6 Coupé",
+    "Category": "Sport Luxury",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2009",
+    "Make": "BMW",
+    "Model": "M5",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2008",
+    "Make": "BMW",
+    "Model": "M3",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2005",
+    "Make": "BMW",
+    "Model": "M3",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "BMW",
+    "Model": "M5",
+    "Category": "Sport Touring Classics",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2002",
+    "Make": "BMW",
+    "Model": "M3-GTR",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "BMW",
+    "Model": "Z3 M Coupé",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2000",
+    "Make": "BMW",
+    "Model": "323ti Sport",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1999",
+    "Make": "BMW",
+    "Model": "#16 BMW V12 LMR",
+    "Category": "Early LMP",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "1999",
+    "Make": "BMW",
+    "Model": "#15 BMW Motorsport V12 LMR",
+    "Category": "Early LMP",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "BMW",
+    "Model": "M3",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "BMW",
+    "Model": "850CSi",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "BMW",
+    "Model": "M3",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "BMW",
+    "Model": "M5",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1986",
+    "Make": "BMW",
+    "Model": "M635 CSi",
+    "Category": "Sport Touring Classics",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "1981",
+    "Make": "BMW",
+    "Model": "M1",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1979",
+    "Make": "BMW",
+    "Model": "#6 BMW Motorsport M1 Procar",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1976",
+    "Make": "BMW",
+    "Model": "#1 BMW 3.0 CSL",
+    "Category": "GTX Sportscars",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "1975",
+    "Make": "BMW",
+    "Model": "#25 BMW Motorsport 3.0 CSL",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "BMW",
+    "Model": "2002 Turbo",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Brabham",
+    "Model": "BT62",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Brabham",
+    "Model": "BT24",
+    "Category": "Formula 60s",
+    "Released": "Base"
+  },
+  {
+    "Year": "1964",
+    "Make": "Brabham",
+    "Model": "BT8",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Update 7"
+  },
+  {
+    "Year": "1974",
+    "Make": "BRM",
+    "Model": "#14 Team Motul P201",
+    "Category": "Formula 70s",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2019",
+    "Make": "Bugatti",
+    "Model": "Divo",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Bugatti",
+    "Model": "Chiron",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Bugatti",
+    "Model": "Veyron Super Sport",
+    "Category": "Modern Hypercars",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "1992",
+    "Make": "Bugatti",
+    "Model": "EB110 Super Sport",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1926",
+    "Make": "Bugatti",
+    "Model": "Type 35 C",
+    "Category": "The Birth of Grand Prix",
+    "Released": "Base"
+  },
+  {
+    "Year": "1987",
+    "Make": "Buick",
+    "Model": "Regal GNX",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1985",
+    "Make": "Buick",
+    "Model": "#6 Performance Motorsports Somerset Regal Trans-Am",
+    "Category": "GTX Sportscars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1970",
+    "Make": "Buick",
+    "Model": "GSX",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Cadillac",
+    "Model": "#31 Whelen Engineering Cadillac Racing V-Series.R",
+    "Category": "Forza Proto-H",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Cadillac",
+    "Model": "#2 Cadillac Racing V-Series.R",
+    "Category": "Forza Proto-H",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Cadillac",
+    "Model": "#01 Cadillac Racing V-Series.R",
+    "Category": "Forza Proto-H",
+    "Released": "Base"
+  },
+  {
+    "Year": "2022",
+    "Make": "Cadillac",
+    "Model": "CT5-V Blackwing",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2022",
+    "Make": "Cadillac",
+    "Model": "CT4-V Blackwing",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Cadillac",
+    "Model": "#31 Whelen Racing DPi-V.R",
+    "Category": "Forza Proto-H",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2018",
+    "Make": "Cadillac",
+    "Model": "#57 TA CTS-V",
+    "Category": "Forza T/A",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2016",
+    "Make": "Cadillac",
+    "Model": "CTS-V Sedan",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Cadillac",
+    "Model": "ATS-V",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Cadillac",
+    "Model": "#3 Cadillac Racing ATS-V.R",
+    "Category": "Forza GT3",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2014",
+    "Make": "Cadillac",
+    "Model": "CTS-V Sport Wagon",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2013",
+    "Make": "Caterham",
+    "Model": "Superlight R500",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "1966",
+    "Make": "Chaparral",
+    "Model": "#66 Chaparral Cars 2E",
+    "Category": "Prototype Group Racing",
+    "Released": "Base"
+  },
+  {
+    "Year": "2025",
+    "Make": "Chevrolet",
+    "Model": "IndyCar",
+    "Category": "IndyCar",
+    "Released": "Update 21"
+  },
+  {
+    "Year": "2024",
+    "Make": "Chevrolet",
+    "Model": "NASCAR Next Gen Camaro ZL1",
+    "Category": "NASCAR",
+    "Released": "Update 14"
+  },
+  {
+    "Year": "2024",
+    "Make": "Chevrolet",
+    "Model": "Corvette E-Ray",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Chevrolet",
+    "Model": "Corvette Z06",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Chevrolet",
+    "Model": "#3 Corvette Racing C8.R",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Chevrolet",
+    "Model": "Corvette Stingray Coupe Forza Edition",
+    "Category": "Modern Sport GT",
+    "Released": "VIP"
+  },
+  {
+    "Year": "2020",
+    "Make": "Chevrolet",
+    "Model": "Corvette Stingray Coupe",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Chevrolet",
+    "Model": "Corvette ZR1",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Chevrolet",
+    "Model": "#23 Ruman Racing TA Corvette",
+    "Category": "Forza T/A",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2018",
+    "Make": "Chevrolet",
+    "Model": "Camaro ZL1 1LE Forza Edition",
+    "Category": "Modern Sport Touring",
+    "Released": "VIP"
+  },
+  {
+    "Year": "2018",
+    "Make": "Chevrolet",
+    "Model": "Camaro ZL1 1LE",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Chevrolet",
+    "Model": "Camaro ZL1",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Chevrolet",
+    "Model": "Camaro Super Sport",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Chevrolet",
+    "Model": "#10 Konica Minolta Corvette Daytona Prototype",
+    "Category": "Forza P2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Chevrolet",
+    "Model": "Corvette Z06",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Chevrolet",
+    "Model": "#3 Corvette Racing Corvette C7.R",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2010",
+    "Make": "Chevrolet",
+    "Model": "#55 Level 5 Motorsports Oreca FLM09",
+    "Category": "Forza P2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2009",
+    "Make": "Chevrolet",
+    "Model": "Corvette ZR1",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Chevrolet",
+    "Model": "Corvette Z06",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Chevrolet",
+    "Model": "Camaro 35th Anniversary Super Sport",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Chevrolet",
+    "Model": "Corvette ZR-1",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Chevrolet",
+    "Model": "Camaro IROC-Z",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "Chevrolet",
+    "Model": "Monte Carlo Super Sport",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "Chevrolet",
+    "Model": "#77 Beretta Trans Am",
+    "Category": "GTX Sportscars",
+    "Released": "Update 14"
+  },
+  {
+    "Year": "1976",
+    "Make": "Chevrolet",
+    "Model": "#76 Greenwood Corvette",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Chevrolet",
+    "Model": "Corvette ZR-1",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Chevrolet",
+    "Model": "Chevelle Super Sport 454",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Chevrolet",
+    "Model": "Camaro Z28",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Chevrolet",
+    "Model": "Nova Super Sport 396",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Chevrolet",
+    "Model": "Camaro Jordan Luka 3 Motorsport Edition",
+    "Category": "Vintage Muscle",
+    "Released": "Update 12"
+  },
+  {
+    "Year": "1969",
+    "Make": "Chevrolet",
+    "Model": "Camaro Super Sport Coupe",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Chevrolet",
+    "Model": "Corvette Stingray 427",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1964",
+    "Make": "Chevron",
+    "Model": "B16",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Update 9"
+  },
+  {
+    "Year": "1972",
+    "Make": "Chrysler",
+    "Model": "VH Valiant Charger R/T E49",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "",
+    "Model": "Citroën DS 3 Racing",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1979",
+    "Make": "Datsun",
+    "Model": "#33 280ZX Turbo",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Datsun",
+    "Model": "510",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Datsun",
+    "Model": "2000 Roadster",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "De Tomaso",
+    "Model": "Pantera GT5",
+    "Category": "Vintage Exotic GT",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Year": "2019",
+    "Make": "Dodge",
+    "Model": "#9 American V8 Road Racing TA Challenger",
+    "Category": "Forza T/A",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2018",
+    "Make": "Dodge",
+    "Model": "Challenger SRT Demon",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Dodge",
+    "Model": "Viper ACR",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Dodge",
+    "Model": "Charger SRT Hellcat",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Dodge",
+    "Model": "#93 SRT Motorsports Viper GTS-R",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Dodge",
+    "Model": "Dart GT",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Dodge",
+    "Model": "Challenger SRT8",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2008",
+    "Make": "Dodge",
+    "Model": "Viper SRT10 ACR",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2005",
+    "Make": "Dodge",
+    "Model": "SRT-4 ACR",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1999",
+    "Make": "Dodge",
+    "Model": "Viper GTS ACR",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1996",
+    "Make": "Dodge",
+    "Model": "Stealth R/T Turbo",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1986",
+    "Make": "Dodge",
+    "Model": "Shelby Omni GLHS",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Dodge",
+    "Model": "Coronet Super Bee",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Dodge",
+    "Model": "Challenger R/T",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Dodge",
+    "Model": "Charger Daytona HEMI",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Dodge",
+    "Model": "Charger R/T",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Donkervoort",
+    "Model": "D8 GTO",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Eagle Talon",
+    "Model": "TSi Turbo",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Eagle-Weslake",
+    "Model": "T1G",
+    "Category": "Formula 60s",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Elemental",
+    "Model": "RP1",
+    "Category": "Track Toys",
+    "Released": "Update 8"
+  },
+  {
+    "Year": "2018",
+    "Make": "Exomotive",
+    "Model": "Exocet Sport V8 XP-5",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2022",
+    "Make": "Ferrari",
+    "Model": "296 GTB",
+    "Category": "Modern Sport GT",
+    "Released": "Update 3"
+  },
+  {
+    "Year": "2020",
+    "Make": "Ferrari",
+    "Model": "SF90 Stradale",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Ferrari",
+    "Model": "Roma",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ferrari",
+    "Model": "#62 Risi Competizione 488 GTE",
+    "Category": "Forza GT2",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ferrari",
+    "Model": "488 Pista",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ferrari",
+    "Model": "F8 Tributo",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ferrari",
+    "Model": "Monza SP2",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Ferrari",
+    "Model": "FXX-K Evo",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Ferrari",
+    "Model": "Portofino",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Ferrari",
+    "Model": "#25 Corse Clienti 488 Challenge",
+    "Category": "488 Challenge Spec",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Ferrari",
+    "Model": "812 Superfast",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Ferrari",
+    "Model": "J50",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Ferrari",
+    "Model": "F12tdf",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Ferrari",
+    "Model": "488 GTB",
+    "Category": "Modern Sport GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2014",
+    "Make": "Ferrari",
+    "Model": "FXX K",
+    "Category": "Modern Factory Racecars",
+    "Released": "Update 1"
+  },
+  {
+    "Year": "2014",
+    "Make": "Ferrari",
+    "Model": "California T",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Ferrari",
+    "Model": "LaFerrari",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Ferrari",
+    "Model": "458 Speciale",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Ferrari",
+    "Model": "599XX Evolution",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Ferrari",
+    "Model": "#62 Risi Competizione F458 Italia GTC",
+    "Category": "Forza GT3",
+    "Released": "Update 11"
+  },
+  {
+    "Year": "2010",
+    "Make": "Ferrari",
+    "Model": "599XX",
+    "Category": "Modern Factory Racecars",
+    "Released": "Update 6"
+  },
+  {
+    "Year": "2009",
+    "Make": "Ferrari",
+    "Model": "458 Italia",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2007",
+    "Make": "Ferrari",
+    "Model": "430 Scuderia",
+    "Category": "Modern Sport GT",
+    "Released": "Update 4"
+  },
+  {
+    "Year": "2003",
+    "Make": "Ferrari",
+    "Model": "360 Challenge Stradale",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Ferrari",
+    "Model": "Enzo Ferrari",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Ferrari",
+    "Model": "575M Maranello",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Ferrari",
+    "Model": "#12 Risi Competizione F333 SP",
+    "Category": "Early LMP",
+    "Released": "Base"
+  },
+  {
+    "Year": "1996",
+    "Make": "Ferrari",
+    "Model": "F50 GT",
+    "Category": "Early Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Ferrari",
+    "Model": "F50",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1994",
+    "Make": "Ferrari",
+    "Model": "F355 Berlinetta",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Ferrari",
+    "Model": "512 TR",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Ferrari",
+    "Model": "#1 Scuderia Ferrari 641",
+    "Category": "Grand Prix Rivals",
+    "Released": "Base"
+  },
+  {
+    "Year": "1989",
+    "Make": "Ferrari",
+    "Model": "F40 Competizione",
+    "Category": "Early Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1987",
+    "Make": "Ferrari",
+    "Model": "F40",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "Ferrari",
+    "Model": "288 GTO",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1982",
+    "Make": "Ferrari",
+    "Model": "#72 N.A.R.T. 512 BB/LM",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1976",
+    "Make": "Ferrari",
+    "Model": "#1 Scuderia Ferrari 312 T2",
+    "Category": "Formula 70s",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Ferrari",
+    "Model": "512 S",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Ferrari",
+    "Model": "Dino 246 GT",
+    "Category": "Vintage Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Ferrari",
+    "Model": "#24 Ferrari Spa 330 P4",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "1964",
+    "Make": "Ferrari",
+    "Model": "F-158",
+    "Category": "Formula 60s",
+    "Released": "Base"
+  },
+  {
+    "Year": "1963",
+    "Make": "Ferrari",
+    "Model": "250LM",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1962",
+    "Make": "Ferrari",
+    "Model": "250 GTO",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1962",
+    "Make": "Ferrari",
+    "Model": "250 GT Berlinetta Lusso",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1957",
+    "Make": "Ferrari",
+    "Model": "250 Testa Rossa",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1953",
+    "Make": "Ferrari",
+    "Model": "500 Mondial",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1948",
+    "Make": "Ferrari",
+    "Model": "166 Inter Sport",
+    "Category": "The Birth of Grand Prix",
+    "Released": "Base"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "NASCAR Next Gen Mustang Dark Horse",
+    "Category": "NASCAR",
+    "Released": "Update 14"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "#25 Mustang RTR",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "#88 Mustang RTR",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "#124 Mustang RTR",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "Mustang Dark Horse",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 13 Car Pass"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "Mustang GT",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2024",
+    "Make": "Ford",
+    "Model": "Mustang GT3",
+    "Category": "Forza GT3",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Year": "2020",
+    "Make": "Ford",
+    "Model": "Mustang Shelby GT500",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Ford",
+    "Model": "#98 Breathless Pro Racing TA Mustang",
+    "Category": "Forza T/A",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2018",
+    "Make": "Ford",
+    "Model": "Mustang GT",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Ford",
+    "Model": "GT",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Ford",
+    "Model": "#17 Shell V-Power Racing Team Falcon FG X",
+    "Category": "Forza AUS",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Ford",
+    "Model": "Focus RS",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Ford",
+    "Model": "#66 Ford Racing GT Le Mans",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Ford",
+    "Model": "Shelby GT-350R",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Ford",
+    "Model": "#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype",
+    "Category": "Forza P2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Ford",
+    "Model": "Falcon GT F 351",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Ford",
+    "Model": "FPV Limited Edition Pursuit Ute",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "2014",
+    "Make": "Ford",
+    "Model": "#17 AMD Tuning Focus ST BTCC",
+    "Category": "Forza Touring Cars",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2013",
+    "Make": "Ford",
+    "Model": "Shelby GT500",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2009",
+    "Make": "Ford",
+    "Model": "Focus RS",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2005",
+    "Make": "Ford",
+    "Model": "Ford GT",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Ford",
+    "Model": "Focus RS",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2000",
+    "Make": "Ford",
+    "Model": "SVT Cobra R",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1999",
+    "Make": "Ford",
+    "Model": "Racing Puma",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Ford",
+    "Model": "Mustang SVT Cobra R",
+    "Category": "Sport Touring Classics",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "1993",
+    "Make": "Ford",
+    "Model": "SVT Cobra R",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Ford",
+    "Model": "Escort RS Cosworth",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Ford",
+    "Model": "Falcon GT",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "Ford",
+    "Model": "#15 Roush Racing Whistler Mustang",
+    "Category": "GTX Sportscars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1987",
+    "Make": "Ford",
+    "Model": "Sierra Cosworth RS500",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1986",
+    "Make": "Ford",
+    "Model": "Mustang SVO",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1986",
+    "Make": "Ford",
+    "Model": "Escort RS Turbo",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1982",
+    "Make": "Ford",
+    "Model": "#6 Zakspeed Roush Mustang IMSA GT",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1981",
+    "Make": "Ford",
+    "Model": "#2 Zakspeed Racing Capri Turbo",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1981",
+    "Make": "Ford",
+    "Model": "Fiesta XR2",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1977",
+    "Make": "Ford",
+    "Model": "Escort RS1800",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "Ford",
+    "Model": "XB Falcon GT",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "Ford",
+    "Model": "Escort RS1600",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1972",
+    "Make": "Ford",
+    "Model": "Falcon XA GT-HO",
+    "Category": "Vintage Muscle",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "1970",
+    "Make": "Ford",
+    "Model": "#15 Mustang Boss 302 Trans Am",
+    "Category": "Vintage Trans Am",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "1969",
+    "Make": "Ford",
+    "Model": "Mustang Boss 302",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1968",
+    "Make": "Ford",
+    "Model": "Mustang GT 2+2 Fastback",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1966",
+    "Make": "Ford",
+    "Model": "#2 GT40 MkII Le Mans",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "1966",
+    "Make": "Ford",
+    "Model": "Lotus Cortina",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "Ford",
+    "Model": "Mustang GT Coupe",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1964",
+    "Make": "Ford",
+    "Model": "GT40 Mk I",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Formula Drift",
+    "Model": "#91 BMW M2",
+    "Category": "Formula Drift",
+    "Released": "Update 16"
+  },
+  {
+    "Year": "2020",
+    "Make": "Formula Drift",
+    "Model": "#151 Toyota GR Supra",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2016",
+    "Make": "Formula Drift",
+    "Model": "#530 HSV Maloo Gen-F",
+    "Category": "Formula Drift",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "2015",
+    "Make": "Formula Drift",
+    "Model": "#13 Ford Mustang",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2006",
+    "Make": "Formula Drift",
+    "Model": "#43 Dodge Viper SRT10",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2001",
+    "Make": "Formula Drift",
+    "Model": "#215 Nissan Silvia Spec-R",
+    "Category": "Formula Drift",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Year": "1995",
+    "Make": "Formula Drift",
+    "Model": "#34 Toyota Supra MxIV",
+    "Category": "Formula Drift",
+    "Released": "Update 20"
+  },
+  {
+    "Year": "1997",
+    "Make": "Formula Drift",
+    "Model": "#777 Nissan 240SX",
+    "Category": "Formula Drift",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "1975",
+    "Make": "",
+    "Model": "Forsberg Racing Nissan ‘Gold Leader’ Datsun 280Z",
+    "Category": "Formula Drift",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ginetta",
+    "Model": "#6 Team LNT Ginetta G60-LT-P1",
+    "Category": "Forza P1",
+    "Released": "Update 1"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ginetta",
+    "Model": "G55 GT4",
+    "Category": "Forza GT4",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2019",
+    "Make": "Ginetta",
+    "Model": "G40 Junior",
+    "Category": "G40 Junior Spec",
+    "Released": "Update 8"
+  },
+  {
+    "Year": "2022",
+    "Make": "Gordon Murray Automotive",
+    "Model": "T.50",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2019",
+    "Make": "Hennessey",
+    "Model": "Camaro Exorcist",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 14"
+  },
+  {
+    "Year": "1985",
+    "Make": "HDT",
+    "Model": "VK Commodore Group A",
+    "Category": "Sport Touring Classics",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "2017",
+    "Make": "Holden",
+    "Model": "#22 Walkinshaw Performance VF Commodore",
+    "Category": "Forza AUS",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Holden",
+    "Model": "#10 Holden Xbox Racing Team Commodore VF",
+    "Category": "Forza AUS",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "1991",
+    "Make": "Holden",
+    "Model": "HSV Commodore Group A SV",
+    "Category": "Sport Touring Classics",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "1988",
+    "Make": "Holden",
+    "Model": "VL Commodore Group A SV",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1977",
+    "Make": "Holden",
+    "Model": "Torana A9X",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "Holden",
+    "Model": "HQ Monaro GTS 350",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1968",
+    "Make": "Holden",
+    "Model": "Monaro GTS 327",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "2025",
+    "Make": "Honda",
+    "Model": "IndyCar",
+    "Category": "IndyCar",
+    "Released": "Update 21"
+  },
+  {
+    "Year": "2020",
+    "Make": "Honda",
+    "Model": "#73 LA Honda World Racing Civic",
+    "Category": "Forza Touring Cars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Honda",
+    "Model": "Civic Type R",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2009",
+    "Make": "Honda",
+    "Model": "S2000 CR",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2005",
+    "Make": "Honda",
+    "Model": "NSX-R",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2004",
+    "Make": "Honda",
+    "Model": "Civic Type R",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2000",
+    "Make": "Honda",
+    "Model": "Prelude Type SH",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Honda",
+    "Model": "Civic Type R",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Honda",
+    "Model": "NSX-R",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "Honda",
+    "Model": "CR-X SiR",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Honda",
+    "Model": "S800",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Honda",
+    "Model": "RA300",
+    "Category": "Formula 60s",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "HSV",
+    "Model": "Limited Edition Gen-F GTS Maloo",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "2014",
+    "Make": "HSV",
+    "Model": "GEN-F GTS",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "HSV",
+    "Model": "GTS",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 15"
+  },
+  {
+    "Year": "1996",
+    "Make": "HSV",
+    "Model": "GTSR",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Hyundai",
+    "Model": "IONIQ 5 N",
+    "Category": "Modern Hot Hatch",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2022",
+    "Make": "Hyundai",
+    "Model": "Elantra N",
+    "Category": "Modern Sport Compact",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2021",
+    "Make": "Hyundai",
+    "Model": "#98 Bryan Herta Autosport Elantra N",
+    "Category": "Forza Touring Cars",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2021",
+    "Make": "Hyundai",
+    "Model": "i20 N",
+    "Category": "Modern Hot Hatch",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2020",
+    "Make": "Hyundai",
+    "Model": "i30 N",
+    "Category": "Modern Hot Hatch",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2020",
+    "Make": "Hyundai",
+    "Model": "#98 Bryan Herta Autosport Veloster N",
+    "Category": "Forza Touring Cars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Hyundai",
+    "Model": "Veloster N Forza Edition",
+    "Category": "Modern Hot Hatch",
+    "Released": "VIP"
+  },
+  {
+    "Year": "2019",
+    "Make": "Hyundai",
+    "Model": "Veloster N",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Infiniti",
+    "Model": "Q50 Eau Rouge",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Infiniti",
+    "Model": "IPL G Coupe",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Infiniti",
+    "Model": "G35 Coupe",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Jaguar",
+    "Model": "F-TYPE R Coupé",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Jaguar",
+    "Model": "XKR-S GT",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Jaguar",
+    "Model": "XFR-S",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Jaguar",
+    "Model": "XJ220S TWR",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Jaguar",
+    "Model": "XJ220",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "Jaguar",
+    "Model": "Sport XJR-15",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "Jaguar",
+    "Model": "#1 Jaguar Racing XJR-9",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1983",
+    "Make": "Jaguar",
+    "Model": "#44 Group 44 XJR-5",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1961",
+    "Make": "Jaguar",
+    "Model": "E-type",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1959",
+    "Make": "Jaguar",
+    "Model": "Mk II 3.8",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1956",
+    "Make": "Jaguar",
+    "Model": "D-Type",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Koenigsegg",
+    "Model": "Jesko",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Koenigsegg",
+    "Model": "Agera RS",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Koenigsegg",
+    "Model": "One:1",
+    "Category": "Modern Hypercars",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2020",
+    "Make": "KTM",
+    "Model": "X-Bow GT2",
+    "Category": "Modern Factory Racecars",
+    "Released": "Update 1"
+  },
+  {
+    "Year": "2018",
+    "Make": "KTM",
+    "Model": "X-Bow GT4",
+    "Category": "Forza GT4",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "KTM",
+    "Model": "X-Bow R",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2024",
+    "Make": "Lamborghini",
+    "Model": "SC63",
+    "Category": "Forza Proto-H",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2024",
+    "Make": "Lamborghini",
+    "Model": "Revuelto",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2022",
+    "Make": "Lamborghini",
+    "Model": "Huracán EVO Spyder",
+    "Category": "Modern Sport GT",
+    "Released": "Update 12"
+  },
+  {
+    "Year": "2021",
+    "Make": "Lamborghini",
+    "Model": "Countach LPI 800-4",
+    "Category": "Modern Hypercars",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lamborghini",
+    "Model": "Essenza SCV12",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lamborghini",
+    "Model": "Huracán STO",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lamborghini",
+    "Model": "Huracán EVO",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Lamborghini",
+    "Model": "Sián FKP 37",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Lamborghini",
+    "Model": "#63 Squadra Corse Huracán Super Trofeo Evo",
+    "Category": "Super Trofeo",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2018",
+    "Make": "Lamborghini",
+    "Model": "Aventador SVJ",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Lamborghini",
+    "Model": "Huracán Performante",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Lamborghini",
+    "Model": "Centenario LP 770-4",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Lamborghini",
+    "Model": "Aventador Superveloce",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2015",
+    "Make": "Lamborghini",
+    "Model": "#63 Squadra Corse Huracan LP620-2 Super Trofeo",
+    "Category": "Super Trofeo",
+    "Released": "Update 3"
+  },
+  {
+    "Year": "2014",
+    "Make": "Lamborghini",
+    "Model": "Huracán LP 610-4",
+    "Category": "Modern Sport GT",
+    "Released": "Update 6"
+  },
+  {
+    "Year": "2013",
+    "Make": "Lamborghini",
+    "Model": "Veneno",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Lamborghini",
+    "Model": "Aventador J",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Lamborghini",
+    "Model": "Sesto Elemento",
+    "Category": "Modern Sport GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2011",
+    "Make": "Lamborghini",
+    "Model": "Gallardo LP 570-4 Superleggera",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2010",
+    "Make": "Lamborghini",
+    "Model": "Murciélago LP 670-4 SV",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 4"
+  },
+  {
+    "Year": "2008",
+    "Make": "Lamborghini",
+    "Model": "Revénton",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 10"
+  },
+  {
+    "Year": "1999",
+    "Make": "Lamborghini",
+    "Model": "Diablo GTR",
+    "Category": "Early Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Lamborghini",
+    "Model": "Diablo SV",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "Lamborghini",
+    "Model": "Countach LP5000 QV",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "Lamborghini",
+    "Model": "Espada 400 GT",
+    "Category": "Vintage Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "1972",
+    "Make": "Lamborghini",
+    "Model": "Jarama S",
+    "Category": "Vintage Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Lamborghini",
+    "Model": "Miura P400",
+    "Category": "Vintage Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Lancia",
+    "Model": "Delta HF Integrale EVO",
+    "Category": "Hot Hatch Icons",
+    "Released": "Update 4"
+  },
+  {
+    "Year": "2021",
+    "Make": "Lexus",
+    "Model": "LC 500",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lexus",
+    "Model": "#14 VASSER SULLIVAN RC F GT3",
+    "Category": "Forza GT3",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lexus",
+    "Model": "RC F Track Edition",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Lexus",
+    "Model": "RC F",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Lexus",
+    "Model": "IS 350 F Sport",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Lexus",
+    "Model": "GS350 F Sport",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2010",
+    "Make": "Lexus",
+    "Model": "LFA",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Ligier",
+    "Model": "#11 Euro International JS P3",
+    "Category": "Forza P3",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1969",
+    "Make": "Lola",
+    "Model": "#10 Simoniz Special T163",
+    "Category": "Prototype Group Racing",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Lola",
+    "Model": "#6 Sunoco T70 MkIIIB",
+    "Category": "Prototype Group Racing",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "Lotus",
+    "Model": "Emira",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lotus",
+    "Model": "Evija",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Lotus",
+    "Model": "Evora GT430",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2016",
+    "Make": "Lotus",
+    "Model": "3-Eleven",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Lotus",
+    "Model": "Evora S",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Lotus",
+    "Model": "Esprit V8",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1986",
+    "Make": "Lotus",
+    "Model": "#12 Team Lotus 98T",
+    "Category": "Grand Prix Rivals",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1976",
+    "Make": "Lotus",
+    "Model": "#5 Team Lotus 77",
+    "Category": "Formula 70s",
+    "Released": "Base"
+  },
+  {
+    "Year": "1971",
+    "Make": "Lotus",
+    "Model": "Elan Sprint",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Lotus",
+    "Model": "Type 49",
+    "Category": "Formula 60s",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "Lotus",
+    "Model": "#1 Team Lotus Type 40",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "Lotus",
+    "Model": "Team Lotus type 35",
+    "Category": "Formula 60s",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2021",
+    "Make": "Lynk & Co",
+    "Model": "03+",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Lynk & Co",
+    "Model": "#62 Cyan Racing 03",
+    "Category": "Forza Touring Cars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Maserati",
+    "Model": "Ghibli S Q4",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2004",
+    "Make": "Maserati",
+    "Model": "MC12",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Maserati",
+    "Model": "Ghibli Cup",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1961",
+    "Make": "Maserati",
+    "Model": "Tipo 61 Birdcage",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1957",
+    "Make": "Maserati",
+    "Model": "300 S",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1953",
+    "Make": "Maserati",
+    "Model": "A6GCS/53 PininFarina Berlinetta",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1939",
+    "Make": "Maserati",
+    "Model": "8CTF",
+    "Category": "The Birth of Grand Prix",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Matra-Simca",
+    "Model": "#146 Equipe Matra-Simca MS650 Tour de France",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2022",
+    "Make": "Mazda",
+    "Model": "MX-5 Miata RF",
+    "Category": "Modern Sport Compact",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2017",
+    "Make": "Mazda",
+    "Model": "MX-5 Cup",
+    "Category": "Forza Specials",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2016",
+    "Make": "Mazda",
+    "Model": "MX-5",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Mazda",
+    "Model": "Formula Mazda",
+    "Category": "Formula Mazda Spec",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Mazda",
+    "Model": "#70 SpeedSource Lola B12/80",
+    "Category": "Forza P2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Mazda",
+    "Model": "MX-5",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Mazda",
+    "Model": "RX-8 R3",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2010",
+    "Make": "Mazda",
+    "Model": "#16 Mazda Racing B09/86",
+    "Category": "Forza P2",
+    "Released": "Update 14"
+  },
+  {
+    "Year": "2008",
+    "Make": "Mazda",
+    "Model": "Furai",
+    "Category": "Forza Specials",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Year": "2002",
+    "Make": "Mazda",
+    "Model": "RX-7 Spirit R Type-A",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Mazda",
+    "Model": "RX-7",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1994",
+    "Make": "Mazda",
+    "Model": "MX-5 Miata",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Mazda",
+    "Model": "323 GT-R",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "Mazda",
+    "Model": "#55 Mazda 787B",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "Mazda",
+    "Model": "#62 RX-7",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Mazda",
+    "Model": "Savanna RX-7",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Mazda",
+    "Model": "MX-5 Miata",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1985",
+    "Make": "Mazda",
+    "Model": "RX-7 GSL-SE",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "Mazda",
+    "Model": "RX-3",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1972",
+    "Make": "Mazda",
+    "Model": "Cosmo 110S Series II",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2023",
+    "Make": "McLaren",
+    "Model": "Artura",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 12"
+  },
+  {
+    "Year": "2021",
+    "Make": "McLaren",
+    "Model": "765LT Coupe",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "McLaren",
+    "Model": "Sabre",
+    "Category": "Modern Hypercars",
+    "Released": "Update 3"
+  },
+  {
+    "Year": "2021",
+    "Make": "McLaren",
+    "Model": "620R",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "McLaren",
+    "Model": "GT",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "McLaren",
+    "Model": "Senna GTR",
+    "Category": "Modern Factory Racecars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2019",
+    "Make": "McLaren",
+    "Model": "#03 720S GT3",
+    "Category": "Forza GT3",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2019",
+    "Make": "McLaren",
+    "Model": "720S Spider",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "McLaren",
+    "Model": "Senna",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "McLaren",
+    "Model": "720S Coupe",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "McLaren",
+    "Model": "600LT Coupé",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "McLaren",
+    "Model": "P1 GTR",
+    "Category": "Modern Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "McLaren",
+    "Model": "650S Coupe",
+    "Category": "Modern Sport GT",
+    "Released": "Update 3"
+  },
+  {
+    "Year": "2013",
+    "Make": "McLaren",
+    "Model": "P1",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "McLaren",
+    "Model": "F1 GT",
+    "Category": "Early Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "McLaren",
+    "Model": "F1",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "McLaren",
+    "Model": "#12 Honda McLaren MP4/4",
+    "Category": "Grand Prix Rivals",
+    "Released": "Base"
+  },
+  {
+    "Year": "1976",
+    "Make": "McLaren",
+    "Model": "#11 Team McLaren M23",
+    "Category": "Formula 70s",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "McLaren",
+    "Model": "#4 McLaren Cars M8B",
+    "Category": "Prototype Group Racing",
+    "Released": "Base"
+  },
+  {
+    "Year": "1966",
+    "Make": "McLaren",
+    "Model": "#4 Bruce McLaren Motor Racing M1B",
+    "Category": "Prototype Group Racing",
+    "Released": "Base"
+  },
+  {
+    "Year": "1966",
+    "Make": "McLaren",
+    "Model": "M2B",
+    "Category": "Formula 60s",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Mercedes-AMG",
+    "Model": "Mercedes-AMG ONE",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Mercedes-AMG",
+    "Model": "GT Black Series",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Mercedes-AMG",
+    "Model": "GT3",
+    "Category": "Forza GT3",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2018",
+    "Make": "Mercedes-AMG",
+    "Model": "GT 4-Door Coupé",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Mercedes-AMG",
+    "Model": "E 63 S",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Mercedes-AMG",
+    "Model": "GT R",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Mercedes-AMG",
+    "Model": "C 63 S Coupé Forza Edition",
+    "Category": "Modern Sport Touring",
+    "Released": "VIP"
+  },
+  {
+    "Year": "2016",
+    "Make": "Mercedes-AMG",
+    "Model": "C 63 S Coupé",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Mercedes-Benz",
+    "Model": "#33 Mac Tools Ciceley Motorsports A-Class (A45)",
+    "Category": "Forza Touring Cars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "Mercedes-Benz",
+    "Model": "A 45 AMG",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Mercedes-Benz",
+    "Model": "C 63 AMG Coupé Black Series",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Mercedes-Benz",
+    "Model": "SLK 55 AMG",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "Mercedes-Benz",
+    "Model": "SLS AMG",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2009",
+    "Make": "Mercedes-Benz",
+    "Model": "SL 65 AMG Black Series",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2004",
+    "Make": "Mercedes-Benz",
+    "Model": "C 32 AMG",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Mercedes-Benz",
+    "Model": "AMG CLK GTR",
+    "Category": "Early Factory Racecars",
+    "Released": "Update 10"
+  },
+  {
+    "Year": "1990",
+    "Make": "Mercedes-Benz",
+    "Model": "190E 2.5-16 Evolution II",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1989",
+    "Make": "Mercedes-Benz",
+    "Model": "#63 Sauber-Mercedes C 9",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1955",
+    "Make": "Mercedes-Benz",
+    "Model": "300 SLR",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1954",
+    "Make": "Mercedes-Benz",
+    "Model": "300 SL Coupé",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1939",
+    "Make": "Mercedes-Benz",
+    "Model": "W154",
+    "Category": "The Birth of Grand Prix",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Mercury",
+    "Model": "#15 Whistler Radar Cougar XR-7",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Mercury",
+    "Model": "Cougar Eliminator",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1986",
+    "Make": "Merkur",
+    "Model": "#11 MAC Tools XR4Ti",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "MG",
+    "Model": "MG6 XPower",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "MG",
+    "Model": "#20 MG6 XPower",
+    "Category": "Forza Touring Cars",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "1966",
+    "Make": "MG",
+    "Model": "MGB GT",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1958",
+    "Make": "MG",
+    "Model": "MGA Twin-Cam",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "MINI",
+    "Model": "John Cooper Works GP",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "MINI",
+    "Model": "John Cooper Works GP",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "MINI",
+    "Model": "Cooper S",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2008",
+    "Make": "Mitsubishi",
+    "Model": "Lancer Evolution X GSR",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2006",
+    "Make": "Mitsubishi",
+    "Model": "Lancer Evolution IX MR",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2005",
+    "Make": "Mitsubishi",
+    "Model": "#1 Sierra Sierra Enterprises Lancer Evolution Time Attack",
+    "Category": "Forza Specials",
+    "Released": "Update 20"
+  },
+  {
+    "Year": "2004",
+    "Make": "Mitsubishi",
+    "Model": "Lancer Evolution VIII MR",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1999",
+    "Make": "Mitsubishi",
+    "Model": "Lancer Evolution VI GSR",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Mitsubishi",
+    "Model": "FTO GP Version R",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Mitsubishi",
+    "Model": "GTO",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Mitsubishi",
+    "Model": "Lancer Evolution III GSR",
+    "Category": "Early Sport Compact",
+    "Released": "Update 10"
+  },
+  {
+    "Year": "1995",
+    "Make": "Mitsubishi",
+    "Model": "Eclipse GSX",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Mitsubishi",
+    "Model": "Galant VR-4",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "NIO",
+    "Model": "EP9",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2024",
+    "Make": "Nissan",
+    "Model": "Z NISMO",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 20"
+  },
+  {
+    "Year": "2023",
+    "Make": "Nissan",
+    "Model": "Z",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Nissan",
+    "Model": "GT-R NISMO (R35)",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Nissan",
+    "Model": "370Z Nismo",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Nissan",
+    "Model": "Sentra NISMO",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Nissan",
+    "Model": "Altima Racecar",
+    "Category": "Forza AUS",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Nissan",
+    "Model": "GT-R (R35)",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Nissan",
+    "Model": "#23 GT-R LM NISMO",
+    "Category": "Forza P1",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Nissan",
+    "Model": "Fairlady Z",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Nissan",
+    "Model": "Skyline GT-R V-Spec II",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2000",
+    "Make": "Nissan",
+    "Model": "Silvia Spec-R",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1999",
+    "Make": "Nissan",
+    "Model": "#23 NISMO Clarion R391",
+    "Category": "Early LMP",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1998",
+    "Make": "Nissan",
+    "Model": "R390 (GT1)",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Nissan",
+    "Model": "Silvia K's Aero",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Nissan",
+    "Model": "#23 Pennzoil NISMO Skyline GT-R",
+    "Category": "GTX Sportscars",
+    "Released": "Update 11"
+  },
+  {
+    "Year": "1997",
+    "Make": "Nissan",
+    "Model": "Skyline GT-R V-Spec",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1994",
+    "Make": "Nissan",
+    "Model": "Fairlady Z Version S Twin Turbo",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1994",
+    "Make": "Nissan",
+    "Model": "Silvia K's",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Nissan",
+    "Model": "Skyline GT-R V-Spec",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Nissan",
+    "Model": "240SX SE",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Nissan",
+    "Model": "Silvia CLUB K's",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1991",
+    "Make": "Nissan",
+    "Model": "#23 Nissan R91CP",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Nissan",
+    "Model": "Pulsar GTi-R",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "Nissan",
+    "Model": "#24 Nissan Motorsports International R88C",
+    "Category": "GTP/C",
+    "Released": "Update 9"
+  },
+  {
+    "Year": "1988",
+    "Make": "Nissan",
+    "Model": "#33 Bob Sharp Racing 300ZX",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1987",
+    "Make": "Nissan",
+    "Model": "Skyline GTS-R (HR31)",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1985",
+    "Make": "Nissan",
+    "Model": "#83 GTP ZX-Turbo",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "Nissan",
+    "Model": "#20 Bluebird Super Silhouette",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "Nissan",
+    "Model": "#11 Tomica Skyline Turbo Super Silhouette",
+    "Category": "GTX Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1983",
+    "Make": "Nissan",
+    "Model": "#23 Nissan Motorsports Silvia Super Silhouette",
+    "Category": "GTX Sportscars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1973",
+    "Make": "Nissan",
+    "Model": "Skyline H/T 2000GT-R",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1971",
+    "Make": "Nissan",
+    "Model": "Skyline 2000GT-R",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Nissan",
+    "Model": "#21 Nissan Racing R382",
+    "Category": "Prototype Group Racing",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Nissan",
+    "Model": "Fairlady Z 432",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Nissan",
+    "Model": "R380 II",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Oldsmobile",
+    "Model": "#75 Cutlass Supreme Trans Am",
+    "Category": "GTX Sportscars",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "1969",
+    "Make": "Oldsmobile",
+    "Model": "Hurst/Olds 442",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "1979",
+    "Make": "Opel",
+    "Model": "Kadett C GT/E",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Oreca",
+    "Model": "#38 Performance Tech Motorsports Oreca 07",
+    "Category": "Forza P2",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2017",
+    "Make": "Oreca",
+    "Model": "#38 Jackie Chan DC Racing Oreca 07",
+    "Category": "Forza P2",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2022",
+    "Make": "Pagani",
+    "Model": "Huayra R",
+    "Category": "Modern Factory Racecars",
+    "Released": "Update 3"
+  },
+  {
+    "Year": "2016",
+    "Make": "Pagani",
+    "Model": "Huayra BC",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2009",
+    "Make": "Pagani",
+    "Model": "Zonda Cinque Roadster",
+    "Category": "Modern Hypercars",
+    "Released": "Update 6"
+  },
+  {
+    "Year": "2018",
+    "Make": "Peugeot",
+    "Model": "#7 DG Sport Compétition 308",
+    "Category": "Forza Touring Cars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2011",
+    "Make": "Peugeot",
+    "Model": "308 GTI",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Peugeot",
+    "Model": "#3 Peugeot Talbot Sport 905 EVO 1C",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "Peugeot",
+    "Model": "205 Turbo 16",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1971",
+    "Make": "Plymouth",
+    "Model": "Cuda 426 HEMI",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1971",
+    "Make": "Plymouth",
+    "Model": "GTX 426 HEMI",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "2002",
+    "Make": "Pontiac",
+    "Model": "Firebird Trans Am Ram Air",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1987",
+    "Make": "Pontiac",
+    "Model": "Firebird Trans Am GTA",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1973",
+    "Make": "Pontiac",
+    "Model": "Firebird Trans Am SD-455",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Pontiac",
+    "Model": "GTO Judge",
+    "Category": "Street Drag Racers",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Pontiac",
+    "Model": "Firebird Trans Am",
+    "Category": "Vintage Muscle",
+    "Released": "Base"
+  },
+  {
+    "Year": "2024",
+    "Make": "Porsche",
+    "Model": "#5 Porsche Penske Motorsport 963",
+    "Category": "Forza Proto-H",
+    "Released": "Porsche 963 Combo"
+  },
+  {
+    "Year": "2023",
+    "Make": "Porsche",
+    "Model": "911 Turbo S",
+    "Category": "Modern Sport GT",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "2023",
+    "Make": "Porsche",
+    "Model": "911 GT3 R",
+    "Category": "Forza GT3",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "2023",
+    "Make": "Porsche",
+    "Model": "911 GT3 RS",
+    "Category": "Modern Sport GT",
+    "Released": "Update 18"
+  },
+  {
+    "Year": "2022",
+    "Make": "Porsche",
+    "Model": "718 Cayman GT4 RS",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 5"
+  },
+  {
+    "Year": "2021",
+    "Make": "Porsche",
+    "Model": "Mission R",
+    "Category": "Mission R Spec",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Porsche",
+    "Model": "911 GT3",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Porsche",
+    "Model": "Taycan Turbo S",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Porsche",
+    "Model": "#70 Porsche Motorsport 935",
+    "Category": "Modern Factory Racecars",
+    "Released": "Update 8"
+  },
+  {
+    "Year": "2019",
+    "Make": "Porsche",
+    "Model": "911 GT3 RS",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Porsche",
+    "Model": "911 Speedster",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Porsche",
+    "Model": "911 Carrera S",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Porsche",
+    "Model": "911 GT2 RS Forza Edition",
+    "Category": "Modern Sport GT",
+    "Released": "Forza Loyalty"
+  },
+  {
+    "Year": "2018",
+    "Make": "Porsche",
+    "Model": "911 GT2 RS",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Porsche",
+    "Model": "#73 Park Place Motorsports 911 GT3 R",
+    "Category": "Forza GT3",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2018",
+    "Make": "Porsche",
+    "Model": "718 Cayman GTS",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Porsche",
+    "Model": "#2 Porsche Team 919 Hybrid",
+    "Category": "Forza P1",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Porsche",
+    "Model": "#92 Porsche GT Team 911 RSR",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Porsche",
+    "Model": "Panamera Turbo",
+    "Category": "Sport Luxury",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Porsche",
+    "Model": "Cayman GT4",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "2016",
+    "Make": "Porsche",
+    "Model": "911 GT3 RS",
+    "Category": "Modern Sport GT",
+    "Released": "Update 1"
+  },
+  {
+    "Year": "2015",
+    "Make": "Porsche",
+    "Model": "#91 Porsche Team Manthey 991 RSR",
+    "Category": "Forza GT2",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Porsche",
+    "Model": "Cayman GTS",
+    "Category": "Modern Sport Coupe",
+    "Released": "Update 8"
+  },
+  {
+    "Year": "2014",
+    "Make": "Porsche",
+    "Model": "918 Spyder",
+    "Category": "Modern Exotic GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2014",
+    "Make": "Porsche",
+    "Model": "911 Turbo S",
+    "Category": "Modern Sport GT",
+    "Released": "Update 5"
+  },
+  {
+    "Year": "2012",
+    "Make": "Porsche",
+    "Model": "911 GT2 RS",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2007",
+    "Make": "Porsche",
+    "Model": "911 GT3",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2004",
+    "Make": "Porsche",
+    "Model": "911 GT3",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Porsche",
+    "Model": "Carrera GT",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Porsche",
+    "Model": "911 GT1 Strassenversion",
+    "Category": "Early Factory Racecars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Porsche",
+    "Model": "911 GT2",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Porsche",
+    "Model": "911 Turbo S Leichtbau",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Porsche",
+    "Model": "968 Turbo S",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Porsche",
+    "Model": "928 GTS",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1989",
+    "Make": "Porsche",
+    "Model": "944 Turbo",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1987",
+    "Make": "Porsche",
+    "Model": "#203 Porsche AG 961",
+    "Category": "GTX Sportscars",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "1987",
+    "Make": "Porsche",
+    "Model": "#17 Porsche AG 962c",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1987",
+    "Make": "Porsche",
+    "Model": "959",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1983",
+    "Make": "Porsche",
+    "Model": "#11 John Fitzpatrick Racing 956",
+    "Category": "GTP/C",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "1982",
+    "Make": "Porsche",
+    "Model": "911 Turbo 3.3",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1981",
+    "Make": "Porsche",
+    "Model": "#1 Porsche System Engineering 924 GTP Le Mans",
+    "Category": "GTX Sportscars",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "1980",
+    "Make": "Porsche",
+    "Model": "924 Carrera GTS",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1978",
+    "Make": "Porsche",
+    "Model": "#78 MOMO 935/78",
+    "Category": "GTX Sportscars",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "1978",
+    "Make": "Porsche",
+    "Model": "#43 Porsche Racing 935/78",
+    "Category": "GTX Sportscars",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "1974",
+    "Make": "Porsche",
+    "Model": "#1 911 RSR",
+    "Category": "GTX Sportscars",
+    "Released": "Update 5"
+  },
+  {
+    "Year": "1973",
+    "Make": "Porsche",
+    "Model": "911 Carrera RS",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1971",
+    "Make": "Porsche",
+    "Model": "#23 917/20",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Update 19"
+  },
+  {
+    "Year": "1970",
+    "Make": "Porsche",
+    "Model": "#3 917 LH",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "1970",
+    "Make": "Porsche",
+    "Model": "914/6",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1960",
+    "Make": "Porsche",
+    "Model": "718 RS 60",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1957",
+    "Make": "Porsche",
+    "Model": "356A Speedster",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1955",
+    "Make": "Porsche",
+    "Model": "550 Spyder",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Radical",
+    "Model": "RXC Turbo",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "RAESR",
+    "Model": "Tachyon Speed",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Renault",
+    "Model": "Megane R.S.",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Renault",
+    "Model": "Clio R.S. 16 Concept",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2008",
+    "Make": "Renault",
+    "Model": "Mégane R26.R",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Renault",
+    "Model": "Sport Clio V6",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1993",
+    "Make": "Renault",
+    "Model": "Clio Williams",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1980",
+    "Make": "Renault",
+    "Model": "5 Turbo",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1977",
+    "Make": "Renault",
+    "Model": "#15 Equipe Renault Elf R.S. 01",
+    "Category": "Formula 70s",
+    "Released": "Update 7"
+  },
+  {
+    "Year": "1967",
+    "Make": "Renault",
+    "Model": "8 Gordini",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Rimac",
+    "Model": "Nevera",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Rimac",
+    "Model": "Concept Two",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Saleen",
+    "Model": "S302 Black Label",
+    "Category": "Modern Sport Touring",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "2018",
+    "Make": "Saleen",
+    "Model": "S1",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Saleen",
+    "Model": "S7 LM",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2004",
+    "Make": "Saleen",
+    "Model": "S7",
+    "Category": "Exotic GT Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "1967",
+    "Make": "Shelby",
+    "Model": "GT 500",
+    "Category": "Vintage Muscle",
+    "Released": "Update 13"
+  },
+  {
+    "Year": "1965",
+    "Make": "Shelby",
+    "Model": "Cobra Daytona Coupe",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1965",
+    "Make": "Shelby",
+    "Model": "Cobra 427 S/C",
+    "Category": "Vintage Le Mans Sportscars",
+    "Released": "Base"
+  },
+  {
+    "Year": "1963",
+    "Make": "Shelby",
+    "Model": "Monaco King Cobra",
+    "Category": "Vintage Le Mans Prototypes",
+    "Released": "Base"
+  },
+  {
+    "Year": "2016",
+    "Make": "Spania",
+    "Model": "GTA GTA Spano",
+    "Category": "Modern Exotic GT",
+    "Released": "Update 2"
+  },
+  {
+    "Year": "2013",
+    "Make": "SRT",
+    "Model": "Viper GTS",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2022",
+    "Make": "SUBARU",
+    "Model": "BRZ",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "SUBARU",
+    "Model": "STI S209 Forza Edition",
+    "Category": "Modern Sport Compact",
+    "Released": "VIP"
+  },
+  {
+    "Year": "2019",
+    "Make": "SUBARU",
+    "Model": "STI S209",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "SUBARU",
+    "Model": "#1 Adrian Flux SUBARU Racing Levorg GT",
+    "Category": "Forza Touring Cars",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2015",
+    "Make": "SUBARU",
+    "Model": "WRX STI",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2013",
+    "Make": "SUBARU",
+    "Model": "BRZ",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2011",
+    "Make": "SUBARU",
+    "Model": "WRX STI",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2008",
+    "Make": "SUBARU",
+    "Model": "IMPREZA WRX STI",
+    "Category": "Modern Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2005",
+    "Make": "SUBARU",
+    "Model": "IMPREZA WRX STi",
+    "Category": "Modern Sport Compact",
+    "Released": "Update 10"
+  },
+  {
+    "Year": "2004",
+    "Make": "SUBARU",
+    "Model": "IMPREZA WRX STI",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "SUBARU",
+    "Model": "Impreza 22B-STi Version",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "SUBARU",
+    "Model": "LEGACY RS",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "2024",
+    "Make": "Toyota",
+    "Model": "NASCAR Next Gen Camry XSE",
+    "Category": "NASCAR",
+    "Released": "Update 14"
+  },
+  {
+    "Year": "2023",
+    "Make": "Toyota",
+    "Model": "Camry TRD",
+    "Category": "Modern Sport Compact",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2022",
+    "Make": "Toyota",
+    "Model": "GR86",
+    "Category": "Modern Sport Compact",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2021",
+    "Make": "Toyota",
+    "Model": "GR Yaris",
+    "Category": "Modern Hot Hatch",
+    "Released": "Update 17"
+  },
+  {
+    "Year": "2020",
+    "Make": "Toyota",
+    "Model": "GR Supra",
+    "Category": "Modern Sport Coupe",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Toyota",
+    "Model": "86 TRD SE",
+    "Category": "Modern Sport Compact",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2014",
+    "Make": "Toyota",
+    "Model": "#8 Toyota Racing TS040 HYBRID",
+    "Category": "Forza P1",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Toyota",
+    "Model": "Celica Sport Specialty II",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1999",
+    "Make": "Toyota",
+    "Model": "#3 Toyota Motorsports GT-ONE TS020",
+    "Category": "Early LMP",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Toyota",
+    "Model": "Supra RZ",
+    "Category": "Sport GT Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Toyota",
+    "Model": "Mark II Tourer V JZX100",
+    "Category": "Sport Touring Classics",
+    "Released": "Racing Heroes Car Pack"
+  },
+  {
+    "Year": "1995",
+    "Make": "Toyota",
+    "Model": "MR2 GT",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1994",
+    "Make": "Toyota",
+    "Model": "Celica GT-Four ST205",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Toyota",
+    "Model": "#99 All American Racers Toyota Eagle MkIII",
+    "Category": "GTP/C",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Toyota",
+    "Model": "Celica GT-Four RC ST185",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Toyota",
+    "Model": "Supra 2.0 GT",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1989",
+    "Make": "Toyota",
+    "Model": "MR2 SC",
+    "Category": "Early Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1985",
+    "Make": "Toyota",
+    "Model": "Sprinter Trueno GT Apex",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1984",
+    "Make": "Toyota",
+    "Model": "#25 Horsepower Techs Starlet Time Attack",
+    "Category": "Forza Specials",
+    "Released": "Update 20"
+  },
+  {
+    "Year": "1974",
+    "Make": "Toyota",
+    "Model": "Celica GT",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1974",
+    "Make": "Toyota",
+    "Model": "Corolla SR5",
+    "Category": "Vintage Sport Compact",
+    "Released": "Base"
+  },
+  {
+    "Year": "1969",
+    "Make": "Toyota",
+    "Model": "2000GT",
+    "Category": "Sport Coupe Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "TVR",
+    "Model": "Griffith",
+    "Category": "Modern Sport GT",
+    "Released": "Base"
+  },
+  {
+    "Year": "2015",
+    "Make": "Ultima",
+    "Model": "Evolution Coupe 1020",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "Vauxhall",
+    "Model": "#66 Power Maxed TAG Racing Astra",
+    "Category": "Forza Touring Cars",
+    "Released": "Race Day Car Pack"
+  },
+  {
+    "Year": "2016",
+    "Make": "Vauxhall",
+    "Model": "Corsa VXR",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2012",
+    "Make": "Vauxhall",
+    "Model": "Astra VXR",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2006",
+    "Make": "Vauxhall",
+    "Model": "Astra VXR",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1990",
+    "Make": "Vauxhall",
+    "Model": "Lotus Carlton",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2022",
+    "Make": "Volkswagen",
+    "Model": "Golf R",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2021",
+    "Make": "Volkswagen",
+    "Model": "Golf R",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2018",
+    "Make": "Volkswagen",
+    "Model": "#22 Experion Racing Golf GTI",
+    "Category": "Forza Touring Cars",
+    "Released": "Car Pass"
+  },
+  {
+    "Year": "2014",
+    "Make": "Volkswagen",
+    "Model": "Golf R",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "2003",
+    "Make": "Volkswagen",
+    "Model": "Golf R32",
+    "Category": "Modern Hot Hatch",
+    "Released": "Base"
+  },
+  {
+    "Year": "1998",
+    "Make": "Volkswagen",
+    "Model": "Gti VR6 Mk3",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1995",
+    "Make": "Volkswagen",
+    "Model": "Corrado VR6",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1992",
+    "Make": "Volkswagen",
+    "Model": "Golf Gti 16v Mk2",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1988",
+    "Make": "Volkswagen",
+    "Model": "Scirocco 16v",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1983",
+    "Make": "Volkswagen",
+    "Model": "Golf GTI",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1981",
+    "Make": "Volkswagen",
+    "Model": "Scirocco S",
+    "Category": "Hot Hatch Icons",
+    "Released": "Base"
+  },
+  {
+    "Year": "1997",
+    "Make": "Volvo",
+    "Model": "850 R",
+    "Category": "Sport Touring Classics",
+    "Released": "Base"
+  },
+  {
+    "Year": "2017",
+    "Make": "VUHL",
+    "Model": "05RR",
+    "Category": "Track Toys",
+    "Released": "Base"
+  },
+  {
+    "Year": "2020",
+    "Make": "Xpeng",
+    "Model": "P7",
+    "Category": "Modern Sport Touring",
+    "Released": "Base"
+  },
+  {
+    "Year": "2019",
+    "Make": "Zenvo",
+    "Model": "TSR-S",
+    "Category": "Modern Hypercars",
+    "Released": "Base"
+  }
+]

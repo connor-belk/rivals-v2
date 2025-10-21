@@ -1,0 +1,130 @@
+Brands Hatch
+[v] GP 2.43mi
+[  ] Indy 1.21mi
+
+Catalunya
+[  ] GP 2.89mi
+[  ] Nat'l 1.91
+[  ] Nat'l Alt 1.86
+
+Spa
+[  ] Spa 4.35mi
+
+Daytona
+[  ] 24h 3.59mi
+[v] Tri-Oval 2.5mi
+
+Eaglerock
+[v] Oval 1.02mi
+[v] Club 1.07mi
+[  ] Club R 1.07mi
+
+Fujimi
+[v] Fujimi 10.24mi
+[v] Fujimi R 10.24mi
+
+Grand Oak
+[v] Nat'l 2.32
+[  ] Nat'l R 2.32
+[  ] Club 1.63
+
+Hakone
+[  ] GP 2.66mi
+[  ] Club 2.06
+[  ] Club R 2.06
+
+Hockenheim
+[  ] Hockenheimring 2.84
+[v] Nat'l 2.29
+[  ] Short 1.64
+
+Miami
+[v] Speedway Oval 1.5 mi
+[v] Road course 2.21mi
+
+Indy
+[v] Oval 2.50mi
+[v] GP 2.44mi
+
+Kyalami
+[  ] GP 2.81mi
+
+Le Mans
+[  ] La Sarthe 8.47
+[  ] Old Mulsanne 8.41
+
+Lime Rock
+[v] Full 1.5mi
+[  ] South 1.47mi
+[v] Full Alt 1.5mi
+
+Maple Valley
+[v] Maple Valley 2.99mi
+[  ] Short 1.15mi
+[  ] Short R 1.15mi
+
+Road Atlanta
+[v] Full 2.54mi
+[  ] Short 1.79mi
+
+Mid-Ohio
+[v] Full 2.25mi
+[  ] Short 1.75mi
+
+Bathurst
+[v] Bathurst 3.86mi
+
+Mugello
+[  ] Full 3.26
+[  ] Club 1.60
+
+Nürburgring
+[  ] Full 15.77mi
+[v] Nordschleife 12.94mi
+[  ] GP 3.20mi
+[  ] Sprint 2.25mi
+
+Road America
+[v] Full 4.05mi
+[  ] East 2.19mi
+
+Sebring
+[v] Full 3.70mi
+[  ] Short 2.00mi
+
+Silverstone
+[  ] GP 3.66mi
+[  ] Nat'l 1.64mi
+[  ] Int'l 1.85mi
+
+Sunset
+[  ] Full 2.78mi
+[  ] Full R 2.78mi
+[  ] Club 1.94mi
+[  ] Club R 1.94mi
+[v] Speedway 2.44mi
+
+Suzuka
+[v] Full 3.61mi
+[  ] East 1.40mi
+
+VIR
+[v] Full 3.27mi
+[v] North 2.25mi
+[  ] South 1.65mi
+[  ] Grand West 4.10mi
+[  ] Grand East 4.20mi
+
+Watkins Glen
+[v] Full 3.45mi
+[v] Short 2.45mi
+
+Laguna Seca
+[  ] Full 2.24mi
+[  ] Short 1.84mi
+
+Yas
+[  ] Full 3.28mi
+[  ] North 1.86mi
+[  ] South 1.36mi
+[v] North Corkscrew 1.42mi

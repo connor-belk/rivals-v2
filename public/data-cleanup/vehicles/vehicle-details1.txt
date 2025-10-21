@@ -1,0 +1,782 @@
+<!-- Abarth -->
+{{2017|[[Abarth 124 Spider|Abarth #124 Spider]]|ita|fr|360|2.1|2.3|2.4|2.2|43000|div = mscm}}
+<!-- Acura -->
+{{2020|[[Acura 6 Acura Team Penske ARX-05 DPi|Acura #6 Acura Team Penske ARX-05 DPi]]|usa|mr|943|6.0|9.5|9.6|7.7|342000|div = fph|tour = Track Tour}}
+{{2018|[[Acura 36 NSX GT3|Acura #36 NSX GT3]]|usa|mr|819|4.7|6.7|6.9|6.3|264000|div = fg3|dlc = rd}}
+{{2001|[[Acura Integra Type-R]]|usa|ff|338|3.3|1.5|1.9|2.0|53000|div = esc}}
+{{2017|[[Acura NSX (2017)|Acura NSX]]|usa|ma|731|5.2|3.8|3.3|6.1|243000|div = msgt}}
+{{2022|[[Acura NSX Type S]]|usa|ma|737|6.1|3.7|3.3|6.3|256000|div = msgt|hub = y}}
+<!-- Alfa Romeo -->
+{{2014|[[Alfa Romeo 4C]]|ita|mr|522|3.1|2.9|3.1|3.5|89000|div = mscu}}
+{{2017|[[Alfa Romeo Giulia Quadrifoglio]]|ita|fr|632|5.8|3.5|3.1|4.5|108000|div = mst}}
+{{1965|[[Alfa Romeo Giulia Sprint GTA Stradale]]|ita|fr|263|1.0|1.0|1.0|1.8|47000|div = vsc|tour = Open Class Tour - Automotive Classics}}
+{{2011|[[Alfa Romeo Giulietta Quadrifoglio Verde]]|ita|ff|387|2.8|1.8|2.1|2.4|59000|div = mhh}}
+<!-- Alpine -->
+{{2017|[[Alpine A110]]|fra|mr|570|3.7|2.9|3.1|4.2|100000|div = mscu}}
+{{1990|[[Alpine GTA Le Mans]]|fra|mr|374|2.7|2.0|2.3|2.4|74000|div = stc}}
+<!-- AMC -->
+{{1971|[[AMC Javelin AMX]]|usa|fr|357|1.0|1.2|1.3|2.4|75000|div = vm}}
+{{1970|[[AMC Rebel "The Machine"]]|usa|fr|339|1.9|1.1|1.0|2.6|71000|div = sdc}}
+<!-- Apollo -->
+{{2018|[[Apollo Intensa Emozione]]|ger|mr|906|6.6|7.2|7.1|7.7|431000|div = mh}}
+<!-- Ariel -->
+{{2013|[[Ariel Atom 500 V8]]|uk|mr|794|3.7|5.4|5.2|7.8|327000|div = tt}}
+<!-- Aston Martin -->
+{{2017|[[Aston Martin 7 Aston Martin Racing V12 Vantage GT3|Aston Martin #7 Aston Martin Racing V12 Vantage GT3]]|uk|fr|833|4.7|6.7|6.8|6.4|270000|div = fg3}}
+{{1989|[[Aston Martin 18 Aston Martin AMR1|Aston Martin #18 Aston Martin AMR1]]|uk|mr|962|6.9|10|10|8.3|382000|div = gtp}}
+{{2018|[[Aston Martin 97 AMR Vantage GTE|Aston Martin #97 AMR Vantage GTE]]|uk|fr|822|4.5|6.7|6.8|6.4|270000|div = fg2|hub = y}}
+{{1960|[[Aston Martin DB4 GT Zagato]]|uk|fr|353|3.5|1.3|1.5|2.5|107000|div = vlms}}
+{{1964|[[Aston Martin DB5]]|uk|fr|282|1.4|1.4|1.3|1.9|74000|div = sci}}
+{{1958|[[Aston Martin DBR1]]|uk|fr|518|4.6|2.3|2.7|3.5|148000|div = vlms}}
+{{1967|[[Aston Martin DBS (1967)|Aston Martin DBS]]|uk|fr|343|3.5|1.4|1.4|2.6|98000|div = vegt}}
+{{2008|[[Aston Martin DBS (2008)|Aston Martin DBS]]|uk|fr|603|6.1|3.3|3.1|3.9|121000|div = msgt}}
+{{2019|[[Aston Martin DBS Superleggera]]|uk|fr|727|7.1|3.8|3.4|5.8|244000|div = megt}}
+{{1998|[[Aston Martin V8 Vantage V600]]|uk|fr|560|6.4|2.7|2.5|3.8|121000|div = sgti}}
+{{2001|[[Aston Martin V12 Vanquish]]|uk|fr|542|5.3|2.8|2.7|3.5|114000|div = egtc}}
+{{2013|[[Aston Martin V12 Vantage S]]|uk|fr|640|6.7|3.3|3.1|4.6|128000|div = msgt}}
+{{2019|[[Aston Martin Valhalla Concept Car]]|uk|ma|927|8.5|6.2|6.1|10|431000|div = mh}}
+{{2023|[[Aston Martin Valkyrie]]|uk|mr|999|7.4|10|9.8|9.0|471000|div = mh}}
+{{2022|[[Aston Martin Valkyrie AMR Pro]]|uk|mr|999|8.1|10|10|10|450000|div = mfr|dlc = pass}}
+{{2017|[[Aston Martin Vanquish Zagato Coupé]]|uk|fr|675|6.1|3.8|3.5|4.7|137000|div = megt}}
+{{2019|[[Aston Martin Vantage]]|uk|fr|665|5.6|3.6|3.6|4.5|135000|div = msgt}}
+{{2015|[[Aston Martin Vantage GT12]]|uk|fr|707|4.9|4.6|4.3|5.0|171000|div = msgt}}
+{{2016|[[Aston Martin Vulcan]]|uk|fr|865|5.8|7.3|7.3|6.4|285000|div = mfr}}
+{{2017|[[Aston Martin Vulcan AMR Pro]]|uk|fr|885|5.8|7.6|7.5|6.4|296000|div = mfr}}
+<!-- Audi -->
+{{2018|[[Audi 1 Audi Sport RS 3 LMS|Audi #1 Audi Sport RS 3 LMS]]|ger|ff|692|3.2|5.3|5.5|4.0|200000|div = ftc}}
+<!-- {{1986|[[Audi 2 Audi Sport quattro S1|Audi #2 Audi Sport quattro S1]]|div = fp1}} -->
+{{2014|[[Audi 2 Audi Team Joest R18 e-tron quattro|Audi #2 Audi Team Joest R18 e-tron quattro]]|ger|ma|979|6.3|10|10|10|415000|div = fp1}}
+{{1989|[[Audi 4 Audi 90 quattro IMSA GTO|Audi #4 Audi 90 quattro IMSA GTO]]|ger|fa|857|5.2|6.1|6.2|7.4|282000|div = gtx|dlc = hubdealer}}
+{{2016|[[Audi 17 Rotek Racing TT RS|Audi #17 Rotek Racing TT RS]]|ger|ff|802|3.3|7.1|7.4|5.1|255000|div = fg4}}
+{{2018|[[Audi 44 R8 LMS GT3|Audi #44 R8 LMS GT3]]|ger|mr|828|5.0|6.6|6.8|5.8|269000|div = fg3|dlc = rd}}
+{{2010|[[Audi R8 5.2 FSI quattro|Audi R8 Coupé 5.2 FSI quattro]]|ger|ma|680|6.0|3.3|3.2|4.3|127000|div = msgt}}
+{{2013|[[Audi R8 Coupé V10 plus 5.2 FSI quattro]]|ger|ma|732|6.3|3.7|3.4|5.8|245000|div = msgt}}
+{{2020|[[Audi R8 V10 performance]]|ger|ma|753|7.1|3.8|3.5|6.1|281000|div = msgt|tour = Open Class Tour - German Manufacturers}}
+{{2016|[[Audi R8 V10 plus]]|ger|ma|752|7.1|3.8|3.5|6.1|279000|div = msgt}}
+{{1995|[[Audi RS 2 Avant]]|ger|fa|458|3.6|2.2|2.2|2.9|89000|div = stc}}
+{{2020|[[Audi RS 3 Sedan]]|ger|fa|621|5.1|2.7|2.5|4.6|112000|div = mscu}}
+{{2011|[[Audi RS 3 Sportback]]|ger|fa|470|3.7|2.3|2.3|2.8|78000|div = mhh}}
+{{2006|[[Audi RS 4]]|ger|fa|564|5.4|2.3|2.4|3.6|103000|div = stc}}
+{{2001|[[Audi RS 4 Avant (2001)|Audi RS 4 Avant]]|ger|fa|516|4.5|2.4|2.4|3.2|96000|div = stc}}
+{{2013|[[Audi RS 4 Avant (2013)|Audi RS 4 Avant]]|ger|fa|591|5.6|2.9|2.5|3.9|105000|div = mst}}
+{{2018|[[Audi RS 4 Avant (2018)|Audi RS 4 Avant]]|ger|fa|637|6.0|2.8|2.6|5.0|116000|div = mst}}
+{{2018|[[Audi RS 5 Coupé (2018)|Audi RS 5 Coupé]]|ger|fa|638|5.7|2.9|2.7|4.9|116000|div = mst}}
+{{2003|[[Audi RS 6 (2003)|Audi RS 6]]|ger|fa|537|5.3|2.5|2.3|3.6|99000|div = stc}}
+{{2015|[[Audi RS 6 Avant (2015)|Audi RS 6 Avant]]|ger|fa|666|6.3|3.3|2.7|5.0|123000|div = sl}}
+{{2021|[[Audi RS 6 Avant (2021)|Audi RS 6 Avant]]|ger|fa|658|6.1|3.0|2.7|5.0|122000|div = sl}}
+{{2013|[[Audi RS 7 Sportback (2013)|Audi RS 7 Sportback]]|ger|fa|613|6.5|2.8|2.4|4.5|110000|div = sl}}
+{{2021|[[Audi RS 7 Sportback (2021)|Audi RS 7 Sportback]]|ger|fa|656|6.7|2.8|2.6|5.2|121000|div = sl}}
+{{2021|[[Audi RS e-tron GT]]|ger|ma|706|3.7|2.6|2.8|6.1|158000|div = sl}}
+{{2015|[[Audi S1]]|ger|fa|405|2.5|2.2|2.2|2.5|64000|div = mhh}}
+{{2004|[[Audi S4 (2004)|Audi S4]]|ger|fa|467|4.6|1.9|1.9|3.0|83000|div = stc}}
+{{1984|[[Audi Sport quattro]]|ger|fa|464|2.8|2.1|2.2|3.0|101000|div = stc}}
+{{2018|[[Audi TT RS]]|ger|fa|643|5.5|2.8|2.8|4.8|118000|div = mscu}}
+{{2020|[[Audi TT RS Coupe (2020)|Audi TT RS Coupe]]|ger|fa|643|5.5|2.8|2.8|4.8|118000|div = mscu|dlc = pass}}
+<!-- Austin-Healey -->
+{{1965|[[Austin-Healey 3000 MkIII]]|uk|fr|262|1.3|1.0|1.1|1.5|46000|div = sci}}
+<!-- Auto Union -->
+{{1939|[[Auto Union Type D]]|ger|mr|598|6.2|2.4|2.9|4.9|163000|div = tbogp|dlc = hubdealer}}
+<!-- Automobili Pininfarina -->
+{{2020|[[Automobili Pininfarina Battista]]|ita|ma|924|7.3|4.3|4.2|6.4|429000|div = mh}}
+<!-- BAC -->
+{{2014|[[BAC Mono]]|uk|mr|712|2.7|4.4|4.5|5.4|187000|div = tt}}
+<!-- Bentley -->
+{{2003|[[Bentley 7 Team Bentley Speed 8|Bentley #7 Team Bentley Speed 8]]|uk|mr|941|6.1|9.4|9.6|7.9|341000|div = elmp}}
+{{2014|[[Bentley Continental GT3|Bentley #17 M-Sport Bentley Continental GT3]]|uk|fr|819|4.3|6.6|6.6|6.3|264000|div = fg3}}
+{{2017|[[Bentley Continental Supersports (2017)|Bentley Continental Supersports]]|uk|fa|656|6.8|2.7|2.4|4.7|132000|div = sl}}
+<!-- BMW -->
+{{1976|[[BMW 3.0 CSL (1976)|BMW #1 BMW 3.0 CSL]]|ger|fr|739|4.3|5.2|5.3|5.5|223000|div = gtx|hub = y}}
+{{2018|[[BMW 1 BMW M Motorsport M8 GTE|BMW #1 BMW M Motorsport M8 GTE]]|ger|fr|838|5.1|6.6|6.9|6.5|273000|div = fg2}}
+{{1979|[[BMW 6 BMW Motorsport M1 Procar|BMW #6 BMW Motorsport M1 Procar]]|ger|mr|772|4.9|5.4|5.9|5.5|240000|div = gtx|dlc = hubdealer}}
+{{1999|[[BMW V12 LMR|BMW #15 BMW Motorsport V12 LMR]]|ger|mr|953|6.5|10|10|8.2|366000|div = elmp}}
+{{1999|[[BMW V12 LMR|BMW #16 BMW Motorsport V12 LMR]]|ger|mr|953|6.4|10|10|8.2|363000|div = elmp}}
+{{2017|[[BMW 24 BMW Team RLL M6 GTLM|BMW #24 BMW Team RLL M6 GTLM]]|ger|fr|813|4.5|6.6|6.8|6.1|261000|div = fg2}}
+{{1975|[[BMW 3.0 CSL (1975)|BMW #25 BMW Motorsport 3.0 CSL]]|ger|fr|741|4.0|5.5|5.5|5.4|224000|div = gtx}}
+{{2023|[[BMW 25 BMW Team RLL M Hybrid V8|BMW #25 BMW Team RLL M Hybrid V8]]|ger|mr|954|7.0|9.7|9.8|8.0|366000|div = fph}}
+{{2023|[[BMW 96 Turner Motorsports M4 GT3|BMW #96 Turner Motorsports M4 GT3]]|ger|fr|838|5.3|6.6|6.8|6.6|273000|div = fg3|hub = y}}
+{{2011|[[BMW 1 Series M Coupe]]|ger|fr|527|4.4|2.6|2.6|3.5|88000|div = mscu|hub = y}}
+{{1973|[[BMW 2002 Turbo]]|ger|fr|298|1.6|1.2|1.3|2.3|67000|div = vsc}}
+{{2000|[[BMW 323ti Sport]]|ger|fr|322|1.7|1.9|1.8|2.2|50000|div = esc}}
+{{1995|[[BMW 850CSi]]|ger|fr|435|5.0|2.2|2.3|2.8|84000|div = sgti}}
+{{2015|[[BMW i8]]|ger|ma|644|5.6|2.7|2.9|4.5|118000|div = sl}}
+{{1981|[[BMW M1]]|ger|mr|416|3.1|2.2|2.3|2.9|93000|div = sgti}}
+{{2023|[[BMW M2 (2023)|BMW M2]]|ger|fr|599|5.0|3.3|3.0|4.1|107000|div = mscu}}
+{{2020|[[BMW M2 Competition Coupé]]|ger|fr|588|4.7|2.8|2.6|4.5|104000|div = mscu|dlc = pass}}
+{{1991|[[BMW M3 (1991)|BMW M3]]|ger|fr|357|2.7|1.7|2.0|2.4|68000|div = stc}}
+{{1997|[[BMW M3 (1997)|BMW M3]]|ger|fr|485|4.6|2.4|2.4|3.2|93000|div = stc}}
+{{2005|[[BMW M3 (2005)|BMW M3]]|ger|fr|504|4.4|2.5|2.6|3.3|90000|div = stc}}
+{{2008|[[BMW M3 (2008)|BMW M3]]|ger|fr|545|5.1|2.7|2.7|3.5|96000|div = mst}}
+{{2021|[[BMW M3 Competition Sedan]]|ger|fr|642|5.7|3.1|2.9|4.7|117000|div = mst}}
+{{2002|[[BMW M3-GTR]]|ger|fr|571|4.9|2.8|2.9|3.9|108000|div = stc}}
+{{2010|[[BMW M3 GTS]]|ger|fr|657|5.4|3.8|3.7|4.6|121000|div = mst}}
+{{2021|[[BMW M4 Competition Coupé]]|ger|fr|641|5.7|3.1|2.9|4.7|117000|div = mst|dlc = wp}}
+{{2014|[[BMW M4 Coupé]]|ger|fr|615|5.1|3.3|2.9|4.5|111000|div = mst}}
+{{2016|[[BMW M4 GTS]]|ger|fr|701|5.6|4.2|3.9|5.0|134000|div = mst}}
+{{1988|[[BMW M5 (1988)|BMW M5]]|ger|fr|366|2.6|1.7|1.8|2.8|74000|div = stc}}
+{{2003|[[BMW M5 (2003)|BMW M5]]|ger|fr|495|5.3|2.2|2.1|3.5|89000|div = stc}}
+{{2009|[[BMW M5 (2009)|BMW M5]]|ger|fr|563|6.0|2.8|2.5|4.1|100000|div = mst}}
+{{2012|[[BMW M5 (2012)|BMW M5]]|ger|fr|626|6.2|2.8|2.8|4.7|114000|div = mst}}
+{{2018|[[BMW M5 (2018)|BMW M5]]|ger|fa|711|6.5|3.3|2.8|5.8|179000|div = sl}}
+{{2010|[[BMW M6 Coupe (2010)|BMW M6 Coupe]]|ger|fr|594|6.0|2.8|2.7|4.4|106000|div = sl}}
+{{2013|[[BMW M6 Coupe (2013)|BMW M6 Coupé]]|ger|fr|651|6.6|3.2|2.7|4.9|120000|div = sl}}
+{{1986|[[BMW M635 CSi]]|ger|fr|378|3.4|1.8|2.0|2.5|79000|div = stc}}
+{{2020|[[BMW M8 Competition Coupe]]|ger|fa|720|6.9|3.4|2.9|5.8|210000|div = sl}}
+{{2002|[[BMW Z3 M Coupe|BMW Z3 M Coupé]]|ger|fr|520|3.8|2.5|2.6|3.4|96000|div = esc}}
+{{2019|[[BMW Z4 Roadster]]|ger|fr|608|4.9|3.0|3.1|4.3|109000|div = mscu}}
+<!-- Brabham -->
+{{1964|[[Brabham BT8]]|uk|mr|538|3.4|2.3|2.2|4.5|140000|div = vlms|tour = Open Class Tour - 1960s Celebration}}
+{{1967|[[Brabham BT24]]|uk|mr|756|4.2|4.7|4.9|6.1|232000|div = f60}}
+{{2019|[[Brabham BT62]]|uk|mr|911|6.3|7.7|7.8|7.8|313000|div = mfr}}
+<!-- BRM -->
+{{1974|[[BRM 14 Team Motul P201|BRM #14 Team Motul P201]]|uk|mr|856|4.4|7.0|7.1|8.9|281000|div = f70|dlc = rd}}
+<!-- Bugatti -->
+{{2018|[[Bugatti Chiron]]|fra|ma|869|10|4.6|4.4|8.8|418000|div = mh}}
+{{2019|[[Bugatti Divo]]|fra|ma|870|10|4.8|4.6|8.9|418000|div = mh}}
+{{1992|[[Bugatti EB110 Super Sport]]|fra|ma|697|7.6|3.2|3.2|4.7|171000|div = egtc}}
+{{1926|[[Bugatti Type 35 C]]|fra|fr|263|1.0|1.8|2.0|1.4|134000|div = tbogp}}
+{{2011|[[Bugatti Veyron Super Sport]]|fra|ma|862|10|4.5|4.4|9.3|416000|div = mh}}
+<!-- Buick -->
+{{1985|[[Buick 6 Performance Motorsports Somerset Regal Trans-Am|Buick #6 Performance Motorsports Somerset Regal Trans-Am]]|usa|fr|771|5.0|5.6|5.8|5.0|240000|div = gtx|dlc = pass}}
+{{1970|[[Buick GSX]]|usa|fr|377|2.0|1.2|1.2|3.3|88000|div = sdc}}
+{{1987|[[Buick Regal GNX]]|usa|fr|421|3.1|1.9|2.1|3.2|83000|div = stc}}
+<!-- Cadillac -->
+{{2023|[[Cadillac V-Series.R|Cadillac #01 Cadillac Racing V-Series.R]]|usa|mr|941|6.9|9.8|9.7|8.2|341000|div = fph}}
+{{2023|[[Cadillac V-Series.R|Cadillac #2 Cadillac Racing V-Series.R]]|usa|mr|941|6.9|9.8|9.7|8.2|341000|div = fph}}
+{{2015|[[Cadillac 3 Cadillac Racing ATS-V.R|Cadillac #3 Cadillac Racing ATS-V.R]]|usa|fr|824|5.3|6.3|6.4|6.4|266000|div = fg3|dlc = pass}}
+{{2023|[[Cadillac V-Series.R|Cadillac #31 Whelen Engineering Cadillac Racing V-Series.R]]|usa|mr|941|6.9|9.8|9.7|8.2|341000|div = fph}}
+{{2021|[[Cadillac 31 Whelen Racing DPi-V.R|Cadillac #31 Whelen Racing DPi-V.R]]|usa|mr|950|5.9|9.4|9.5|7.6|350000|div = fph|dlc = pass}}
+{{2018|[[Cadillac 57 TA CTS-V|Cadillac #57 TA CTS-V]]|usa|fr|897|5.5|7.1|7.2|7.1|302000|div = fta|dlc = pass}}
+{{2016|[[Cadillac ATS-V]]|usa|fr|538|5.5|2.6|2.6|3.6|93000|div = mst}}
+{{2022|[[Cadillac CT4-V Blackwing]]|usa|fr|577|5.6|3.0|2.8|4.1|102000|div = mst}}
+{{2022|[[Cadillac CT5-V Blackwing]]|usa|fr|638|6.3|3.3|2.8|4.7|116000|div = mst}}
+{{2016|[[Cadillac CTS-V Sedan]]|usa|fr|629|5.9|2.9|2.5|4.6|114000|div = sl}}
+{{2014|[[Cadillac CTS-V Sport Wagon]]|usa|fr|555|6.7|2.7|2.4|3.9|97000|div = mst}}
+<!-- Caterham -->
+{{2013|[[Caterham Superlight R500]]|uk|fr|669|2.9|3.5|3.4|5.5|130000|div = tt}}
+<!-- Chaparral -->
+{{1966|[[Chaparral 66 Chaparral Cars 2E|Chaparral #66 Chaparral Cars 2E]]|usa|mr|818|4.2|6.9|6.8|5.9|262000|div = pgr}}
+<!-- Chevrolet -->
+{{2020|[[Chevrolet 3 Corvette Racing C8.R|Chevrolet #3 Corvette Racing C8.R]]|usa|mr|821|4.6|6.7|7.0|6.3|264000|div = fg2}}
+{{2014|[[Chevrolet 3 Corvette Racing Corvette C7.R|Chevrolet #3 Corvette Racing Corvette C7.R]]|usa|fr|804|4.6|6.5|6.8|6.0|256000|div = fg2}}
+{{2015|[[Chevrolet 10 Konica Minolta Corvette Daytona Prototype|Chevrolet #10 Konica Minolta Corvette Daytona Prototype]]|usa|mr|912|4.8|9.2|9.1|6.3|315000|div = fp2}}
+{{2018|[[Chevrolet 23 Ruman Racing TA Corvette|Chevrolet #23 Ruman Racing TA Corvette]]|usa|fr|899|5.5|7.1|7.3|6.7|304000|div = fta|dlc = pass}}
+{{2010|[[Chevrolet Oreca FLM09|Chevrolet #55 Level 5 Motorsports Oreca FLM09]]|usa|mr|915|4.7|9.6|9.7|7.1|316000|div = fp2}}
+{{1976|[[Chevrolet 76 Greenwood Corvette|Chevrolet #76 Greenwood Corvette]]|usa|fr|811|7.5|5.2|5.5|7.0|259000|div = gtx}}
+{{1988|[[Chevrolet 77 Beretta Trans Am|Chevrolet #77 Beretta Trans Am]]|usa|fr|758|4.1|5.7|5.7|5.3|174000|div = gtx|hub = y}}
+{{2002|[[Chevrolet Camaro 35th Anniversary Super Sport]]|usa|fr|499|4.2|2.2|2.4|3.0|80000|div = stc}}
+{{1990|[[Chevrolet Camaro IROC-Z]]|usa|fr|367|3.2|1.8|2.1|2.4|60000|div = stc}}
+{{1969|[[Chevrolet Camaro Super Sport Coupe|Chevrolet Camaro Jordan Luka 3 Motorsport Edition]]|usa|fr|693|3.9|4.8|4.7|4.0|157000|div = vm|dlc = gift}}
+{{2016|[[Chevrolet Camaro Super Sport (2016)|Chevrolet Camaro Super Sport]]|usa|fr|583|5.0|2.8|2.8|3.8|92000|div = mst}}
+{{1969|[[Chevrolet Camaro Super Sport Coupe]]|usa|fr|333|1.7|1.1|1.2|2.5|70000|div = vm}}
+{{1970|[[Chevrolet Camaro Z28 (1970)|Chevrolet Camaro Z28]]|usa|fr|353|1.9|1.0|1.1|2.9|75000|div = vm}}
+{{2017|[[Chevrolet Camaro ZL1 (2017)|Chevrolet Camaro ZL1]]|usa|fr|646|5.8|3.5|3.3|4.5|107000|div = mst}}
+{{2018|[[Chevrolet Camaro ZL1 1LE]]|usa|fr|667|5.3|4.0|3.7|4.5|112000|div = mst}}
+{{2018|[[Chevrolet Camaro ZL1 1LE|Chevrolet Camaro ZL1 1LE]]|usa|fr|700|4.9|4.6|4.5|4.6|120000|div = mst|dlc = vip|type = fe}}
+{{1970|[[Chevrolet Chevelle Super Sport 454]]|usa|fr|383|1.1|1.1|1.2|3.2|84000|div = sdc}}
+{{2024|[[Chevrolet Corvette E-Ray]]|usa|ma|759|6.1|4.3|4.0|5.8|275000|div = msgt}}
+{{1967|[[Chevrolet Corvette Stingray 427]]|usa|fr|405|2.7|1.3|1.4|3.0|93000|div = vm}}
+{{2020|[[Chevrolet Corvette Stingray Coupé|Chevrolet Corvette Stingray Coupe]]|usa|mr|678|4.8|3.7|3.7|5.3|115000|div = msgt|dlc = wp}}
+{{2020|[[Chevrolet Corvette Stingray Coupé|Chevrolet Corvette Stingray Coupe]]|usa|mr|700|4.3|4.3|4.4|5.2|120000|div = msgt|dlc = vip|type = fe}}
+{{2002|[[Chevrolet Corvette Z06 (2002)|Chevrolet Corvette Z06]]|usa|fr|599|6.0|2.7|3.3|3.6|103000|div = sgti}}
+{{2015|[[Chevrolet Corvette Z06 (2015)|Chevrolet Corvette Z06]]|usa|fr|721|4.9|4.8|4.5|5.1|203000|div = msgt}}
+{{2023|[[Chevrolet Corvette Z06 (2023)|Chevrolet Corvette Z06]]|usa|mr|757|5.1|5.1|4.5|6.2|274000|div = msgt}}
+{{2009|[[Chevrolet Corvette ZR1 (2009)|Chevrolet Corvette ZR1]]|usa|fr|707|7.1|3.8|3.7|5.5|149000|div = msgt}}
+{{2019|[[Chevrolet Corvette ZR1 (2019)|Chevrolet Corvette ZR1]]|usa|fr|756|6.1|4.6|4.3|6.3|272000|div = msgt}}
+{{1970|[[Chevrolet Corvette ZR-1 (1970)|Chevrolet Corvette ZR-1]]|usa|fr|386|1.5|1.3|1.6|2.5|85000|div = vm}}
+{{1995|[[Chevrolet Corvette ZR-1 (1995)|Chevrolet Corvette ZR-1]]|usa|fr|579|5.0|2.6|3.0|3.6|105000|div = sgti}}
+{{2025|[[Chevrolet IndyCar (2025)|Chevrolet IndyCar]]|usa|mr|993|8.2|10|10|7.1|440000|div = ind}}
+{{1988|[[Chevrolet Monte Carlo Super Sport]]|usa|fr|255|1.0|1.4|1.5|1.3|11000|div = stc}}
+{{2024|[[Chevrolet NASCAR Next Gen Camaro ZL1]]|usa|fr|855|6.0|7.0|7.0|5.5|293000|div = nas}}
+{{1969|[[Chevrolet Nova Super Sport 396]]|usa|fr|354|2.5|1.0|1.0|2.7|76000|div = sdc}}
+<!-- Chevron -->
+{{1970|[[Chevron B16]]|uk|mr|654|3.1|5.3|5.3|4.2|184000|div = vlmp|tour = Open Class Tour - GT Street Builders}}
+<!-- Chrysler -->
+{{1972|[[Chrysler VH Valiant Charger R/T E49]]|usa|fr|361|1.9|1.0|1.1|3.0|76000|div = sdc}}
+<!-- Citroën -->
+{{2011|[[DS Automobiles DS 3 Racing|Citroën DS 3 Racing]]|fra|ff|379|1.8|2.3|2.3|2.4|40000|div = mhh}}
+<!-- Datsun -->
+{{1979|[[Datsun 33 Bob Sharp Racing 280ZX Turbo|Datsun #33 280ZX Turbo]]|jpn|fr|842|6.3|6.0|6.1|7.4|275000|div = gtx}}
+{{1970|[[Datsun 510]]|jpn|fr|223|1.0|1.0|1.0|1.2|14000|div = vsc}}
+{{1969|[[Datsun 2000 Roadster]]|jpn|fr|251|1.0|1.0|1.1|1.4|22000|div = sci}}
+<!-- De Tomaso -->
+{{1984|[[De Tomaso Pantera GT5]]|ita|mr|502|3.1|2.8|2.9|3.1|122000|div = vegt|dlc = rh}}
+<!-- Dodge -->
+{{2019|[[Dodge 9 American V8 Road Racing TA Challenger|Dodge #9 American V8 Road Racing TA Challenger]]|usa|fr|898|5.4|7.2|7.3|7.0|302000|div = fta|dlc = pass}}
+{{2014|[[Dodge SRT Motorsports Viper GTS-R|Dodge #93 SRT Motorsports Viper GTS-R]]|usa|fr|808|4.5|6.5|6.8|5.5|258000|div = fg2}}
+{{1970|[[Dodge Challenger R/T]]|usa|fr|395|2.9|1.2|1.3|3.2|87000|div = sdc}}
+{{2018|[[Dodge Challenger SRT Demon]]|usa|fr|679|7.2|5.5|2.5|5.1|115000|div = mst|hub = y}}
+{{2012|[[Dodge Challenger SRT8 (2012)|Dodge Challenger SRT8]]|usa|fr|548|5.1|2.7|2.4|4.1|84000|div = mst}}
+{{1969|[[Dodge Charger Daytona HEMI]]|usa|fr|392|2.1|1.4|1.5|3.2|87000|div = vm}}
+{{1969|[[Dodge Charger R/T]]|usa|fr|376|3.0|1.1|1.2|3.0|83000|div = vm}}
+{{2015|[[Dodge Charger SRT Hellcat]]|usa|fr|620|7.1|2.8|2.4|4.4|101000|div = mst}}
+{{1970|[[Dodge Coronet Super Bee]]|usa|fr|398|3.2|1.3|1.4|3.1|88000|div = sdc}}
+{{2013|[[Dodge Dart GT]]|usa|ff|315|2.5|1.7|2.0|1.8|27000|div = mscm}}
+{{1986|[[Dodge Shelby Omni GLHS]]|usa|ff|306|1.2|1.6|1.6|2.2|47000|div = hhi}}
+{{2005|[[Dodge SRT-4 ACR]]|usa|ff|429|3.4|1.7|1.9|2.8|62000|div = esc}}
+{{1996|[[Dodge Stealth R/T Turbo]]|usa|fa|449|4.3|2.0|2.3|2.6|75000|div = esc}}
+{{2016|[[Dodge Viper ACR]]|usa|fr|767|4.1|6.1|5.6|5.5|284000|div = msgt}}
+{{1999|[[Dodge Viper GTS ACR]]|usa|fr|602|5.3|3.3|3.3|3.7|106000|div = sgti}}
+{{2008|[[Dodge Viper SRT10 ACR]]|usa|fr|737|4.4|5.4|5.3|4.6|245000|div = msgt}}
+<!-- Donkervoort -->
+{{2013|[[Donkervoort D8 GTO]]|net|fr|717|3.5|4.6|4.5|5.2|205000|div = tt}}
+<!-- Eagle -->
+{{1998|[[Eagle Talon TSi Turbo]]|usa|fa|320|2.6|1.5|1.9|1.9|39000|div = esc}}
+<!-- Eagle-Weslake -->
+{{1967|[[Eagle-Weslake T1G]]|usa|mr|763|5.2|4.4|4.7|6.4|235000|div = f60}}
+<!-- Elemental -->
+{{2019|[[Elemental RP1|Elemental Rp1]]|uk|mr|784|2.7|7.1|7.2|6.2|314000|div = tt}}
+<!-- Exomotive -->
+{{2018|[[Exomotive Exocet Sport V8 XP-5]]|usa|fr|776|4.2|5.3|5.1|4.2|309000|div = tt}}
+<!-- Ferrari -->
+{{1976|[[Ferrari 1 Scuderia Ferrari 312 T2|Ferrari #1 Scuderia Ferrari 312 T2]]|ita|mr|871|4.6|7.8|7.9|9.7|288000|div = f70}}
+{{1990|[[Ferrari 1 Scuderia Ferrari 641|Ferrari #1 Scuderia Ferrari 641]]|ita|mr|999|6.8|10|10|10|450000|div = gpr}}
+{{1998|[[Ferrari F333 SP|Ferrari #12 Risi Competizione F333 SP]]|ita|mr|935|5.5|8.9|9.3|7.7|334000|div = elmp}}
+{{1967|[[Ferrari 24 Ferrari Spa 330 P4|Ferrari #24 Ferrari Spa 330 P4]]|ita|mr|764|5.9|4.7|5.2|6.5|235000|div = vlmp}}
+{{2017|[[Ferrari 25 Corse Clienti 488 Challenge|Ferrari #25 Corse Clienti 488 Challenge]]|ita|mr|830|4.6|6.3|6.2|6.9|269000|div = 488}}
+{{2011|[[Ferrari 62 Risi Competizione F458 Italia GTC|Ferrari #62 Risi Competizione 458 Italia GTC]]|ita|mr|805|4.9|6.3|6.5|5.3|262000|div = fg3}}
+{{2019|[[Ferrari 62 Risi Competizione 488 GTE|Ferrari #62 Risi Competizione 488 GTE]]|ita|mr|835|5.0|6.4|6.6|6.7|273000|div = fg2|dlc = pass}}
+{{1982|[[Ferrari 512 BB/LM|Ferrari #72 N.A.R.T. 512 BB/LM]]|ita|rr|774|6.3|5.4|5.9|5.1|241000|div = gtx}}
+{{1948|[[Ferrari 166 Inter Sport]]|ita|fr|342|1.2|1.9|2.1|2.3|65000|div = tbogp}}
+{{1962|[[Ferrari 250 GT Berlinetta Lusso]]|ita|fr|381|2.7|1.4|1.5|2.9|119000|div = sci}}
+{{1962|[[Ferrari 250 GTO]]|ita|fr|560|4.3|2.6|3.2|3.8|160000|div = vlms}}
+{{1963|[[Ferrari 250LM]]|ita|mr|624|5.0|3.1|3.3|3.6|174000|div = vlms}}
+{{1957|[[Ferrari 250 Testa Rossa]]|ita|fr|559|3.7|2.3|2.7|4.2|164000|div = vlms}}
+{{1984|[[Ferrari 288 GTO]]|ita|mr|569|5.0|2.6|2.9|4.0|141000|div = sgti}}
+{{2022|[[Ferrari 296 GTB]]|ita|mr|786|7.6|4.5|4.2|6.4|329000|div = msgt}}
+{{2003|[[Ferrari 360 Challenge Stradale]]|ita|mr|644|5.5|3.8|3.9|4.1|142000|div = sgti}}
+{{2007|[[Ferrari 430 Scuderia]]|ita|mr|707|6.4|4.2|4.0|5.4|177000|div = msgt}}
+{{2009|[[Ferrari 458 Italia]]|ita|mr|727|6.5|4.2|3.9|6.0|250000|div = msgt}}
+{{2013|[[Ferrari 458 Speciale]]|ita|mr|782|6.9|5.0|4.7|6.7|326000|div = msgt}}
+{{2015|[[Ferrari 488 GTB]]|ita|mr|753|7.9|4.0|3.8|6.2|297000|div = msgt|tour = Open Class Tour - Italian Manufacturers}}
+{{2019|[[Ferrari 488 Pista]]|ita|mr|804|6.7|5.2|5.0|6.7|348000|div = msgt}}
+{{1953|[[Ferrari 500 Mondial]]|ita|fr|365|2.1|1.6|2.1|2.1|123000|div = vlms}}
+{{1970|[[Ferrari 512 S]]|ita|mr|843|6.7|5.9|6.3|7.9|275000|div = vlmp}}
+{{1992|[[Ferrari 512 TR]]|ita|mr|533|5.2|2.5|2.9|3.2|126000|div = egtc}}
+{{2002|[[Ferrari 575M Maranello]]|ita|fr|585|5.8|2.6|2.7|4.4|128000|div = egtc}}
+{{2010|[[Ferrari 599XX]]|ita|fr|836|6.2|6.0|5.8|7.1|1300000|div = mfr|tour = Open Class Tour - Engine Cylinders}}
+{{2012|[[Ferrari 599XX Evolution]]|ita|fr|869|7.0|6.7|6.5|7.3|288000|div = mfr}}
+{{2017|[[Ferrari 812 Superfast]]|ita|fr|783|9.2|4.4|4.1|6.6|327000|div = megt}}
+{{2014|[[Ferrari California T]]|ita|fr|653|6.0|3.4|3.1|5.1|138000|div = msgt}}
+{{1969|[[Ferrari Dino 246 GT]]|ita|mr|311|2.1|1.5|1.8|2.0|93000|div = vegt}}
+{{2002|[[Ferrari Enzo Ferrari]]|ita|mr|787|7.3|5.3|5.3|6.3|338000|div = egtc}}
+{{1964|[[Ferrari F-158]]|ita|mr|677|3.6|4.4|4.5|5.3|194000|div = f60}}
+{{1994|[[Ferrari F355 Berlinetta]]|ita|mr|568|5.2|2.7|3.0|3.6|132000|div = sgti}}
+{{2019|[[Ferrari F8 Tributo]]|ita|mr|766|8.7|4.1|3.9|6.7|311000|div = megt}}
+{{2015|[[Ferrari F12tdf]]|ita|fr|766|7.9|4.7|4.5|6.2|311000|div = megt}}
+{{1987|[[Ferrari F40]]|ita|mr|699|6.1|3.6|4.0|5.6|170000|div = egtc}}
+{{1989|[[Ferrari F40 Competizione]]|ita|mr|874|7.8|6.6|7.1|6.5|290000|div = efr}}
+{{1995|[[Ferrari F50]]|ita|mr|683|5.9|4.1|4.4|4.4|159000|div = egtc}}
+{{1996|[[Ferrari F50 GT]]|ita|mr|913|7.7|7.0|7.2|7.5|315000|div = efr}}
+{{2014|[[Ferrari FXX K]]|ita|mr|922|7.3|7.7|7.7|7.7|322000|div = mfr}}
+{{2018|[[Ferrari FXX-K Evo]]|ita|mr|934|7.6|8.1|8.1|7.8|333000|div = mfr}}
+{{2017|[[Ferrari J50]]|ita|mr|763|8.3|4.1|3.9|6.3|309000|div = megt}}
+{{2013|[[Ferrari LaFerrari]]|ita|mr|859|7.3|5.9|5.8|7.4|409000|div = megt}}
+{{2019|[[Ferrari Monza SP2]]|ita|fr|766|8.2|4.0|3.7|6.3|311000|div = megt}}
+{{2018|[[Ferrari Portofino]]|ita|fr|686|7.1|3.6|3.3|5.5|146000|div = megt}}
+{{2020|[[Ferrari Roma]]|ita|fr|707|5.8|3.7|3.3|5.4|179000|div = megt}}
+{{2020|[[Ferrari SF90 Stradale]]|ita|ma|854|9.0|4.5|4.3|8.3|404000|div = megt}}
+<!-- Ford -->
+{{2015|[[Ford 02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype|Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype]]|usa|mr|921|5.1|9.3|9.2|6.8|322000|div = fp2}}
+{{1966|[[Ford GT40 Mk II|Ford #2 GT40 Mk II Le Mans]]|usa|mr|728|6.0|4.3|4.6|5.0|217000|div = vlmp|dlc = hubdealer}}
+{{1981|[[Ford Capri Turbo|Ford #2 Zakspeed Racing Capri Turbo]]|usa|fr|799|4.6|6.2|6.5|5.2|253000|div = gtx}}
+{{1982|[[Ford 6 Zakspeed Roush Mustang IMSA GT|Ford #6 Zakspeed Roush Mustang IMSA GT]]|usa|fr|810|4.5|6.2|6.4|5.6|259000|div = gtx}}
+{{1970|[[Ford 15 Mustang Boss 302 Trans Am|Ford #15 Mustang Boss 302 Trans Am]]|usa|fr|584|3.0|3.7|3.5|3.2|189000|div = vta|hub = y}}
+{{1991|[[Ford 15 Roush Racing Whistler Mustang|Ford #15 Roush Racing Whistler Mustang]]|usa|fr|824|7.2|5.6|5.9|5.8|266000|div = gtx|dlc = pass}}
+{{2014|[[Ford 17 AMD Tuning Focus ST BTCC|Ford #17 AMD Tuning Focus ST BTCC]]|usa|ff|703|3.4|5.2|5.4|4.3|204000|div = ftc|dlc = rd}}
+{{2017|[[Ford Falcon FG X|Ford #17 Shell V-Power Racing Team Falcon FG X]]|usa|fr|785|5.0|5.6|5.6|5.7|246000|div = fau}}
+{{2024|[[Ford Mustang RTR (2024)|Ford #25 Mustang RTR]]|usa|fr|810|6.8|4.6|4.5|6.1|236000|div = fd}}
+{{2016|[[Ford 66 Ford Racing GT Le Mans|Ford #66 Ford Racing GT Le Mans]]|usa|mr|820|4.6|6.6|6.9|5.6|264000|div = fg2}}
+{{2024|[[Ford Mustang RTR (2024)|Ford #88 Mustang RTR]]|usa|fr|810|6.8|4.6|4.5|6.1|236000|div = fd}}
+{{2018|[[Ford 98 Breathless Pro Racing TA Mustang|Ford #98 Breathless Pro Racing TA Mustang]]|usa|fr|897|5.5|7.1|7.2|6.7|302000|div = fta|dlc = pass}}
+{{2024|[[Ford Mustang RTR (2024)|Ford #130 Mustang RTR]]|usa|fr|837|5.6|4.6|4.5|6.8|236000|div = fd}}
+{{1973|[[Ford Escort RS1600]]|usa|fr|263|1.0|1.2|1.2|1.7|27000|div = vsc}}
+{{1977|[[Ford Escort RS1800]]|usa|fr|267|1.0|1.3|1.3|1.7|27000|div = vsc}}
+{{1992|[[Ford Escort RS Cosworth]]|usa|fa|421|2.7|2.5|2.8|2.4|73000|div = hhi}}
+{{1986|[[Ford Escort RS Turbo]]|usa|ff|290|1.0|1.4|1.6|1.9|37000|div = hhi}}
+{{1992|[[Ford Falcon GT]]|usa|fr|396|3.5|1.8|2.0|2.6|67000|div = stc}}
+{{2015|[[Ford Falcon GT F 351]]|usa|fr|544|5.6|2.6|2.4|3.6|83000|div = mst}}
+{{1972|[[Ford Falcon XA GT-HO]]|usa|fr|374|3.5|1.3|1.4|2.8|79000|div = vm}}
+{{1981|[[Ford Fiesta XR2]]|usa|ff|243|1.0|1.2|1.2|1.2|11000|div = hhi}}
+{{2003|[[Ford Focus RS (2003)|Ford Focus RS]]|usa|ff|384|1.9|2.1|2.1|2.6|53000|div = mhh}}
+{{2009|[[Ford Focus RS (2009)|Ford Focus RS]]|usa|ff|485|2.8|2.6|2.6|3.0|70000|div = mhh}}
+{{2017|[[Ford Focus RS (2017)|Ford Focus RS]]|usa|fa|535|4.1|2.6|2.6|3.3|80000|div = mhh}}
+{{2014|[[Ford FPV Limited Edition Pursuit Ute]]|usa|fr|479|4.3|2.0|2.2|3.3|63000|div = mst}}
+{{2005|[[Ford GT (2005)|Ford GT]]|usa|mr|642|6.6|3.4|3.5|4.2|111000|div = msgt}}
+{{2017|[[Ford GT (2017)|Ford GT]]|usa|mr|795|7.9|4.8|4.8|6.8|310000|div = msgt|hub = y}}
+{{1964|[[Ford GT40 Mk I]]|usa|fr|691|5.3|4.0|4.4|4.4|200000|div = vlmp}}
+{{1966|[[Ford Lotus Cortina]]|usa|fr|248|1.0|1.1|1.1|1.4|22000|div = vsc}}
+{{1969|[[Ford Mustang Boss 302]]|usa|fr|343|2.7|1.3|1.4|2.4|73000|div = vm}}
+{{2024|[[Ford Mustang Dark Horse]]|usa|fr|633|5.4|3.8|3.5|4.0|97000|div = mst|dlc = pass}}
+{{2018|[[Ford Mustang GT (2018)|Ford Mustang GT]]|usa|fr|568|4.9|2.7|2.7|3.7|88000|div = mst}}
+{{2024|[[Ford Mustang GT (2024)|Ford Mustang GT]]|usa|fr|579|4.9|2.8|2.8|3.8|91000|div = mst}}
+{{1968|[[Ford Mustang GT 2+2 Fastback]]|usa|fr|297|3.0|1.0|1.0|2.3|59000|div = vm}}
+{{1965|[[Ford Mustang GT Coupe]]|usa|fr|338|2.3|1.1|1.2|2.9|75000|div = vm}}
+{{2024|[[Ford Mustang GT3]]|usa|fr|829|5.0|6.9|6.8|6.1|310000|div = fg3|dlc = rh}}
+{{2020|[[Ford Mustang Shelby GT500]]|usa|fr|724|6.4|4.1|3.9|5.3|210000|div = mst}}
+{{1986|[[Ford Mustang SVO]]|usa|fr|314|1.9|1.9|2.2|2.0|49000|div = stc}}
+{{1995|[[Ford Mustang SVT Cobra R]]|usa|fr|443|3.5|2.4|2.5|2.8|74000|div = stc}}
+{{2024|[[Ford NASCAR Next Gen Mustang Dark Horse]]|usa|fr|855|6.0|7.0|7.0|5.5|293000|div = nas}}
+{{1999|[[Ford Racing Puma]]|usa|ff|303|1.4|2.1|2.2|1.7|34000|div = esc}}
+{{2016|[[Ford Shelby GT350R|Ford Shelby GT-350R]]|usa|fr|651|5.0|4.0|3.8|3.9|108000|div = mst}}
+{{2013|[[Ford Shelby GT500 (2013)|Ford Shelby GT500]]|usa|fr|639|6.1|2.9|2.9|4.1|105000|div = mst}}
+{{1987|[[Ford Sierra Cosworth RS500]]|usa|fr|395|2.6|2.2|2.5|2.7|71000|div = stc}}
+{{1993|[[Ford SVT Cobra R (1993)|Ford SVT Cobra R]]|usa|fr|374|2.2|2.2|2.4|2.3|60000|div = stc}}
+{{2000|[[Ford SVT Cobra R (2000)|Ford SVT Cobra R]]|usa|fr|533|4.3|3.1|3.0|3.2|89000|div = stc}}
+{{1973|[[Ford XB Falcon GT]]|usa|fr|337|2.0|1.3|1.2|2.8|68000|div = vm}}
+<!-- Formula Drift -->
+{{2015|[[Formula Drift 13 Ford Mustang|Formula Drift #13 Ford Mustang]]|usa|fr|767|3.3|4.2|4.1|5.6|243000|div = fd}}
+{{2006|[[Formula Drift 43 Dodge Viper SRT10|Formula Drift #43 Dodge Viper SRT10]]|usa|fr|816|6.1|4.7|4.6|6.1|262000|div = fd}}
+{{1995|[[Formula Drift 34 Toyota Supra MkIV|Formula Drift #34 Toyota Supra MkIV]]|usa|fr|813|7.0|4.0|4.1|6.1|261000|div = fd}}
+<!--{{2018|[[Formula Drift 64 Nissan 370Z|Formula Drift #64 Nissan 370Z]]|usa|fr|div = fd}}-->
+{{2020|[[Formula Drift 91 BMW M2|Formula Drift #91 BMW M2]]|usa|fr|801|4.9|4.3|4.3|6.3|255000|div = fd}}
+{{2020|[[Formula Drift 151 Toyota GR Supra|Formula Drift #151 Toyota GR Supra]]|usa|fr|801|4.1|4.4|4.2|5.7|256000|div = fd}}
+{{2001|[[Formula Drift 215 Nissan Silvia Spec-R|Formula Drift #215 Nissan Silvia Spec-R]]|usa|fr|801|6.1|3.9|4.1|6.4|296000|div = fd|dlc = rh}}
+{{2016|[[Formula Drift 530 HSV Maloo Gen-F|Formula Drift #530 HSV Maloo GEN-F]]|usa|fr|768|6.6|3.7|3.8|5.4|238000|div = fd}}
+{{1997|[[Formula Drift 777 Nissan 240SX|Formula Drift #777 Nissan 240SX]]|usa|fr|799|5.0|4.1|3.9|6.5|252000|div = fd}}
+<!--Forsberg Racing -->
+{{1975|[[Forsberg Racing Nissan 'Gold Leader' Datsun 280Z]]|usa|fr|633|5.1|3.0|3.0|4.5|148000|div = fd}}
+<!-- Ginetta -->
+{{2019|[[Ginetta 6 Team LNT Ginetta G60-LT-P1|Ginetta #6 Team LNT Ginetta G60-LT-P1]]|uk|mr|981|7.1|10|10|8.1|418000|div = fp1}}
+{{2019|[[Ginetta G40 Junior]]|uk|fr|300|1.0|2.8|2.8|1.6|45000|div = g40}}
+{{2019|[[Ginetta G55 GT4]]|uk|fr|723|3.4|5.3|5.4|4.7|215000|div = fg4|dlc = pass}}
+<!-- Gordon Murray Automotive -->
+{{2022|[[Gordon Murray Automotive T.50]]|uk|mr|859|8.2|6.2|6.1|6.3|403000|div = megt}}
+<!-- HDT-->
+{{1985|[[HDT VK Commodore Group A]]|oz|fr|359|1.9|1.7|1.6|2.4|63000|div = stc}}
+<!-- Hennessey -->
+{{2019|[[Hennessey Camaro Exorcist]]|usa|fr|725|7.4|3.7|3.9|4.9|238000|div = megt|hub = y}}
+<!-- Holden -->
+{{2013|[[Holden VF Commodore|Holden #10 Xbox Racing Team Commodore VF]]|oz|fr|781|4.8|5.5|5.5|5.8|600000|div = fau|hub = y}}
+{{2017|[[Holden VF Commodore|Holden #22 Walkinshaw Performance VF Commodore]]|oz|fr|785|5.0|5.5|5.5|5.9|247000|div = fau}}
+{{1973|[[Holden HQ Monaro GTS 350]]|oz|fr|321|1.3|1.1|1.2|2.6|63000|div = vm}}
+{{1991|[[Holden HSV Commodore Group A SV]]|oz|fr|388|4.1|1.9|2.0|2.4|66000|div = stc}}
+{{1968|[[Holden Monaro GTS 327]]|oz|fr|282|1.3|1.0|1.0|2.4|47000|div = sdc}}
+{{1977|[[Holden Torana A9X]]|oz|fr|298|1.4|1.0|1.1|2.6|51000|div = vsc}}
+{{1988|[[Holden VL Commodore Group A SV]]|oz|fr|359|3.1|1.7|1.8|2.4|60000|div = stc}}
+<!-- Honda -->
+{{2020|[[Honda 73 LA Honda World Racing Civic|Honda #73 LA Honda World Racing Civic]]|jpn|ff|693|2.9|5.3|5.4|4.3|200000|div = ftc}}
+{{1997|[[Honda Civic Type R (1997)|Honda Civic Type R]]|jpn|ff|348|2.6|1.6|1.9|2.2|49000|div = hhi}}
+{{2004|[[Honda Civic Type-R (2004)|Honda Civic Type R]]|jpn|ff|379|2.5|1.8|2.1|2.2|51000|div = mhh}}
+{{2018|[[Honda Civic Type R (2018)|Honda Civic Type R]]|jpn|ff|571|4.9|2.8|3.1|3.5|89000|div = mhh}}
+{{1991|[[Honda CR-X SiR]]|jpn|ff|305|1.9|1.7|2.1|1.7|42000|div = hhi}}
+{{2025|[[Honda IndyCar (2025)|Honda IndyCar]]|jpn|mr|993|8.2|10|10|7.1|440000|div = ind}}
+{{1992|[[Honda NSX-R (1992)|Honda NSX-R]]|jpn|mr|502|4.0|2.5|2.8|3.2|90000|div = sgti}}
+{{2005|[[Honda NSX-R (2005)|Honda NSX-R]]|jpn|mr|524|4.4|2.7|3.0|3.3|83000|div = sgti}}
+{{2000|[[Honda Prelude Type SH]]|jpn|ff|312|2.0|1.5|1.7|2.1|35000|div = esc}}
+{{1967|[[Honda RA300]]|jpn|mr|747|4.9|4.3|4.1|7.2|227000|div = f60}}
+{{1970|[[Honda S800]]|jpn|fr|210|1.0|1.3|1.2|1.1|14000|div = sci}}
+{{2009|[[Honda S2000 CR]]|jpn|fr|405|3.0|2.2|2.5|2.4|53000|div = mscm}}
+<!-- HSV -->
+{{2014|[[HSV GEN-F GTS]]|oz|fr|560|5.7|2.7|2.5|4.0|98000|div = mst}}
+{{2011|[[HSV GTS]]|oz|fr|503|4.7|2.4|2.5|3.3|85000|div = mst|hub = y}}
+{{1996|[[HSV GTSR]]|oz|fr|416|3.6|1.9|2.0|2.7|79000|div = stc}}
+{{2014|[[HSV Limited Edition Gen-F GTS Maloo]]|oz|fr|568|4.7|2.8|2.5|3.8|100000|div = mst}}
+<!-- Hyundai -->
+{{2021|[[Hyundai 98 Bryan Herta Autosport Elantra N|Hyundai #98 Bryan Herta Autosport Elantra N]]|kor|ff|670|3.2|5.0|5.1|4.0|191000|div = ftc}}
+{{2020|[[Hyundai 98 Bryan Herta Autosport Veloster N|Hyundai #98 Bryan Herta Autosport Veloster N]]|kor|ff|692|3.3|5.2|5.4|4.3|200000|div = ftc}}
+{{2022|[[Hyundai Elantra N]]|kor|ff|480|3.8|2.2|2.5|3.0|57000|div = mscm}}
+{{2021|[[Hyundai i20 N]]|kor|ff|438|2.3|2.4|2.7|2.6|48000|div = mhh}}
+{{2020|[[Hyundai i30 N]]|kor|ff|466|3.4|2.5|2.5|2.8|54000|div = mhh}}
+{{2023|[[Hyundai IONIQ 5 N]]|kor|ma|683|3.2|2.7|2.6|4.5|105000|div = mhh|hub = y}}
+{{2019|[[Hyundai Veloster N]]|kor|ff|468|3.6|2.6|2.7|2.7|54000|div = mhh}}
+{{2019|[[Hyundai Veloster N|Hyundai Veloster N]]|kor|ff|497|2.8|3.3|3.5|2.6|60000|div = mhh|dlc = vip|type = fe}}
+<!-- Infiniti -->
+{{2003|[[Infiniti G35 Coupe]]|usa|fr|415|4.4|2.1|2.3|2.6|73000|div = stc}}
+{{2012|[[Infiniti IPL G Coupe]]|usa|fr|442|4.3|2.3|2.3|2.8|72000|div = mst}}
+{{2014|[[Infiniti Q50 Eau Rouge]]|usa|fa|663|7.3|2.9|2.6|4.8|123000|div = sl}}
+<!-- Jaguar -->
+{{1988|[[Jaguar XJR-9|Jaguar #1 Jaguar Racing XJR-9]]|uk|mr|969|6.2|10|10|8.8|395000|div = gtp}}
+{{1983|[[Jaguar 44 Group 44 XJR-5|Jaguar #44 Group 44 XJR-5]]|uk|mr|928|7.2|9.2|9.9|7.5|328000|div = gtp}}
+{{1956|[[Jaguar D-Type]]|uk|fr|493|4.7|2.3|2.9|2.3|138000|div = vlms}}
+{{1961|[[Jaguar E-type]]|uk|fr|304|1.5|1.3|1.5|1.9|87000|div = vlms}}
+{{2015|[[Jaguar F-TYPE R Coupe]]|uk|fr|646|6.4|3.2|2.9|4.7|124000|div = mscu}}
+{{1959|[[Jaguar Mk II 3.8]]|uk|fr|252|1.0|1.0|1.0|1.6|49000|div = sci}}
+{{1991|[[Jaguar Sport XJR-15]]|uk|mr|740|6.5|3.7|4.1|5.6|285000|div = egtc}}
+{{2015|[[Jaguar XFR-S]]|uk|fr|570|6.6|2.9|2.6|4.0|106000|div = sl}}
+{{2015|[[Jaguar XKR-S GT]]|uk|fr|646|6.1|3.6|3.3|4.7|124000|div = mst}}
+{{1993|[[Jaguar XJ220]]|uk|mr|700|7.0|3.6|3.8|5.5|154000|div = egtc}}
+{{1993|[[Jaguar XJ220S TWR]]|uk|mr|786|7.9|4.2|4.5|6.4|334000|div = egtc}}
+<!-- Koenigsegg -->
+{{2017|[[Koenigsegg Agera RS]]|swe|mr|905|10|5.6|5.5|7.8|430000|div = mh}}
+{{2020|[[Koenigsegg Jesko]]|swe|mr|941|10|6.3|6.3|7.8|450000|div = mh}}
+{{2015|[[Koenigsegg One:1]]|swe|mr|916|10|6.0|6.0|8.0|436000|div = mh}}
+<!-- KTM -->
+{{2020|[[KTM X-Bow GT2]]|aus|mr|849|5.1|6.6|6.8|6.7|278000|div = mfr}}
+{{2018|[[KTM X-Bow GT4]]|aus|mr|750|2.5|7.3|7.3|4.9|229000|div = fg4}}
+{{2013|[[KTM X-Bow R]]|aus|mr|685|2.0|5.4|5.3|4.6|134000|div = tt}}
+<!-- Lamborghini -->
+{{2015|[[Lamborghini 63 Squadra Corse Huracán LP620-2 Super Trofeo|Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo]]|ita|mr|814|4.1|6.6|6.4|6.4|261000|div = st}}
+{{2018|[[Lamborghini 63 Squadra Corse Huracán Super Trofeo Evo|Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo]]|ita|mr|824|5.0|6.5|6.6|6.1|266000|div = st|dlc = pass}}
+{{2012|[[Lamborghini Aventador J]]|ita|ma|777|6.7|4.2|4.1|6.8|316000|div = megt}}
+{{2016|[[Lamborghini Aventador Superveloce]]|ita|ma|785|7.1|4.4|4.2|6.7|323000|div = megt}}
+{{2018|[[Lamborghini Aventador SVJ]]|ita|ma|823|7.3|5.0|4.9|7.1|363000|div = megt}}
+{{2016|[[Lamborghini Centenario LP 770-4]]|ita|ma|803|7.2|4.5|4.4|6.9|341000|div = megt}}
+{{1988|[[Lamborghini Countach LP5000 QV]]|ita|mr|588|4.4|2.7|3.1|3.9|136000|div = egtc}}
+{{2021|[[Lamborghini Countach LPI 800-4]]|ita|ma|780|7.1|4.1|3.8|6.8|338000|div = mh|hub = y}}
+{{1999|[[Lamborghini Diablo GTR]]|ita|mr|748|6.7|4.9|5.0|4.9|227000|div = efr}}
+{{1997|[[Lamborghini Diablo SV]]|ita|mr|653|6.9|3.0|3.3|4.5|144000|div = egtc}}
+{{1973|[[Lamborghini Espada 400 GT]]|ita|fr|357|2.7|1.5|1.7|2.5|96000|div = vegt}}
+{{2020|[[Lamborghini Essenza SCV12]]|ita|mr|923|7.2|8.3|8.2|6.9|324000|div = mfr}}
+{{2011|[[Lamborghini Gallardo LP 570-4 Superleggera]]|ita|ma|731|7.0|3.6|3.7|5.0|253000|div = msgt}}
+{{2020|[[Lamborghini Huracán EVO]]|ita|ma|752|6.3|4.1|3.8|5.8|291000|div = msgt}}
+{{2022|[[Lamborghini Huracán EVO Spyder]]|ita|ma|736|6.3|3.9|3.6|5.5|220000|div = msgt|hub = y}}
+{{2014|[[Lamborghini Huracán LP 610-4]]|ita|ma|763|6.7|4.0|3.8|6.2|303,000|div = msgt}}
+{{2018|[[Lamborghini Huracán Performante]]|ita|ma|781|6.3|4.6|4.4|6.2|319000|div = msgt}}
+{{2020|[[Lamborghini Huracán STO]]|ita|mr|766|6.0|5.0|4.7|6.4|305000|div = msgt}}
+{{1972|[[Lamborghini Jarama S]]|ita|fr|377|2.8|1.7|1.7|2.8|103000|div = vegt}}
+{{1967|[[Lamborghini Miura P400]]|ita|mr|402|3.5|1.6|1.8|2.9|115000|div = vegt}}
+{{2010|[[Lamborghini Murciélago LP 670-4 SV]]|ita|ma|755|6.8|4.1|3.9|5.2|276000|div = megt|tour = Italian Challengers}}
+{{2008|[[Lamborghini Reventón]]|ita|ma|719|7.4|3.6|3.5|4.3|217000|div = megt|tour = July Open Class Tour}}
+{{2024|[[Lamborghini Revuelto]]|ita|ma|834|8.5|4.5|4.3|7.9|375000|div = megt}}
+{{2024|[[Lamborghini SC63]]|ita|mr|956|6.9|9.9|9.9|8.2|373000|div = fph}}
+{{2011|[[Lamborghini Sesto Elemento]]|ita|ma|819|6.5|4.6|4.6|7.2|358000|div = msgt|tour = Prestige Tour}}
+{{2019|[[Lamborghini Sián FKP 37]]|ita|ma|806|7.6|4.4|4.2|7.0|345000|div = mh}}
+{{2013|[[Lamborghini Veneno]]|ita|ma|833|7.1|5.6|5.6|6.9|374000|div = mh}}
+<!-- Lancia -->
+{{1992|[[Lancia Delta HF Integrale Evo|Lancia Delta HF Integrale EVO]]|ita|fa|309|1.6|1.6|1.6|2.0|70000|div = hhi}}
+<!-- Lexus -->
+{{2020|[[Lexus 14 VASSER SULLIVAN RC F GT3|Lexus #14 VASSER SULLIVAN RC F GT3]]|usa|fr|784|4.7|6.2|6.3|5.4|246000|div = fg3|dlc = pass}}
+{{2013|[[Lexus GS350 F Sport]]|usa|fa|459|4.7|2.1|2.3|2.7|75000|div = sl}}
+{{2014|[[Lexus IS 350 F Sport]]|usa|fr|417|4.3|2.0|2.1|2.8|67000|div = mst}}
+{{2021|[[Lexus LC 500]]|usa|fr|542|5.8|2.7|2.6|3.6|94000|div = sl}}
+{{2010|[[Lexus LFA]]|usa|fr|697|6.0|4.1|3.9|5.0|131000|div = msgt|hub = y}}
+{{2015|[[Lexus RC F]]|usa|fr|542|6.4|2.7|2.8|3.4|94000|div = mscu}}
+{{2020|[[Lexus RC F Track Edition]]|usa|fr|575|5.8|3.3|3.0|3.8|101000|div = mscu}}
+<!-- Ligier -->
+{{2016|[[Ligier 11 Eurointernational JS P3|Ligier #11 Eurointernational JS P3]]|fra|mr|897|3.9|9.1|9.3|6.7|282000|div = fp3|dlc = pass}}
+<!-- Lola -->
+{{1969|[[Lola 6 Penske Sunoco T70 MkIIIB|Lola #6 Penske Sunoco T70 MkIIIB]]|uk|mr|798|5.2|5.9|6.2|7.1|253000|div = pgr}}
+{{1969|[[Lola 10 Simoniz Special T163|Lola #10 Simoniz Special T163]]|uk|mr|840|5.7|6.0|6.2|9.3|275000|div = pgr}}
+<!-- Lotus -->
+{{1965|[[Lotus 1 Team Lotus Type 40|Lotus #1 Team Lotus Type 40]]|uk|mr|736|5.9|3.8|4.2|6.5|221000|div = vlmp|dlc = pass}}
+{{1976|[[Lotus 5 Team Lotus 77|Lotus #5 Team Lotus 77]]|uk|mr|877|4.2|7.8|7.9|7.9|292000|div = f70}}
+{{1986|[[Lotus 12 Team Lotus 98T|Lotus #12 Team Lotus 98T]]|uk|mr|999|7.1|10|10|8.8|450000|div = gpr|dlc = pass}}
+{{2016|[[Lotus 3-Eleven]]|uk|mr|734|3.9|4.9|4.7|6.5|255000|div = tt}}
+{{1971|[[Lotus Elan Sprint]]|uk|fr|272|1.0|1.1|1.3|1.6|54000|div = vsc}}
+{{2023|[[Lotus Emira]]|uk|mr|600|4.6|3.7|3.7|3.7|113000|div = msgt}}
+{{2002|[[Lotus Esprit V8]]|uk|mr|579|5.1|2.7|3.0|4.0|115000|div = sgti}}
+{{2020|[[Lotus Evija]]|uk|ma|931|6.7|4.7|4.8|4.6|427000|div = megt}}
+{{2018|[[Lotus Evora GT430]]|uk|mr|695|5.3|4.2|4.4|4.7|136000|div = mscu|hub = y}}
+{{2011|[[Lotus Evora S]]|uk|mr|588|4.6|3.2|3.3|3.8|110000|div = mscu}}
+{{1965|[[Lotus Team Lotus type 35]]|uk|mr|710|4.4|4.2|4.5|6.1|209000|div = f60|dlc = pass}}
+{{1967|[[Lotus Type 49]]|uk|mr|761|5.4|4.4|4.5|6.3|233000|div = f60}}
+<!-- Lynk & Co -->
+{{2020|[[Lynk & Co 100 Cyan Racing 03|Lynk & Co #100 Cyan Racing 03]]|ch|ff|688|3.1|5.1|5.3|3.8|198000|div = ftc}}
+{{2021|[[Lynk & Co 03+]]|ch|fa|415|3.6|2.3|2.4|2.4|55000|div = mscm}}
+<!-- Maserati -->
+{{1939|[[Maserati 8CTF]]|ita|fr|606|5.0|2.4|2.9|4.0|166000|div = tbogp}}
+{{1957|[[Maserati 300 S]]|ita|fr|554|3.9|2.6|3.1|3.3|157000|div = vlms}}
+{{1953|[[Maserati A6GCS/53 Pininfarina Berlinetta|Maserati A6GCS/53 PininFarina Berlinetta]]|ita|fr|290|1.9|1.1|1.3|1.7|90000|div = vlms}}
+{{1997|[[Maserati Ghibli Cup]]|ita|fr|475|4.6|2.2|2.4|3.3|102000|div = stc}}
+{{2014|[[Maserati Ghibli S Q4]]|ita|fa|537|4.5|2.5|2.5|3.6|104000|div = sl}}
+{{2004|[[Maserati MC12]]|ita|mr|759|6.9|4.7|4.8|6.1|304000|div = egtc}}
+{{1961|[[Maserati Tipo 61 Birdcage]]|ita|fr|595|3.9|2.8|2.8|4.4|163000|div = vlms}}
+<!-- Matra-Simca -->
+{{1970|[[Matra-Simca 146 Equipe Matra-Simca MS650 Tour de France|Matra-Simca #146 Equipe Matra-Simca MS650 Tour de France]]|fra|mr|775|5.2|5.0|5.3|6.8|241000|div = vlmp|dlc = pass}}
+<!-- Mazda -->
+{{2010|[[Mazda B09/86|Mazda #16 Mazda Racing B09/86]]|jpn|mr|939|5.1|9.8|9.9|7.3|330000|div = fp2}}
+{{1991|[[Mazda 787B|Mazda #55 Mazda 787B]]|jpn|mr|954|7.2|9.9|10|7.7|366000|div = gtp|dlc = hubdealer}}
+{{1991|[[Mazda 62 RX-7|Mazda #62 RX-7]]|jpn|fr|819|5.7|6.0|6.3|6.3|262000|div = gtx}}
+{{2014|[[Mazda 70 SpeedSource Lola B12/80|Mazda #70 SpeedSource Lola B12/80]]|jpn|mr|949|5.6|10|10|6.6|357000|div = fp2}}
+{{1992|[[Mazda 323 GT-R]]|jpn|fa|382|2.1|1.6|1.8|2.5|63000|div = hhi}}
+{{1972|[[Mazda Cosmo 110S Series II]]|jpn|fr|247|1.0|1.0|1.1|1.2|16000|div = sci}}
+{{2015|[[Mazda Formula Mazda]]|jpn|mr|699|2.4|5.8|6.2|4.1|203000|div = fms}}
+{{2008|[[Mazda Furai]]|jpn|mr|931|5.0|10|10|7.5|353000|div = mfr|dlc = rh}}
+{{2013|[[Mazda MX-5 (2013)|Mazda MX-5]]|jpn|fr|345|2.4|1.9|2.3|2.0|36000|div = mscm}}
+{{2016|[[Mazda MX-5 (2016)|Mazda MX-5]]|jpn|fr|377|1.9|2.2|2.5|2.3|45000|div = mscm}}
+{{2017|[[Mazda MX-5 Cup (2017)|Mazda MX-5 Cup]]|jpn|fr|477|1.6|3.5|3.6|2.3|119000|div = fsp}}
+{{1990|[[Mazda MX-5 Miata (1990)|Mazda MX-5 Miata]]|jpn|fr|268|1.0|1.8|1.9|1.5|16000|div = esc}}
+{{1994|[[Mazda MX-5 Miata (1994)|Mazda MX-5 Miata]]|jpn|fr|287|1.0|1.8|2.1|1.6|27000|div = esc}}
+{{2022|[[Mazda MX-5 Miata RF]]|jpn|fr|392|2.3|2.4|2.5|2.3|49000|div = mscm}}
+{{1973|[[Mazda RX-3]]|jpn|fr|233|1.0|1.0|1.0|1.2|11000|div = vsc}}
+{{1997|[[Mazda RX-7]]|jpn|fr|462|4.7|2.2|2.4|2.9|77000|div = esc}}
+{{1985|[[Mazda RX-7 GSL-SE]]|jpn|fr|274|1.3|1.4|1.7|1.4|25000|div = esc}}
+{{2002|[[Mazda RX-7 Spirit R Type-A]]|jpn|fr|519|4.7|2.6|2.9|3.2|84000|div = esc}}
+{{2011|[[Mazda RX-8 R3]]|jpn|fr|369|2.8|2.1|2.3|2.1|43000|div = mscm}}
+{{1990|[[Mazda Savanna RX-7]]|jpn|fr|334|3.1|1.7|1.8|2.1|51000|div = esc}}
+<!-- McLaren -->
+{{2019|[[McLaren 03 720S GT3|McLaren #03 720S GT3]]|uk|mr|806|4.6|6.4|6.7|6.2|256000|div = fg3|dlc = pass}}
+{{1966|[[McLaren 4 Bruce McLaren Motor Racing M1B|McLaren #4 Bruce McLaren Motor Racing M1B]]|uk|mr|805|6.1|5.1|5.3|8.0|256000|div = pgr}}
+{{1969|[[McLaren 4 McLaren Cars M8B|McLaren #4 McLaren Cars M8B]]|uk|mr|860|7.2|6.1|6.5|9.1|284000|div = pgr}}
+{{1976|[[McLaren 11 Team McLaren M23|McLaren #11 Team McLaren M23]]|uk|mr|865|4.4|7.6|7.7|8.1|285000|div = f70}}
+{{1988|[[McLaren 12 Honda McLaren MP4/4|McLaren #12 Honda McLaren MP4/4]]|uk|mr|999|6.8|10|10|10|450000|div = gpr}}
+{{2023|[[McLaren Artura]]|uk|mr|751|7.3|3.9|3.6|6.3|289,000|div = megt|hub = y}}
+{{2018|[[McLaren 600LT Coupé]]|uk|mr|753|6.2|4.2|4.1|6.8|292000|div = msgt}}
+{{2021|[[McLaren 620R]]|uk|mr|752|5.9|4.5|4.2|6.6|290000|div = msgt}}
+{{2015|[[McLaren 650S Coupé]]|uk|mr|756|6.7|4.1|3.9|6.4|296000|div = msgt|tour = Open Class Tour - British Marques}}
+{{2018|[[McLaren 720S Coupe]]|uk|mr|807|7.1|4.8|4.6|7.7|346000|div = msgt}}
+{{2019|[[McLaren 720S Spider]]|uk|mr|786|5.9|4.8|4.4|7.4|324000|div = msgt}}
+{{2021|[[McLaren 765LT]]|uk|mr|830|7.1|5.1|4.8|7.9|371000|div = msgt}}
+{{1993|[[McLaren F1]]|uk|mr|736|9.2|3.7|3.9|5.3|281000|div = egtc}}
+{{1997|[[McLaren F1 GT]]|uk|mr|787|7.6|5.1|5.4|5.8|247000|div = efr}}
+{{2020|[[McLaren GT]]|uk|mr|710|6.4|3.5|3.4|5.8|186000|div = megt}}
+{{2013|[[McLaren P1]]|uk|mr|862|9.7|5.5|5.4|7.8|404000|div = megt}}
+{{2015|[[McLaren P1 GTR]]|uk|mr|911|8.4|6.7|6.6|8.6|313000|div = mfr}}
+{{1966|[[McLaren M2B]]|uk|mr|725|3.5|4.7|4.7|6.6|215000|div = f60}}
+{{2021|[[McLaren Sabre]]|uk|mr|786|7.5|4.4|4.1|7.5|324000|div = mh}}
+{{2018|[[McLaren Senna]]|uk|mr|860|7.0|6.3|6.0|7.9|404000|div = mh}}
+{{2019|[[McLaren Senna GTR]]|uk|mr|908|6.4|7.8|7.6|7.9|310000|div = mfr|dlc = pass}}
+<!-- Mercedes-AMG -->
+{{2016|[[Mercedes-AMG C 63 S Coupé]]|ger|fr|601|5.5|3.3|2.9|4.4|113000|div = mst}}
+{{2016|[[Mercedes-AMG C 63 S Coupé|Mercedes-AMG C 63 S Coupé]]|ger|fr|700|5.2|4.5|4.2|5.0|138000|div = mst|dlc = vip|type = fe}}
+{{2018|[[Mercedes-AMG E 63 S]]|ger|fa|676|6.7|2.8|2.5|5.6|132000|div = sl}}
+{{2018|[[Mercedes-AMG GT 4-Door Coupé]]|ger|fa|684|7.4|2.8|2.6|5.4|134000|div = sl}}
+{{2020|[[Mercedes-AMG GT Black Series]]|ger|fr|801|6.1|5.3|4.9|6.8|334000|div = msgt}}
+{{2017|[[Mercedes-AMG GT R]]|ger|fr|728|6.5|4.5|4.3|5.7|240000|div = msgt}}
+{{2018|[[Mercedes-AMG GT3]]|ger|fr|817|5.0|6.4|6.7|6.1|261000|div= fg3|dlc = pass}}
+{{2021|[[Mercedes-AMG Mercedes-AMG ONE]]|ger|ma|912|7.6|6.0|6.1|10|417000|div = mh}}
+<!-- Mercedes-Benz -->
+{{2017|[[Mercedes-Benz A-Class|Mercedes-Benz #33 Mac Tools Ciceley Motorsport A-Class (A45)]]|ger|ff|698|3.2|5.1|5.2|4.3|203000|div = ftc}}
+{{1989|[[Mercedes-Benz 63 Sauber-Mercedes C 9|Mercedes-Benz #63 Sauber-Mercedes C 9]]|ger|mr|959|8.4|9.7|10|8.3|376000|div = gtp}}
+{{1990|[[Mercedes-Benz 190E 2.5-16 Evolution II]]|ger|fr|400|3.0|2.7|2.8|2.4|82000|div = stc}}
+{{1954|[[Mercedes-Benz 300 SL Coupe]]|ger|fr|291|2.0|1.1|1.3|1.9|79000|div = sci}}
+{{1955|[[Mercedes-Benz 300 SLR]]|ger|fr|533|4.7|2.5|3.1|3.3|143000|div = vlms}}
+{{2013|[[Mercedes-Benz A 45 AMG]]|ger|fa|529|3.9|2.4|2.2|3.5|91000|div = mhh}}
+{{1998|[[Mercedes-Benz AMG CLK GTR]]|ger|mr|759|6.2|4.9|5.0|5.7|298000|div = efr|tour = Nemesis Tour}}
+{{2004|[[Mercedes-Benz C32 AMG]]|ger|fr|470|5.1|2.2|2.2|3.4|83000|div = stc}}
+{{2012|[[Mercedes-Benz C 63 AMG Coupe Black Series]]|ger|fr|619|5.8|3.0|2.9|4.5|112000|div = mst}}
+{{2009|[[Mercedes-Benz SL 65 AMG Black Series]]|ger|fr|684|7.1|3.2|3.2|5.1|129000|div = msgt}}
+{{2012|[[Mercedes-Benz SLK 55 AMG (2012)|Mercedes-Benz SLK 55 AMG]]|ger|fr|551|6.1|2.3|2.3|4.0|96000|div = mscu}}
+{{2011|[[Mercedes-Benz SLS AMG]]|ger|fr|688|6.8|3.6|3.4|5.2|129000|div = msgt}}
+{{1939|[[Mercedes-Benz W154]]|ger|fr|583|5.8|2.1|2.7|3.2|157000|div = tbogp}}
+<!-- Mercury -->
+{{1990|[[Mercury 15 Whistler Radar Cougar XR-7|Mercury #15 Whistler Radar Cougar XR-7]]|usa|fr|812|5.9|5.6|5.9|5.8|259000|div = gtx}}
+{{1970|[[Mercury Cougar Eliminator]]|usa|fr|369|1.0|1.1|1.3|3.1|80000|div = vm}}
+<!-- Merkur -->
+{{1986|[[Merkur 11 MAC Tools XR4Ti|Merkur #11 MAC Tools XR4Ti]]|usa|fr|807|5.7|5.9|6.2|5.6|258000|div = gtx}}
+<!-- MG -->
+{{2020|[[MG 20 MG6 XPower|MG #20 MG6 XPower]]|uk|ff|716|3.1|5.4|5.5|4.7|204000|div = ftc}}
+{{2021|[[MG MG6 XPower]]|uk|ff|518|4.2|2.8|2.9|3.1|88000|div = mst}}
+{{1958|[[MG MGA Twin-Cam]]|uk|fr|224|1.0|1.0|1.1|1.0|37000|div = sci}}
+{{1966|[[MG MGB GT]]|uk|fr|226|1.0|1.0|1.1|1.1|29000|div = vsc}}
+<!-- MINI -->
+{{1965|[[MINI Cooper S]]|uk|ff|219|1.0|1.3|1.1|1.2|19000|div = vsc}}
+{{2012|[[MINI John Cooper Works GP (2012)|MINI John Cooper Works GP]]|uk|ff|428|2.5|2.6|2.5|2.6|57000|div = mhh}}
+{{2021|[[MINI John Cooper Works GP (2021)|MINI John Cooper Works GP]]|uk|ff|570|3.5|2.8|2.6|3.9|89000|div = mhh}}
+<!-- Mitsubishi -->
+{{2005|[[Mitsubishi 1 Sierra Sierra Enterprises Lancer Evolution Time Attack|Mitsubishi #1 Sierra Sierra Enterprises Lancer Evolution Time Attack]]|jpn|fa|940|4.5|7.8|8.0|10|356000|div = fsp}}
+{{1995|[[Mitsubishi Eclipse GSX]]|jpn|fa|352|3.4|1.6|2.0|2.0|52000|div = esc}}
+{{1998|[[Mitsubishi FTO GP Version R]]|jpn|ff|355|2.9|1.6|2.0|2.0|50000|div = esc}}
+{{1992|[[Mitsubishi Galant VR-4]]|jpn|fa|341|2.2|1.4|1.5|2.2|51000|div = esc}}
+{{1997|[[Mitsubishi GTO]]|jpn|fa|451|4.2|2.2|2.4|2.6|74000|div = esc}}
+{{1995|[[Mitsubishi Lancer Evolution III GSR]]|jpn|fa|449|3.1|1.8|2.0|3.0|80000|div = esc}}
+{{1999|[[Mitsubishi Lancer Evolution VI GSR]]|jpn|fa|496|2.7|2.6|2.7|3.1|82000|div = esc}}
+{{2004|[[Mitsubishi Lancer Evolution VIII MR]]|jpn|fa|496|3.2|2.8|2.8|3.0|77000|div = esc}}
+{{2006|[[Mitsubishi Lancer Evolution IX MR]]|jpn|fa|490|3.7|2.7|2.7|2.9|74000|div = mscm}}
+{{2008|[[Mitsubishi Lancer Evolution X GSR]]|jpn|fa|496|3.0|2.8|2.8|3.2|73000|div = mscm}}
+<!--{{1988|[[Mitsubishi Starion ESI-R]]}}-->
+<!-- NIO -->
+{{2016|[[NIO EP9]]|ch|ma|961|5.5|9.4|8.9|5.2|438000|div = mh}}
+<!-- Nissan -->
+{{1984|[[Nissan 11 Skyline Turbo Super Silhouette|Nissan #11 Tomica Skyline Turbo Super Silhouette]]|jpn|fr|803|4.4|6.3|6.5|5.8|255000|div = gtx}}
+{{1984|[[Nissan 20 Bluebird Super Silhouette|Nissan #20 Bluebird Super Silhouette]]|jpn|fr|808|4.9|6.1|6.3|6.1|258000|div = gtx}}
+{{1969|[[Nissan 21 Nissan Racing R382|Nissan #21 Nissan Racing R382]]|jpn|mr|816|6.0|5.9|6.3|7.1|261000|div = pgr}}
+{{2015|[[Nissan 23 GT-R LM NISMO|Nissan #23 GT-R LM NISMO]]|jpn|ff|978|6.6|10|10|7.6|411000|div = fp1}}
+{{1999|[[Nissan 23 NISMO Clarion R391|Nissan #23 NISMO Clarion R391]]|jpn|mr|955|6.5|9.8|10|7.5|370000|div = elmp|dlc = pass}}
+{{1983|[[Nissan 23 Nissan Motorsports Silvia Super Silhouette|Nissan #23 Nissan Motorsports Silvia Super Silhouette]]|jpn|fr|800|5.2|5.8|6.1|5.9|253000|div = gtx|dlc = pass}}
+{{1991|[[Nissan 23 Nissan R91CP|Nissan #23 Nissan R91CP]]|jpn|mr|976|6.8|9.9|10|7.2|408000|div = gtp}}
+{{1998|[[Nissan 23 Pennzoil NISMO Skyline GT-R|Nissan #23 Pennzoil NISMO Skyline GT-R]]|jpn|fr|811|4.0|7.0|7.2|5.7|259000|div = gtx|hub = y}}
+{{1988|[[Nissan 24 Nissan Motorsports International R88C|Nissan #24 Nissan Motorsports International R88C]]|jpn|mr|955|7.5|9.5|10|7.8|363000|div = gtp|hub = y}}
+{{1988|[[Nissan 33 Bob Sharp Racing 300ZX|Nissan #33 Bob Sharp Racing 300ZX]]|jpn|fr|815|5.6|5.9|6.1|5.7|261000|div = gtx}}
+{{1985|[[Nissan 83 GTP ZX-Turbo|Nissan #83 GTP ZX-Turbo]]|jpn|mr|944|6.4|9.6|10|7.5|342000|div = gtp}}
+{{1993|[[Nissan 240SX SE]]|jpn|fr|284|1.8|1.6|1.9|1.5|25000|div = esc}}
+{{2019|[[Nissan 370Z NISMO]]|jpn|fr|525|4.7|2.8|3.0|3.1|78000|div = mscu}}
+{{2017|[[Nissan Altima Racecar]]|jpn|fr|783|4.9|5.6|5.6|5.7|246000|div = fau}}
+{{2003|[[Nissan Fairlady Z]]|jpn|fr|424|4.1|2.2|2.3|2.5|63000|div = esc}}
+{{1969|[[Nissan Fairlady Z 432]]|jpn|fr|277|1.0|1.4|1.5|1.8|42000|div = vsc}}
+{{1994|[[Nissan Fairlady Z Version S Twin Turbo]]|jpn|fr|398|3.7|1.8|2.2|2.8|66000|div = sgti}}
+{{2017|[[Nissan GT-R (R35)]]|jpn|fa|702|6.5|3.3|3.2|5.5|126000|div = msgt}}
+{{2020|[[Nissan GT-R NISMO (R35)]]|jpn|fa|722|6.6|3.5|3.3|5.6|206000|div = msgt}}
+{{1990|[[Nissan Pulsar GTI-R]]|jpn|fa|387|2.0|1.6|1.8|2.5|66000|div = esc}}
+{{1967|[[Nissan R380 II]]|jpn|mr|578|4.2|2.3|3.0|4.0|130000|div = vlms}}
+{{1998|[[Nissan R390 (GT1)]]|jpn|mr|796|7.2|4.5|4.8|7.2|323000|div = efr}}
+{{2018|[[Nissan Sentra NISMO]]|jpn|ff|336|1.1|1.9|2.0|2.2|33000|div = mscm}}
+{{1992|[[Nissan Silvia CLUB K's]]|jpn|fr|339|2.6|1.6|2.0|2.2|51000|div = esc}}
+{{1994|[[Nissan Silvia K's]]|jpn|fr|381|3.2|1.8|2.1|2.7|61000|div = esc}}
+{{1998|[[Nissan Silvia K's AERO|Nissan Silvia K's Aero]]|jpn|fr|380|3.1|1.8|2.1|2.7|57000|div = esc}}
+{{2000|[[Nissan Silvia Spec-R]]|jpn|fr|399|3.3|1.9|2.2|2.6|60000|div = esc}}
+{{1971|[[Nissan Skyline 2000GT-R]]|jpn|fr|279|1.2|1.0|1.1|2.0|42000|div = vsc}}
+{{1973|[[Nissan Skyline H/T 2000GT-R]]|jpn|fr|275|1.0|1.0|1.1|1.9|37000|div = vsc}}
+{{1993|[[Nissan Skyline GT-R V-Spec (1993)|Nissan Skyline GT-R V-Spec]]|jpn|fr|505|3.6|2.6|2.5|3.2|89000|div = sgti}}
+{{1997|[[Nissan Skyline GT-R V-Spec (1997)|Nissan Skyline GT-R V-Spec]]|jpn|fa|485|4.1|2.4|2.5|3.0|81000|div = sgti}}
+{{2002|[[Nissan Skyline GT-R V-Spec II]]|jpn|fa|535|4.5|2.7|2.9|3.1|88000|div = sgti}}
+{{1987|[[Nissan Skyline GTS-R (HR31)]]|jpn|fr|333|3.1|1.7|1.9|2.1|53000|div = stc}}
+{{2023|[[Nissan Z]]|jpn|fr|546|5.8|2.6|2.9|3.5|83000|div = mscu}}
+{{2024|[[Nissan Z NISMO]]|jpn|fr|588|5.8|3.2|3.0|3.5|93000|div = mscu|hub = y}}
+<!-- Oldsmobile -->
+{{1990|[[Oldsmobile 75 Cutlass Supreme Trans AM|Oldsmobile #75 Cutlass Supreme Trans AM]]|usa|fr|814|6.2|5.6|5.9|5.9|261000|div = gtx|dlc = rd}}
+{{1969|[[Oldsmobile Hurst/Olds 442]]|usa|fr|353|1.5|1.1|1.2|2.7|82000|div = sdc}}
+<!-- Opel -->
+{{1979|[[Opel Kadett C GT/E]]|ger|fr|251|1.0|1.0|1.2|1.5|13000|div = vsc}}
+<!-- Oreca -->
+{{2017|[[Oreca 38 Jackie Chan DC Racing Oreca 07|Oreca #38 Jackie Chan DC Racing Oreca 07]]|fra|mr|945|6.5|9.3|9.4|7.6|337000|div = fp2|dlc = pass}}
+{{2020|[[Oreca 38 Performance Tech Motorsports Oreca 07|Oreca #38 Performance Tech Motorsports Oreca 07]]|fra|mr|940|6.5|9.0|9.1|7.7|339000|div = fp2}}
+<!-- Pagani -->
+{{2016|[[Pagani Huayra BC Coupe]]|ita|mr|871|8.1|5.8|5.9|7.7|418000|div = mh}}
+{{2022|[[Pagani Huayra R]]|ita|mr|925|8.7|7.0|7.2|8.0|325000|div = mfr|tour = Contemporary Tour}}
+{{2010|[[Pagani Zonda Cinque Roadster]]|ita|mr|821|6.2|5.3|5.4|6.7|366000|div = mh|tour = Combustion Tour}}
+<!-- Peugeot -->
+{{1993|[[Peugeot 3 Peugeot Talbot Sport 905 EVO 1C|Peugeot #3 Peugeot Talbot Sport 905 EVO 1C]]|fra|mr|973|6.8|10|10|8.8|402000|div = gtp}}
+{{2019|[[Peugeot 7 DG Sport Compétition 308|Peugeot #7 DG Sport Compétition 308]]|fra|ff|716|2.8|5.4|5.5|4.7|204000|div = ftc|dlc = pass}}
+{{1984|[[Peugeot 205 Turbo 16]]|fra|ma|398|1.6|2.1|1.9|2.7|75000|div = hhi}}
+{{2011|[[Peugeot 308 GTI]]|fra|ff|302|2.2|1.5|1.6|1.9|23000|div = mhh}}
+<!-- Plymouth -->
+{{1971|[[Plymouth Cuda 426 Hemi]]|usa|fr|377|2.9|1.1|1.2|3.1|81000|div = vm}}
+{{1971|[[Plymouth GTX 426 Hemi]]|usa|fr|373|3.5|1.0|1.2|3.1|80000|div = sdc}}
+<!-- Pontiac -->
+{{1969|[[Pontiac Firebird Trans Am (1969)|Pontiac Firebird Trans Am]]|usa|fr|345|1.9|1.1|1.2|2.7|79000|div = vm}}
+{{1987|[[Pontiac Firebird Trans Am GTA]]|usa|fr|319|2.6|1.7|2.0|2.0|55000|div = stc}}
+{{2002|[[Pontiac Firebird Trans Am Ram Air]]|usa|fr|444|3.8|2.1|2.5|2.6|74000|div = stc}}
+{{1973|[[Pontiac Firebird Trans Am SD-455]]|usa|fr|358|2.7|1.1|1.3|2.8|80000|div = vm}}
+{{1969|[[Pontiac GTO Judge]]|usa|fr|349|1.5|1.1|1.2|2.7|80000|div = sdc}}
+<!-- Porsche -->
+{{1974|[[Porsche 1 911 RSR|Porsche #1 911 RSR]]|ger|rr|705|3.5|5.3|5.3|5.0|206000|div = gtx|hub = y}}
+{{1981|[[Porsche 1 Porsche System Engineering 924 GTP Le Mans|Porsche #1 Porsche System Engineering 924 GTP Le Mans]]|ger|fr|727|5.0|4.2|4.5|5.6|217000|div = gtx|hub = y}}
+{{2017|[[Porsche 2 Porsche Team 919 Hybrid|Porsche #2 Porsche Team 919 Hybrid]]|ger|ma|999|6.7|10|10|10|450000|div = fp1}}
+{{1970|[[Porsche 3 917 LH|Porsche #3 917 LH]]|ger|mr|857|8.7|5.3|5.8|9.2|282000|div = vlmp}}
+{{2024|[[Porsche 5 Porsche Penske Motorsport 963|Porsche #5 Porsche Penske Motorsport 963]]|ger|mr|957|7.0|9.7|9.8|8.2|240000|div = fph|dlc = porsche}}
+{{1983|[[Porsche 11 John Fitzpatrick Racing 956|Porsche #11 John Fitzpatrick Racing 956]]|ger|mr|959|9.0|8.7|9.4|8.2|373000|div = gtp|dlc = pass}}
+{{1987|[[Porsche 962C|Porsche #17 Porsche AG 962C]]|ger|mr|971|8.9|9.1|9.6|8.3|399000|div = gtp}}
+<!--{{2015|[[Porsche 19 Porsche Team 919 Hybrid|Porsche #19 Porsche Team 919 Hybrid]]}}-->
+{{1971|[[Porsche 23 917/20|Porsche #23 917/20]]|ger|mr|871|7.7|5.8|6.3|8.6|290000|div = vlmp}}
+{{1978|[[Porsche 935/78|Porsche #43 Porsche Racing 935/78]]|ger|rr|873|5.9|6.5|6.4|8.5|290000|div = gtx}}
+{{2019|[[Porsche 70 Porsche Motorsport 935|Porsche #70 Porsche Motorsport 935]]|ger|rr|819|6.5|5.7|5.8|7.1|264000|div = mfr|hub = y}}
+{{2018|[[Porsche 73 Park Place Motorsports 911 GT3 R|Porsche #73 Park Place Motorsports 911 GT3 R]]|ger|rr|801|4.9|6.2|6.4|5.7|255000|div = fg3|dlc = rd}}
+{{1978|[[Porsche 935/78|Porsche #78 MOMO 935/78]]|ger|rr|873|7.9|6.0|6.4|7.5|290000|div = gtx}}
+{{2015|[[Porsche 91 Porsche Team Manthey 991 RSR|Porsche #91 Porsche Team Manthey 991 RSR]]|ger|rr|806|4.5|6.3|6.4|6.2|258000|div = fg2}}
+{{2017|[[Porsche 92 Porsche GT Team 911 RSR|Porsche #92 Porsche GT Team 911 RSR]]|ger|mr|811|4.7|6.6|6.7|5.9|259000|div = fg2}}
+{{1987|[[Porsche 203 Porsche AG 961|Porsche #203 Porsche AG 961]]|ger|ra|825|5.9|4.9|5.0|6.8|267000|div = gtx}}
+{{1957|[[Porsche 356A Speedster]]|ger|rr|223|1.0|1.5|1.6|1.0|43000|div = sci}}
+{{1955|[[Porsche 550A Spyder]]|ger|mr|271|1.3|1.5|1.9|1.4|68000|div = sci}}
+{{1960|[[Porsche 718 RS 60]]|ger|mr|536|2.7|2.7|3.0|3.8|145000|div = vlms}}
+{{2022|[[Porsche 718 Cayman GT4 RS]]|ger|mr|730|6.3|4.3|4.3|5.5|245000|div = mscu|hub = y}}
+{{2018|[[Porsche 718 Cayman GTS]]|ger|mr|608|5.1|3.0|2.9|4.5|115000|div = mscu}}
+{{1973|[[Porsche 911 Carrera RS]]|ger|rr|371|2.3|1.6|1.8|2.9|95000|div = vsc}}
+{{2019|[[Porsche 911 Carrera S]]|ger|rr|685|6.3|3.6|3.6|5.2|134000|div = msgt|dlc = wp}}
+{{1997|[[Porsche 911 GT1 Strassenversion]]|ger|mr|773|5.4|5.6|5.4|5.5|240000|div = efr}}
+{{1995|[[Porsche 911 GT2 (1995)|Porsche 911 GT2]]|ger|rr|640|4.7|3.4|3.3|4.7|137000|div = sgti|hub = y}}
+{{2012|[[Porsche 911 GT2 RS (2012)|Porsche 911 GT2 RS]]|ger|rr|774|6.9|4.7|4.3|6.4|307000|div = msgt}}
+{{2018|[[Porsche 911 GT2 RS (2018)|Porsche 911 GT2 RS]]|ger|rr|803|7.1|5.1|4.8|7.4|336000|div = msgt}}
+{{2018|[[Porsche 911 GT2 RS (2018)|Porsche 911 GT2 RS]]|ger|rr|900|9.1|5.9|5.6|8.3|410000|div = msgt|dlc = loyalty|type = fe}}
+{{2004|[[Porsche 911 GT3 (2004)|Porsche 911 GT3]]|ger|rr|611|5.7|3.2|3.2|3.9|121000|div = sgti}}
+{{2007|[[Porsche 911 GT3 (2007)|Porsche 911 GT3]]|ger|rr|657|6.0|3.5|3.4|4.4|130000|div = sgti}}
+{{2021|[[Porsche 911 GT3 (2021)|Porsche 911 GT3]]|ger|rr|737|6.1|4.7|4.5|5.4|262000|div = msgt}}
+{{2023|[[Porsche 911 GT3 R]]|ger|rr|820|4.8|6.6|6.5|6.4|264000|div = fg3}}
+{{2016|[[Porsche 911 GT3 RS (2016)|Porsche 911 GT3 RS]]|ger|rr|748|5.8|5.0|4.7|5.7|279000|div = msgt}}
+{{2019|[[Porsche 911 GT3 RS (2019)|Porsche 911 GT3 RS]]|ger|rr|756|5.7|5.2|4.9|5.8|289000|div = msgt}}
+{{2023|[[Porsche 911 GT3 RS (2023)|Porsche 911 GT3 RS]]|ger|rr|783|5.4|6.1|5.8|5.7|316000|div = msgt}}
+{{2019|[[Porsche 911 Speedster]]|ger|rr|689|6.5|3.8|3.6|4.9|135000|div = msgt}}
+{{1982|[[Porsche 911 Turbo 3.3]]|ger|rr|448|2.9|2.0|2.0|3.5|105000|div = sgti}}
+{{2014|[[Porsche 911 Turbo S (2014)|Porsche 911 Turbo S]]|ger|ra|717|7.0|3.6|3.3|5.5|191000|div = msgt}}
+{{2023|[[Porsche 911 Turbo S (2023)|Porsche 911 Turbo S]]|ger|ra|789|6.7|4.3|3.8|6.7|321000|div = msgt|hub = y}}
+{{1993|[[Porsche 911 Turbo S Leichtbau]]|ger|rr|626|4.9|3.1|3.2|4.6|135000|div = sgti}}
+{{1970|[[Porsche 914/6]]|ger|mr|265|1.0|1.2|1.3|1.6|49000|div = vsc}}
+{{2014|[[Porsche 918 Spyder]]|ger|ma|852|7.0|5.3|5.0|8.5|390000|div = megt}}
+{{1980|[[Porsche 924 Carrera GTS]]|ger|fr|427|3.5|1.9|2.1|3.1|102000|div = stc}}
+{{1993|[[Porsche 928 GTS]]|ger|fr|464|4.5|2.0|2.2|3.3|98000|div = stc}}
+{{1989|[[Porsche 944 Turbo]]|ger|fr|429|3.3|2.1|2.3|3.1|95000|div = stc}}
+{{1987|[[Porsche 959]]|ger|ra|687|6.0|3.2|3.1|5.1|156000|div = egtc}}
+{{1993|[[Porsche 968 Turbo S]]|ger|fr|534|4.2|2.6|2.8|3.7|113000|div = stc}}
+{{2003|[[Porsche Carrera GT]]|ger|mr|750|6.6|4.5|4.2|5.6|288000|div = egtc}}
+{{2016|[[Porsche Cayman GT4]]|ger|mr|668|5.0|4.3|4.0|4.3|130000|div = mscu}}
+{{2015|[[Porsche Cayman GTS]]|ger|mr|585|4.7|3.1|3.0|4.1|109000|div = mscu}}
+{{2021|[[Porsche Mission R]]|ger|ma|879|4.2|6.0|5.9|6.1|293000|div = mrs}}
+{{2017|[[Porsche Panamera Turbo (2017)|Porsche Panamera Turbo]]|ger|fa|643|6.8|3.0|2.6|4.9|123000|div = sl}}
+{{2020|[[Porsche Taycan Turbo S]]|ger|ra|749|3.7|3.1|2.9|7.7|280000|div = sl}}
+<!-- Radical -->
+{{2015|[[Radical RXC Turbo]]|uk|mr|891|4.9|7.2|7.3|7.4|407000|div = tt}}
+<!-- RAESR -->
+{{2019|[[RAESR Tachyon Speed]]|usa|ma|941|8.0|5.9|5.8|6.1|438000|div = mh}}
+<!-- Renault -->
+{{1977|[[Renault 15 Equipe Renault Elf R.S. 01|Renault #15 Equipe Renault Elf R.S. 01]]|fra|mr|828|5.0|6.8|6.5|7.7|267000|div = f70|hub = y}}
+{{1980|[[Renault 5 Turbo]]|fra|mr|316|1.0|1.8|1.9|2.4|55000|div = hhi}}
+{{1967|[[Renault 8 Gordini]]|fra|rr|228|1.0|1.2|1.0|1.2|17000|div = vsc}}
+{{2016|[[Renault Clio R.S. 16 Concept]]|fra|ff|526|2.9|3.2|3.4|3.0|78000|div = mhh}}
+{{1993|[[Renault Clio Williams]]|fra|ff|298|1.2|1.6|1.8|1.8|36000|div = hhi}}
+{{2018|[[Renault Megane R.S.]]|fra|ff|446|3.1|2.5|2.7|2.8|61000|div = mhh}}
+{{2008|[[Renault Mégane R26.R]]|fra|ff|512|2.6|3.2|3.4|2.8|77000|div = mhh}}
+{{2003|[[Renault Sport Clio V6]]|fra|mr|384|2.6|2.2|2.2|2.4|53000|div = mhh}}
+<!-- Rimac -->
+{{2019|[[Rimac Concept Two]]|cro|ma|908|8.9|4.2|4.0|10|432000|div = mh}}
+{{2021|[[Rimac Nevera]]|cro|ma|886|9.4|4.1|4.0|4.3|423000|div = mh}}
+<!-- Saleen -->
+{{2018|[[Saleen S1]]|usa|mr|694|4.4|4.3|4.3|5.1|142000|div = msgt}}
+{{2004|[[Saleen S7]]|usa|mr|753|7.8|4.3|4.5|5.9|297000|div = egtc}}
+{{2017|[[Saleen S7 LM]]|usa|mr|860|9.2|5.4|5.4|7.2|404000|div = megt}}
+{{2018|[[Saleen S302 Black Label]]|usa|fr|681|7.3|3.0|3.0|4.8|139000|div = mst|hub = y}}
+<!-- Shelby -->
+{{1965|[[Shelby Cobra 427 S/C]]|usa|fr|543|3.7|1.7|2.2|4.4|147000|div = vlms}}
+{{1965|[[Shelby Cobra Daytona Coupe]]|usa|fr|619|5.0|3.1|3.7|3.5|165000|div = vlms}}
+{{1967|[[Shelby GT 500]]|usa|fr|336|2.7|1.1|1.1|2.7|96000|div = vm}}
+{{1963|[[Shelby Monaco King Cobra]]|usa|mr|793|5.4|5.4|5.7|6.6|250000|div = vlmp}}
+<!-- SRT -->
+{{2013|[[Dodge SRT Viper GTS|SRT Viper GTS]]|usa|fr|710|6.7|3.7|3.9|5.0|161000|div = msgt}}
+<!-- Spania GTA -->
+{{2016|[[Spania GTA GTA Spano]]|spn|mr|848|9.2|5.3|5.2|7.1|391000|div = megt}}
+<!-- Subaru -->
+{{2018|[[SUBARU 1 Adrian Flux SUBARU Racing Levorg GT|SUBARU #1 Adrian Flux SUBARU Racing Levorg GT]]|jpn|fr|673|3.1|5.4|5.5|3.7|192000|div = ftc|dlc = rd}}
+{{2013|[[SUBARU BRZ (2013)|SUBARU BRZ]]|jpn|fr|354|2.0|2.1|2.4|2.2|38000|div = mscm}}
+{{2022|[[SUBARU BRZ (2022)|SUBARU BRZ]]|jpn|fr|428|2.4|2.4|2.7|2.7|57000|div = mscm}}
+{{1998|[[SUBARU Impreza 22B-STi Version]]|jpn|fa|511|2.6|2.7|2.8|3.2|86000|div = esc}}
+{{2004|[[SUBARU Impreza WRX STi (2004)|SUBARU IMPREZA WRX STI]]|jpn|fa|490|3.3|2.2|2.2|3.3|76000|div = esc}}
+{{2005|[[SUBARU Impreza WRX STi (2005)|SUBARU IMPREZA WRX STI]]|jpn|fa|503|3.5|2.2|2.4|3.3|76000|div = mscm}}
+{{2008|[[SUBARU Impreza WRX STI (2008)|SUBARU IMPREZA WRX STI]]|jpn|fa|476|3.0|2.3|2.3|3.1|69000|div = mscm}}
+{{1990|[[SUBARU Legacy RS|SUBARU LEGACY RS]]|jpn|fa|323|2.2|1.4|1.6|1.9|48000|div = esc}}
+{{2019|[[SUBARU STI S209]]|jpn|fa|547|3.4|3.1|3.1|3.3|83000|div = mscm}}
+{{2019|[[SUBARU STI S209]]|jpn|fa|600|3.2|4.1|4.2|3.5|96000|div = mscm|dlc = vip|type = fe}}
+{{2011|[[SUBARU WRX STI (2011)|SUBARU WRX STI]]|jpn|fa|473|3.7|2.2|2.3|2.8|67000|div = mscm}}
+{{2015|[[SUBARU WRX STI (2015)|SUBARU WRX STI]]|jpn|fa|507|3.6|2.5|2.6|3.1|74000|div = mscm}}
+<!-- Toyota -->
+{{1999|[[Toyota 3 Toyota Motorsports GT-ONE TS020|Toyota #3 Toyota Motorsports GT-ONE TS020]]|jpn|mr|943|6.6|9.1|9.3|7.7|342000|div = elmp}}
+{{2014|[[Toyota 8 Toyota Racing TS040 Hybrid|Toyota #8 Toyota Racing TS040 HYBRID]]|jpn|ma|981|6.4|9.9|10|10|418000|div = fp1}}
+{{1984|[[Toyota 25 Horsepower Techs Starlet Time Attack|Toyota #25 Horsepower Techs Starlet Time Attack]]|jpn|fr|801|3.6|7.0|6.4|5.9|301000|div = fsp}}
+{{1992|[[Toyota 99 All American Racers Toyota Eagle Mk III|Toyota #99 All American Racers Toyota Eagle Mk III]]|jpn|mr|981|5.6|10|10|8.3|418000|div = gtp}}
+{{1969|[[Toyota 2000GT]]|jpn|fr|265|1.2|1.0|1.2|1.5|33000|div = sci}}
+{{2019|[[Toyota 86 TRD SE]]|jpn|fr|376|2.0|2.5|2.5|2.3|45000|div = mscm|dlc = pass}}
+{{2023|[[Toyota Camry TRD]]|jpn|ff|412|4.2|1.9|2.0|2.6|54000|div = mscm}}
+{{1974|[[Toyota Celica GT]]|jpn|fr|227|1.0|1.1|1.2|1.1|11000|div = vsc}}
+{{1992|[[Toyota Celica GT-Four RC ST185]]|jpn|fa|339|2.7|1.6|1.9|1.9|50000|div = esc}}
+{{1994|[[Toyota Celica GT-Four ST205]]|jpn|fa|368|3.1|1.8|1.9|2.2|57000|div = esc}}
+{{2003|[[Toyota Celica SS-I|Toyota Celica Sport Specialty II]]|jpn|ff|329|2.3|1.5|1.8|2.0|37000|div = esc}}
+{{1974|[[Toyota Corolla SR5]]|jpn|fr|181|1.0|1.2|1.0|1.0|11000|div = vsc}}
+{{2022|[[Toyota GR86]]|jpn|fr|404|2.6|2.2|2.3|2.8|52000|div = mscm}}
+{{2020|[[Toyota GR Supra]]|jpn|fr|578|4.0|3.1|3.2|4.0|90000|div = mscu|dlc = wp}}
+{{2021|[[Toyota GR Yaris]]|jpn|fa|539|2.8|2.9|2.7|3.3|81000|div = mhh|hub = y}}
+{{1997|[[Toyota Mark II Tourer V JZX100]]|jpn|fr|381|3.1|1.6|1.8|2.9|58000|div = stc|dlc = rh}}
+{{1995|[[Toyota MR2 GT]]|jpn|mr|375|3.4|1.6|1.9|2.6|58000|div = esc}}
+{{1989|[[Toyota MR2 SC]]|jpn|mr|296|1.9|1.5|1.7|1.9|38000|div = esc}}
+{{2024|[[Toyota NASCAR Next Gen Camry XSE]]|jpn|fr|855|6.0|7.0|7.0|5.5|293000|div = nas}}
+{{1985|[[Toyota Sprinter Trueno GT Apex]]|jpn|fr|270|1.0|1.3|1.5|1.5|22000|div = hhi}}
+{{1992|[[Toyota Supra 2.0 GT]]|jpn|fr|327|2.6|1.7|1.9|2.1|47000|div = esc}}
+{{1998|[[Toyota Supra RZ]]|jpn|fr|470|4.5|2.2|2.4|3.1|77000|div = sgti}}
+<!-- TVR -->
+{{2018|[[TVR Griffith]]|uk|fr|667|5.9|3.3|3.3|4.8|129000|div = msgt}}
+<!-- Ultima -->
+{{2015|[[Ultima Evolution Coupe 1020]]|uk|mr|903|9.1|5.4|5.8|7.2|417000|div = tt}}
+<!-- Vauxhall -->
+{{2017|[[Vauxhall 66 Power Maxed TAG Racing Astra|Vauxhall #66 Power Maxed TAG Racing Astra]]|uk|ff|702|3.3|5.3|5.5|4.2|204000|div = ftc|dlc = rd}}
+{{2006|[[Vauxhall Astra VXR (2006)|Vauxhall Astra VXR]]|uk|ff|386|2.6|2.0|2.0|2.5|51000|div = mhh}}
+{{2012|[[Vauxhall Astra VXR (2012)|Vauxhall Astra VXR]]|uk|ff|447|3.1|2.6|2.4|2.7|61000|div = mhh}}
+{{2016|[[Vauxhall Corsa VXR (2016)|Vauxhall Corsa VXR]]|uk|ff|354|1.8|2.1|2.0|2.3|38000|div = mhh}}
+{{1990|[[Vauxhall Lotus Carlton]]|uk|fr|499|4.8|2.1|2.3|3.3|91000|div = stc}}
+<!-- Volkswagen -->
+{{2018|[[Volkswagen 22 Experion Racing Golf GTI|Volkswagen #22 Experion Racing Golf GTI]]|ger|ff|704|2.7|5.4|5.5|4.6|206000|div = ftc|dlc = pass}}
+{{1995|[[Volkswagen Corrado VR6]]|ger|ff|340|2.5|1.6|1.9|2.0|48000|div = hhi}}
+{{1983|[[Volkswagen Golf GTI]]|ger|ff|264|1.0|1.3|1.5|1.4|19000|div = hhi}}
+{{1992|[[Volkswagen Golf Gti 16v Mk2]]|ger|ff|286|1.0|1.4|1.6|1.7|28000|div = hhi}}
+{{2014|[[Volkswagen Golf R (2014)|Volkswagen Golf R]]|ger|fa|483|3.5|2.3|2.3|2.9|69000|div = mhh}}
+{{2021|[[Volkswagen Golf R (2021)|Volkswagen Golf R]]|ger|fa|488|3.6|2.4|2.5|2.8|70000|div = mhh|dlc = wp}}
+{{2022|[[Volkswagen Golf R (2022)|Volkswagen Golf R]]|ger|fa|489|4.2|2.6|2.5|2.7|70000|div = mhh}}
+{{2003|[[Volkswagen Golf R32]]|ger|fa|395|3.1|2.0|2.1|2.4|56000|div = mhh}}
+{{1998|[[Volkswagen GTI VR6 Mk3]]|ger|ff|302|1.9|1.5|1.7|2.0|34000|div = hhi}}
+{{1988|[[Volkswagen Scirocco 16v]]|ger|ff|263|1.0|1.3|1.5|1.3|13000|div = hhi}}
+{{1981|[[Volkswagen Scirocco S]]|ger|ff|222|1.0|1.0|1.2|1.0|11000|div = hhi}}
+<!-- Volvo -->
+{{1997|[[Volvo 850 R]]|swe|ff|332|2.9|1.6|1.8|2.3|55000|div = stc}}
+<!-- VUHL -->
+{{2017|[[VUHL 05RR]]|mex|mr|785|3.9|5.2|5.2|7.0|317000|div = tt}}
+<!-- Xpeng -->
+{{2020|[[Xpeng P7]]|ch|ra|558|1.0|2.5|2.6|2.7|97000|div = mst}}
+<!-- Zenvo -->
+{{2019|[[Zenvo TSR-S]]|den|mr|868|8.9|5.4|5.2|7.6|418000|div = mh}}
+|}

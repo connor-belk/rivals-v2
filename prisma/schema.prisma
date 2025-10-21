@@ -1,0 +1,120 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DIRECT_URL")
+}
+
+model Driver {
+  id        String   @id @default(uuid())
+  firstName String   @db.VarChar(255)
+  lastName  String?   @db.VarChar(255)
+  gamertag  String   @unique @db.VarChar(255)
+  results   RaceResult[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  number    Int?
+}
+
+model Vehicle {
+  id        String   @id @default(uuid())
+  year      String
+  make      String
+  model     String
+  available String?
+  price     Int?
+  Division  Division @relation(fields: [DivisionId], references: [id])
+  DivisionId String
+  driveTrain String?
+  country   String?
+  baseSpeed Float?
+  baseBrake Float?
+  baseHandling Float?
+  baseAccel Float?
+  basePI    Int?
+  released  String
+  raceResults RaceResult[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Division {
+  id        String   @id @default(uuid())
+  name      String   @db.VarChar(255)
+  series    Series[]
+  vehicles  Vehicle[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Circuit {
+  id        String   @id @default(uuid())
+  name      String   @db.VarChar(255)
+  country   String
+  continent String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  layout    Layout[]
+}
+
+model Layout {
+  id        String   @id @default(uuid())
+  name      String   @db.VarChar(255)
+  distance  Float
+  CircuitId String
+  Circuit   Circuit  @relation(fields: [CircuitId], references: [id])
+  races     Race[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Series {
+  id        String   @id @default(uuid())
+  name      String   @db.VarChar(255)
+  divisionId String
+  division  Division @relation(fields: [divisionId], references: [id])
+  PImax     String   @db.VarChar(3)  
+  races     Race[]
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+}
+
+model Race {
+  id        String   @id @default(uuid())
+  track     String   @db.VarChar(255)
+  layoutId  String
+  layout    Layout   @relation(fields: [layoutId], references: [id])
+  laps      Int
+  seriesId  String
+  series    Series   @relation(fields: [seriesId], references: [id])
+  startsAt  DateTime
+  finished  Boolean  @default(false)
+
+  results   RaceResult[]
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model RaceResult {
+  id        String   @id @default(uuid())
+  raceId    String
+  race      Race     @relation(fields: [raceId], references: [id])
+  driverId  String
+  driver    Driver   @relation(fields: [driverId], references: [id])
+  vehicleId String
+  vehicle   Vehicle  @relation(fields: [vehicleId], references: [id])
+  PI        String
+  penalties Int
+  penTime   Float
+  qLapTime  Float?
+  qPosition Int
+  position  Int
+  finished  Boolean  @default(true)
+  fastestLap Float
+  totalTime  Float
+}

@@ -1,0 +1,682 @@
+Year,Make,Model,Category,Released,available,price,engineLoc,driveTrain,country,baseSpeed,baseBrake,baseHandling,baseAccel,basePI
+2017,Abarth,124 Spider,Modern Sport Compact,Update 4,Car Dealer,43000,F,R,ITA,2.1,2.3,2.4,2.2,360
+2022,Acura,NSX Type S,Modern Sport GT,Update 20,Challenge Hub Reward,256000,M,A,USA,6.1,3.7,3.3,6.3,737
+2020,Acura,#6 ARX-05 DPi,Forza Proto-H,Update 1,Career: Complete Track Tour series, 342000,M,R,USA,6.0,9.5,9.6,7.7,943
+2018,Acura,#36 NSX GT3,Forza GT3,Race Day Car Pack,Car Dealer,264000,M,R,USA,4.7,6.7,6.9,6.3,819
+2017,Acura,NSX,Modern Sport GT,Base,Car Dealer,243000,M,A,USA,5.2,3.8,3.3,6.1,731
+2001,Acura,Integra Type R,Early Sport Compact,Base,Car Dealer,53000,F,F,USA,3.3,1.5,1.9,2.0,338
+2017,Alfa Romeo,Giulia Quadrifoglio,Modern Sport Touring,Update 4,Car Dealer,108000,F,R,ITA,5.8,3.5,3.1,4.5,632
+2014,Alfa Romeo,4C,Modern Sport Coupe,Update 6,Car Dealer,89000,M,R,ITA,3.1,2.9,3.1,3.5,522
+2011,Alfa Romeo,Giulietta Quadrifoglio Verde,Modern Hot Hatch,Base,Car Dealer,59000,F,F,ITA,2.8,1.8,2.1,2.4,387
+1965,Alfa Romeo,Giulia Sprint GTA Stradale,Vintage Sport Compact,Update 4,Career: Complete the Open Class Tour - Automotive Classics series,47000,F,R,ITA,1.0,1.0,1.0,1.8,263
+2017,Alpine,A110,Modern Sport Coupe,Base,Car Dealer,100000,M,R,FRA,3.7,2.9,3.1,4.2,570
+1990,Alpine,GTA Le Mans,Sport Touring Classics,Base,Car Dealer,74000,M,R,FRA,2.7,2.0,2.3,2.4,374
+1971,AMC,Javelin AMX,Vintage Muscle,Base,Car Dealer,75000,F,R,USA,1.0,1.2,1.3,2.4,357
+1970,AMC,Rebel The Machine,Street Drag Racers,Base,Car Dealer,71000,F,R,USA,1.9,1.1,1.0,2.6,339
+2018,Apollo,Intensa Emozione,Modern Hypercars,Base,Car Dealer,431000,M,R,DEU,6.6,7.2,7.1,7.7,906
+2013,Ariel,Atom 500 V8,Track Toys,Base,Car Dealer,327000,M,R,GBR,3.7,5.4,5.2,7.8,794
+2023,Aston Martin,Valkyrie,Modern Hypercars,Update 3,Car Dealer,471000,M,R,GBR,7.4,10.0,9.8,9.0,999
+2022,Aston Martin,Valkyrie AMR Pro,Modern Factory Racecars,Car Pass,Car Dealer,450000,M,R,GBR,8.1,10.0,10.0,10.0,999
+2019,Aston Martin,Valhalla Concept Car,Modern Hypercars,Base,Car Dealer,431000,M,A,GBR,8.5,6.2,6.1,10.0,927
+2019,Aston Martin,DBS Superleggera,Modern Exotic GT,Base,Car Dealer,244000,F,R,GBR,7.1,3.8,3.4,5.8,727
+2019,Aston Martin,Vantage,Modern Sport GT,Base,Car Dealer,135000,F,R,GBR,5.6,3.6,3.6,4.5,665
+2018,Aston Martin,#97 AMR Vantage GTE,Forza GT2,Update 11,Challenge Hub Reward,270000,F,R,GBR,4.5,6.7,6.8,6.4,822
+2017,Aston Martin,Vulcan AMR Pro,Modern Factory Racecars,Base,Car Dealer,296000,F,R,GBR,5.8,7.6,7.5,6.4,885
+2017,Aston Martin,#7 Aston Martin Racing V12 Vantage GT3,Forza GT3,Base,Car Dealer,270000,F,R,GBR,4.7,6.7,6.8,6.4,833
+2017,Aston Martin,Vanquish Zagato Coupe,Modern Exotic GT,Base,Car Dealer,137000,F,R,GBR,6.1,3.8,3.5,4.7,675
+2016,Aston Martin,Vulcan,Modern Factory Racecars,Base,Car Dealer,285000,F,R,GBR,5.8,7.3,7.3,6.4,865
+2015,Aston Martin,Vantage GT12,Modern Sport GT,Base,Car Dealer,171000,F,R,GBR,4.9,4.6,4.3,5.0,707
+2013,Aston Martin,V12 Vantage S,Modern Sport GT,Update 2,Car Dealer,128000,F,R,GBR,6.7,3.3,3.1,4.6,640
+2008,Aston Martin,DBS,Modern Sport GT,Base,Car Dealer,121000,F,R,GBR,6.1,3.3,3.1,3.9,603
+2001,Aston Martin,V12 Vanquish,Exotic GT Classics,Base,Car Dealer,114000,F,R,GBR,5.3,2.8,2.7,3.5,542
+1998,Aston Martin,V8 Vantage V600,Sport GT Icons,Base,Car Dealer,121000,F,R,GBR,6.4,2.7,2.5,3.8,560
+1989,Aston Martin,#18 Aston Martin AMR1,GTP/C,Base,Car Dealer,382000,M,R,GBR,6.9,10.0,10.0,8.3,962
+1967,Aston Martin,DBS,Vintage Exotic GT,Base,Car Dealer,98000,F,R,GBR,3.5,1.4,1.4,2.6,343
+1964,Aston Martin,DB5,Sport Coupe Icons,Base,Car Dealer,74000,F,R,GBR,1.4,1.4,1.3,1.9,282
+1960,Aston Martin,DB4 GT Zagato,Vintage Le Mans Sportscars,Base,Car Dealer,107000,F,R,GBR,3.5,1.3,1.5,2.5,353
+1958,Aston Martin,DBR1,Vintage Le Mans Sportscars,Base,Car Dealer,148000,F,R,GBR,4.6,2.3,2.7,3.5,518
+2021,Audi,RS e-tron GT,Sport Luxury,Base,Car Dealer,158000,M,A,DEU,3.7,2.6,2.8,6.1,706
+2021,Audi,RS 6 Avant,Sport Luxury,Base,Car Dealer,122000,F,A,DEU,6.1,3.0,2.7,5.0,658
+2021,Audi,RS 7 Sportback,Sport Luxury,Base,Car Dealer,121000,F,A,DEU,6.7,2.8,2.6,5.2,656
+2020,Audi,R8 V10 performance,Modern Sport GT,Update 1,Car Dealer,281000,M,A,DEU,7.1,3.8,3.5,6.1,753
+2020,Audi,TT RS Coupe,Modern Sport Coupe,Car Pass,Car Dealer,118000,F,A,DEU,5.5,2.8,2.8,4.8,643
+2020,Audi,RS 3 Sedan,Modern Sport Coupe,Base,Car Dealer,112000,F,A,DEU,5.1,2.7,2.5,4.6,621
+2018,Audi,#44 R8 LMS GT3,Forza GT3,Race Day Car Pack,Car Dealer,269000,M,R,DEU,5.0,6.6,6.8,5.8,828
+2018,Audi,#1 Audi Sport RS 3 LMS,Forza Touring Cars,Base,Car Dealer,200000,F,F,DEU,3.2,5.3,5.5,4.0,692
+2018,Audi,TT RS,Modern Sport Coupe,Base,Car Dealer,118000,F,A,DEU,5.5,2.8,2.8,4.8,643
+2018,Audi,RS 5 Coupe,Modern Sport Touring,Base,Car Dealer,116000,F,A,DEU,5.7,2.9,2.7,4.9,638
+2018,Audi,RS 4 Avant,Modern Sport Touring,Base,Car Dealer,116000,F,A,DEU,6.0,2.8,2.6,5.0,637
+2016,Audi,#17 Rotek Racing TT RS,Forza GT4,Base,Car Dealer,255000,F,F,DEU,3.3,7.1,7.4,5.1,802
+2016,Audi,R8 V10 plus,Modern Sport GT,Base,Car Dealer,279000,M,A,DEU,7.1,3.8,3.5,6.1,752
+2015,Audi,RS 6 Avant,Sport Luxury,Base,Car Dealer,123000,F,A,DEU,6.3,3.3,2.7,5.0,666
+2015,Audi,S1,Modern Hot Hatch,Base,Car Dealer,64000,F,A,DEU,2.5,2.2,2.2,2.5,405
+2014,Audi,#2 Audi Team Joest R18 e-tron quattro,Forza P1,Base,Car Dealer,415000,M,A,DEU,6.3,10.0,10.0,10.0,979
+2013,Audi,R8 Coupé V10 plus 5.2 FSI quattro,Modern Sport GT,Base,Car Dealer,245000,M,A,DEU,6.3,3.7,3.4,5.8,732
+2013,Audi,RS 7 Sportback,Sport Luxury,Update 5,Car Dealer,110000,F,A,DEU,6.5,2.8,2.4,4.5,613
+2013,Audi,RS 4 Avant,Modern Sport Touring,Base,Car Dealer,105000,F,A,DEU,5.6,2.9,2.5,3.9,591
+2011,Audi,RS 3 Sportback,Modern Hot Hatch,Base,Car Dealer,78000,F,A,DEU,3.7,2.3,2.3,2.8,470
+2010,Audi,R8 Coupé 5.2 FSI quattro,Modern Sport GT,Update 20,Car Dealer,127000,M,R,DEU,6.0,3.3,3.2,4.3,680
+2006,Audi,RS 4,Sport Touring Classics,Base,Car Dealer,103000,F,A,DEU,5.4,2.3,2.4,3.6,564
+2004,Audi,S4,Sport Touring Classics,Base,Car Dealer,83000,F,A,DEU,4.6,1.9,1.9,3.0,467
+2003,Audi,RS 6,Sport Touring Classics,Base,Car Dealer,99000,F,A,DEU,5.3,2.5,2.3,3.6,537
+2001,Audi,RS 4 Avant,Sport Touring Classics,Base,Car Dealer,96000,F,A,DEU,4.5,2.4,2.4,3.2,516
+1995,Audi,Avant RS 2,Sport Touring Classics,Base,Car Dealer,89000,F,A,DEU,3.6,2.2,2.2,2.9,458
+1989,Audi,#4 Audi 90 quattro IMSA GTO,GTX Sportscars,Base,Car Dealer - Challenge Hub,282000,F,A,DEU,5.2,6.1,6.2,7.4,857
+1984,Audi,Sport quattro,Sport Touring Classics,Base,Car Dealer,101000,F,A,DEU,2.8,2.1,2.2,3.0,464
+1965,Austin-Healey,3000 MkIII,Sport Coupe Icons,Base,Car Dealer,46000,F,R,GBR,1.3,1.0,1.1,1.5,262
+1939,Auto Union,Type D,The Birth of Grand Prix,Base,Car Dealer - Challenge Hub,163000,M,R,DEU,6.2,2.4,2.9,4.9,598
+2020,Automobili Pininfarina,Battista,Modern Hypercars,Base,Car Dealer,429000,M,A,ITA,7.3,4.3,4.2,6.4,924
+2014,BAC,Mono,Track Toys,Base,Car Dealer,187000,M,R,GBR,2.7,4.4,4.5,5.4,712
+2017,Bentley,Continental Supersports,Sport Luxury,Base,Car Dealer,132000,F,A,GBR,6.8,2.7,2.4,4.7,656
+2014,Bentley,#17 M-Sport Bentley Continental GT3,Forza GT3,Base,Car Dealer,264000,F,R,GBR,4.3,6.6,6.6,6.3,819
+2003,Bentley,#7 Team Bentley Speed 8,Early LMP,Base,Car Dealer,341000,M,R,GBR,6.1,9.4,9.6,7.9,941
+2023,BMW,#25 BMW Team RLL M Hybrid V8,Forza Proto-H,Update 16,Car Dealer,366000,M,R,DEU,7.0,9.7,9.8,8.0,954
+2023,BMW,#96 Turner Motorsports M4 GT3,Forza GT3,Update 16,Car Dealer,273000,F,R,DEU,5.3,6.6,6.8,6.6,838
+2023,BMW,M2,Modern Sport Coupe,Update 5,Car Dealer,107000,F,R,DEU,5.0,3.3,3.0,4.1,599
+2021,BMW,M3 Competition Sedan,Modern Sport Touring,Base,Car Dealer,117000,F,R,DEU,5.7,3.1,2.9,4.7,642
+2021,BMW,M4 Competition Coupé,Modern Sport Touring,Welcome Pack,Car Dealer,117000,F,R,DEU,5.7,3.1,2.9,4.7,641
+2020,BMW,M8 Competition Coupé,Sport Luxury,Base,Car Dealer,210000,F,A,DEU,6.9,3.4,2.9,5.8,720
+2020,BMW,M2 Competition Coupé,Modern Sport Coupe,Car Pass,Car Dealer,104000,F,R,DEU,4.7,2.8,2.6,4.5,588
+2019,BMW,Z4 Roadster,Modern Sport Coupe,Base,Car Dealer,109000,F,R,DEU,4.9,3.0,3.1,4.3,608
+2018,BMW,#1 BMW M Motorsport M8 GTE,Forza GT2,Base,Car Dealer,273000,F,R,DEU,5.1,6.6,6.9,6.5,838
+2018,BMW,M5,Sport Luxury,Base,Car Dealer,179000,F,A,DEU,6.5,3.3,2.8,5.8,711
+2017,BMW,#24 BMW Team RLL M6 GTLM,Forza GT2,Base,Car Dealer,261000,F,R,DEU,4.5,6.6,6.8,6.1,813
+2016,BMW,M4 GTS,Modern Sport Touring,Base,Car Dealer,134000,F,R,DEU,5.6,4.2,3.9,5.0,701
+2015,BMW,i8,Sport Luxury,Base,Car Dealer,118000,M,A,DEU,5.6,2.7,2.9,4.5,644
+2014,BMW,M4 Coupé,Modern Sport Touring,Update 16,Car Dealer,111000,F,R,DEU,5.1,3.3,2.9,4.5,615
+2013,BMW,M6 Coupé,Sport Luxury,Base,Car Dealer,120000,F,R,DEU,6.6,3.2,2.7,4.9,651
+2012,BMW,M5,Modern Sport Touring,Base,Car Dealer,114000,F,R,DEU,6.2,2.8,2.8,4.7,626
+2011,BMW,1 Series M Coupé,Modern Sport Coupe,Update 8,Challenge Hub Reward,88000,F,R,DEU,4.4,2.6,2.6,3.5,527
+2010,BMW,M3 GTS,Modern Sport Touring,Base,Car Dealer,121000,F,R,DEU,5.4,3.8,3.7,4.6,657
+2010,BMW,M6 Coupé,Sport Luxury,Update 16,Car Dealer,106000,F,R,DEU,6.0,2.8,2.7,4.4,594
+2009,BMW,M5,Modern Sport Touring,Update 16,Car Dealer,100000,F,R,DEU,6.0,2.8,2.5,4.1,563
+2008,BMW,M3,Modern Sport Touring,Update 16,Car Dealer,96000,F,R,DEU,5.1,2.7,2.7,3.5,545
+2005,BMW,M3,Sport Touring Classics,Base,Car Dealer,90000,F,R,DEU,4.4,2.5,2.6,3.3,504
+2003,BMW,M5,Sport Touring Classics,Update 16,Car Dealer,89000,F,R,DEU,5.3,2.2,2.1,3.5,495
+2002,BMW,M3-GTR,Sport Touring Classics,Base,Car Dealer,108000,F,R,DEU,4.9,2.8,2.9,3.9,571
+2002,BMW,Z3 M Coupé,Early Sport Compact,Base,Car Dealer,96000,F,R,DEU,3.8,2.5,2.6,3.4,520
+2000,BMW,323ti Sport,Early Sport Compact,Base,Car Dealer,50000,F,R,DEU,1.7,1.9,1.8,2.2,322
+1999,BMW,#16 BMW V12 LMR,Early LMP,Update 16,Car Dealer,363000,M,R,DEU,6.4,10.0,10.0,8.2,953
+1999,BMW,#15 BMW Motorsport V12 LMR,Early LMP,Base,Car Dealer,366000,M,R,DEU,6.5,10.0,10.0,8.2,953
+1997,BMW,M3,Sport Touring Classics,Base,Car Dealer,93000,F,R,DEU,4.6,2.4,2.4,3.2,485
+1995,BMW,850CSi,Sport GT Icons,Base,Car Dealer,84000,F,R,DEU,5.0,2.2,2.3,2.8,435
+1991,BMW,M3,Sport Touring Classics,Base,Car Dealer,68000,F,R,DEU,2.7,1.7,2.0,2.4,357
+1988,BMW,M5,Sport Touring Classics,Base,Car Dealer,74000,F,R,DEU,2.6,1.7,1.8,2.8,366
+1986,BMW,M635 CSi,Sport Touring Classics,Update 16,Car Dealer,79000,F,R,DEU,3.4,1.8,2.0,2.5,378
+1981,BMW,M1,Sport GT Icons,Base,Car Dealer,93000,M,R,DEU,3.1,2.2,2.3,2.9,416
+1979,BMW,#6 BMW Motorsport M1 Procar,GTX Sportscars,Base,Car Dealer - Challenge Hub,240000,M,R,DEU,4.9,5.4,5.9,5.5,772
+1976,BMW,#1 BMW 3.0 CSL,GTX Sportscars,Update 16,Challenge Hub Reward,223000,F,R,DEU,4.3,5.2,5.3,5.5,739
+1975,BMW,#25 BMW Motorsport 3.0 CSL,GTX Sportscars,Base,Car Dealer,224000,F,R,DEU,4.0,5.5,5.5,5.4,741
+1973,BMW,2002 Turbo,Vintage Sport Compact,Base,Car Dealer,67000,F,R,DEU,1.6,1.2,1.3,2.3,298
+2019,Brabham,BT62,Modern Factory Racecars,Base,Car Dealer,313000,M,R,GBR,6.3,7.7,7.8,7.8,911
+1967,Brabham,BT24,Formula 60s,Base,Car Dealer,232000,M,R,GBR,4.2,4.7,4.9,6.1,756
+1964,Brabham,BT8,Vintage Le Mans Sportscars,Update 7,Career: Complete the Open Class Tour - 1960s Celebration series,140000,M,R,GBR,3.4,2.3,2.2,4.5,538
+1974,BRM,#14 Team Motul P201,Formula 70s,Race Day Car Pack,Car Dealer,281000,M,R,GBR,4.4,7.0,7.1,8.9,856
+2019,Bugatti,Divo,Modern Hypercars,Base,Car Dealer,418000,M,A,FRA,10.0,4.8,4.6,8.9,870
+2018,Bugatti,Chiron,Modern Hypercars,Base,Car Dealer,418000,M,A,FRA,10.0,4.6,4.4,8.8,869
+2011,Bugatti,Veyron Super Sport,Modern Hypercars,Update 2,Car Dealer,416000,M,A,FRA,10.0,4.5,4.4,9.3,862
+1992,Bugatti,EB110 Super Sport,Exotic GT Classics,Base,Car Dealer,171000,M,A,FRA,7.6,3.2,3.2,4.7,697
+1926,Bugatti,Type 35 C,The Birth of Grand Prix,Base,Car Dealer,134000,F,R,FRA,1.0,1.8,2.0,1.4,263
+1987,Buick,Regal GNX,Sport Touring Classics,Base,Car Dealer,83000,F,R,USA,3.1,1.9,2.1,3.2,421
+1985,Buick,#6 Performance Motorsports Somerset Regal Trans-Am,GTX Sportscars,Car Pass,Car Dealer,240000,F,R,USA,5.0,5.6,5.8,5.0,771
+1970,Buick,GSX,Street Drag Racers,Base,Car Dealer,88000,F,R,USA,2.0,1.2,1.2,3.3,377
+2023,Cadillac,#31 Whelen Engineering Cadillac Racing V-Series.R,Forza Proto-H,Base,Car Dealer,341000,M,R,USA,6.9,9.8,9.7,8.2,941
+2023,Cadillac,#2 Cadillac Racing V-Series.R,Forza Proto-H,Base,Car Dealer,341000,M,R,USA,6.9,9.8,9.7,8.2,941
+2023,Cadillac,#01 Cadillac Racing V-Series.R,Forza Proto-H,Base,Car Dealer,641000,M,R,USA,6.9,9.8,9.7,8.2,941
+2022,Cadillac,CT5-V Blackwing,Modern Sport Touring,Base,Car Dealer,116000,F,R,USA,6.3,3.3,2.8,4.7,638
+2022,Cadillac,CT4-V Blackwing,Modern Sport Touring,Base,Car Dealer,102000,F,R,USA,5.6,3.0,2.8,4.1,577
+2021,Cadillac,#31 Whelen Racing DPi-V.R,Forza Proto-H,Car Pass,Car Dealer,350000,M,R,USA,5.9,9.4,9.5,7.6,950
+2018,Cadillac,#57 TA CTS-V,Forza T/A,Car Pass,Car Dealer,302000,F,R,USA,5.5,7.1,7.2,7.1,897
+2016,Cadillac,CTS-V Sedan,Sport Luxury,Base,Car Dealer,114000,F,R,USA,5.9,2.9,2.5,4.6,629
+2016,Cadillac,ATS-V,Modern Sport Touring,Base,Car Dealer,93000,F,R,USA,5.5,2.6,2.6,3.6,538
+2015,Cadillac,#3 Cadillac Racing ATS-V.R,Forza GT3,Car Pass,Car Dealer,266000,F,R,USA,5.3,6.3,6.4,6.4,824
+2014,Cadillac,CTS-V Sport Wagon,Modern Sport Touring,Update 18,Car Dealer,97000,F,R,USA,6.7,2.7,2.4,3.9,555
+2013,Caterham,Superlight R500,Track Toys,Base,Car Dealer,130000,F,R,GBR,2.9,3.5,3.4,5.5,669
+1966,Chaparral,#66 Chaparral Cars 2E,Prototype Group Racing,Base,Car Dealer,262000,M,R,USA,4.2,6.9,6.8,5.9,818
+2025,Chevrolet,IndyCar,IndyCar,Update 21,Car Dealer,440000,M,R,USA,8.2,10.0,10.0,7.1,993
+2024,Chevrolet,NASCAR Next Gen Camaro ZL1,NASCAR,Update 14,Car Dealer,293000,F,R,USA,6.0,7.0,7.0,5.5,855
+2024,Chevrolet,Corvette E-Ray,Modern Sport GT,Base,Car Dealer,275000,M,A,USA,6.1,4.3,4.0,5.8,759
+2023,Chevrolet,Corvette Z06,Modern Sport GT,Base,Car Dealer,274000,M,R,USA,5.1,5.1,4.5,6.2,757
+2020,Chevrolet,#3 Corvette Racing C8.R,Forza GT2,Base,Car Dealer,264000,M,R,USA,4.6,6.7,7.0,6.3,821
+2020,Chevrolet,Corvette Stingray Coupe Forza Edition,Modern Sport GT,VIP,Gifted,120000,M,R,USA,4.3,4.3,4.4,5.2,700
+2020,Chevrolet,Corvette Stingray Coupe,Modern Sport GT,Welcome Pack,Car Dealer,115000,M,R,USA,4.8,3.7,3.7,5.3,678
+2019,Chevrolet,Corvette ZR1,Modern Sport GT,Base,Car Dealer,272000,F,R,USA,6.1,4.6,4.3,6.3,756
+2018,Chevrolet,#23 Ruman Racing TA Corvette,Forza T/A,Car Pass,Car Dealer,304000,F,R,USA,5.5,7.1,7.3,6.7,899
+2018,Chevrolet,Camaro ZL1 1LE Forza Edition,Modern Sport Touring,VIP,Gifted,120000,F,R,USA,4.9,4.6,4.5,4.6,700
+2018,Chevrolet,Camaro ZL1 1LE,Modern Sport Touring,Base,Car Dealer,112000,F,R,USA,5.3,4.0,3.7,4.5,667
+2017,Chevrolet,Camaro ZL1,Modern Sport Touring,Base,Car Dealer,107000,F,R,USA,5.8,3.5,3.3,4.5,646
+2016,Chevrolet,Camaro Super Sport,Modern Sport Touring,Base,Car Dealer,92000,F,R,USA,5.0,2.8,2.8,3.8,583
+2015,Chevrolet,#10 Konica Minolta Corvette Daytona Prototype,Forza P2,Base,Car Dealer,315000,M,R,USA,4.8,9.2,9.1,6.3,912
+2015,Chevrolet,Corvette Z06,Modern Sport GT,Base,Car Dealer,203000,F,R,USA,4.9,4.8,4.5,5.1,721
+2014,Chevrolet,#3 Corvette Racing Corvette C7.R,Forza GT2,Base,Car Dealer,256000,F,R,USA,4.6,6.5,6.8,6.0,804
+2010,Chevrolet,#55 Level 5 Motorsports Oreca FLM09,Forza P2,Base,Car Dealer,316000,M,R,USA,4.7,9.6,9.7,7.1,915
+2009,Chevrolet,Corvette ZR1,Modern Sport GT,Base,Car Dealer,149000,F,R,USA,7.1,3.8,3.7,5.5,707
+2002,Chevrolet,Corvette Z06,Sport GT Icons,Base,Car Dealer,103000,F,R,USA,6.0,2.7,3.3,3.6,599
+2002,Chevrolet,Camaro 35th Anniversary Super Sport,Sport Touring Classics,Base,Car Dealer,80000,F,R,USA,4.2,2.2,2.4,3.0,499
+1995,Chevrolet,Corvette ZR-1,Sport GT Icons,Base,Car Dealer,105000,F,R,USA,5.0,2.6,3.0,3.6,579
+1990,Chevrolet,Camaro IROC-Z,Sport Touring Classics,Base,Car Dealer,60000,F,R,USA,3.2,1.8,2.1,2.4,367
+1988,Chevrolet,Monte Carlo Super Sport,Sport Touring Classics,Base,Car Dealer,11000,F,R,USA,1.0,1.4,4.5,1.3,255
+1988,Chevrolet,#77 Beretta Trans Am,GTX Sportscars,Update 14,Challenge Hub Reward,174000,F,R,USA,4.1,5.7,5.7,5.3,758
+1976,Chevrolet,#76 Greenwood Corvette,GTX Sportscars,Base,Car Dealer,259000,F,R,USA,7.5,5.2,5.5,7.0,811
+1970,Chevrolet,Corvette ZR-1,Vintage Muscle,Base,Car Dealer,85000,F,R,USA,1.5,1.3,1.6,2.5,386
+1970,Chevrolet,Chevelle Super Sport 454,Street Drag Racers,Base,Car Dealer,84000,F,R,USA,1.1,1.1,1.2,3.2,383
+1970,Chevrolet,Camaro Z28,Vintage Muscle,Base,Car Dealer,75000,F,R,USA,1.9,1.0,1.1,2.9,353
+1969,Chevrolet,Nova Super Sport 396,Street Drag Racers,Base,Car Dealer,76000,F,R,USA,2.5,1.0,1.0,2.7,354
+1969,Chevrolet,Camaro Jordan Luka 3 Motorsport Edition,Vintage Muscle,Update 12,Car Dealer,157000,F,R,USA,3.9,4.8,4.7,4.0,693
+1969,Chevrolet,Camaro Super Sport Coupe,Vintage Muscle,Base,Car Dealer,70000,F,R,USA,1.7,1.1,1.2,2.5,333
+1967,Chevrolet,Corvette Stingray 427,Vintage Muscle,Base,Car Dealer,93000,F,R,USA,2.7,1.3,1.4,3.0,405
+1964,Chevron,B16,Vintage Le Mans Prototypes,Update 9,Car Dealer,184000,M,R,GBR,3.1,5.3,5.3,4.2,654
+1972,Chrysler,VH Valiant Charger R/T E49,Street Drag Racers,Base,Car Dealer,76000,F,R,USA,1.9,1.0,1.1,3.0,361
+2011,Citroën,DS 3 Racing,Modern Hot Hatch,Base,Car Dealer,40000,F,F,FRA,1.8,2.3,2.3,2.4,379
+1979,Datsun,#33 280ZX Turbo,GTX Sportscars,Base,Car Dealer,275000,F,R,USA,6.3,6.0,6.1,7.4,842
+1970,Datsun,510,Vintage Sport Compact,Base,Car Dealer,14000.F,R,JPN,1.0,1.0,1.0,1.2,223
+1969,Datsun,2000 Roadster,Sport Coupe Icons,Base,Car Dealer,22000,F,R,USA,1.0,1.0,1.1,1.4,251
+1984,De Tomaso,Pantera GT5,Vintage Exotic GT,Racing Heroes Car Pack,Car Dealer,122000,M,R,ITA,3.1,2.8,2.9,3.1,502
+2019,Dodge,#9 American V8 Road Racing TA Challenger,Forza T/A,Car Pass,Car Dealer,302000,F,R,USA,5.4,7.2,7.3,7.0,898
+2018,Dodge,Challenger SRT Demon,Modern Sport Touring,Base,Challenge Hub Reward,115000,F,R,USA,7.2,5.5,2.5,5.1,679
+2016,Dodge,Viper ACR,Modern Sport GT,Base,Car Dealer,284000,F,R,USA,4.1,6.1,5.6,5.5,767
+2015,Dodge,Charger SRT Hellcat,Modern Sport Touring,Base,Car Dealer,101000,F,R,USA,7.1,2.8,2.4,4.4,620
+2014,Dodge,#93 SRT Motorsports Viper GTS-R,Forza GT2,Base,Car Dealer,258000,F,R,USA,4.5,6.5,6.8,5.5,808
+2013,Dodge,Dart GT,Modern Sport Compact,Base,Car Dealer,27000,F,F,USA,2.5,1.7,2.0,1.8,315
+2012,Dodge,Challenger SRT8,Modern Sport Touring,Base,Car Dealer,84000,F,R,USA,5.1,2.7,2.4,4.1,548
+2008,Dodge,Viper SRT10 ACR,Modern Sport GT,Base,Car Dealer,245000,F,R,USA,4.4,5.4,5.3,4.6,737
+2005,Dodge,SRT-4 ACR,Early Sport Compact,Base,Car Dealer,62000,F,F,USA,3.4,1.7,1.9,2.8,429
+1999,Dodge,Viper GTS ACR,Sport GT Icons,Base,Car Dealer,106000,F,R,USA,5.3,3.3,3.3,3.7,602
+1996,Dodge,Stealth R/T Turbo,Early Sport Compact,Base,Car Dealer,75000,F,A,USA,4.3,2.0,2.3,2.6,449
+1986,Dodge,Shelby Omni GLHS,Hot Hatch Icons,Base,Car Dealer,47000,F,F,USA,1.2,1.6,1.6,2.2,306
+1970,Dodge,Coronet Super Bee,Street Drag Racers,Base,Car Dealer,88000,F,R,USA,3.2,1.3,1.4,3.1,398
+1970,Dodge,Challenger R/T,Street Drag Racers,Base,Car Dealer,87000,F,R,USA,2.9,1.2,1.3,3.2,395
+1969,Dodge,Charger Daytona HEMI,Vintage Muscle,Base,Car Dealer,87000,F,R,USA,2.1,1.4,1.5,3.2,392
+1969,Dodge,Charger R/T,Vintage Muscle,Base,Car Dealer,83000,F,R,USA,3.0,1.1,1.2,3.0,376
+2013,Donkervoort,D8 GTO,Track Toys,Base,Car Dealer,205000,F,R,NED,3.5,4.6,4.5,5.2,717
+1998,Eagle Talon,TSi Turbo,Early Sport Compact,Base,Car Dealer,39000,F,A,USA,2.6,1.5,1.9,1.9,320
+1967,Eagle-Weslake,T1G,Formula 60s,Base,Car Dealer,235000,M,R,USA,5.2,4.4,4.7,6.4,763
+2019,Elemental,RP1,Track Toys,Update 8,Car Dealer,314000,M,R,GBR,2.7,7.1,7.2,6.2,784
+2018,Exomotive,Exocet Sport V8 XP-5,Track Toys,Base,Car Dealer,309000,F,R,USA,4.2,5.3,5.1,4.2,776
+2022,Ferrari,296 GTB,Modern Sport GT,Update 3,Car Dealer,329000,F,R,ITA,7.6,4.5,4.2,6.4,786
+2020,Ferrari,SF90 Stradale,Modern Exotic GT,Base,Car Dealer,404000,M,A,ITA,9.0,4.5,4.3,8.3,854
+2020,Ferrari,Roma,Modern Exotic GT,Base,Car Dealer,179000,F,R,ITA,5.8,3.7,3.3,5.4,707
+2019,Ferrari,#62 Risi Competizione 488 GTE,Forza GT2,Car Pass,Car Dealer,273000,M,R,ITA,5.0,6.4,6.6,6.7,835 
+2019,Ferrari,488 Pista,Modern Sport GT,Base,Car Dealer,348000,M,R,ITA,6.7,5.2,5.0,6.7,804
+2019,Ferrari,F8 Tributo,Modern Exotic GT,Base,Car Dealer,311000,M,R,ITA,8.7,4.1,3.9,6.7,766
+2019,Ferrari,Monza SP2,Modern Exotic GT,Base,Car Dealer,311000,F,R,ITA,8.2,4.0,3.7,6.3,766
+2018,Ferrari,FXX-K Evo,Modern Factory Racecars,Base,Car Dealer,333000,M,R,ITA,7.6,8.1,8.1,7.8,934
+2018,Ferrari,Portofino,Modern Exotic GT,Base,Car Dealer,146000,F,R,ITA,7.1,3.6,3.3,5.5,686
+2017,Ferrari,#25 Corse Clienti 488 Challenge,488 Challenge Spec,Base,Car Dealer,269000,M,R,ITA,4.6,6.3,6.2,6.9,830
+2017,Ferrari,812 Superfast,Modern Exotic GT,Base,Car Dealer,327000,F,R,ITA,9.2,4.4,4.1,6.6,783
+2017,Ferrari,J50,Modern Exotic GT,Base,Car Dealer,309000,M,R,ITA,8.3,4.1,3.9,6.3,763
+2015,Ferrari,F12tdf,Modern Exotic GT,Base,Car Dealer,311000,F,R,ITA,7.9,4.7,4.5,6.2,766
+2015,Ferrari,488 GTB,Modern Sport GT,Update 2,Career: Complete the Open Class Tour - Italian Manugacturers series,297000,M,R,ITA,7.9,4.0,3.8,6.2,753
+2014,Ferrari,FXX K,Modern Factory Racecars,Update 1,Car Dealer,322000,M,R,ITA,7.3,7.7,7.7,7.7,922
+2014,Ferrari,California T,Modern Sport GT,Base,Car Dealer,128000,F,R,ITA,6.0,3.4,3.1,5.1,653
+2013,Ferrari,LaFerrari,Modern Exotic GT,Base,Car Dealer,409000,M,R,ITA,7.3,5.9,5.8,7.4,859
+2013,Ferrari,458 Speciale,Modern Sport GT,Base,Car Dealer,326000,M,R,ITA,6.9,5.0,4.7,6.7,782
+2012,Ferrari,599XX Evolution,Modern Factory Racecars,Base,Car Dealer,288000,F,R,ITA,7.0,6.7,6.5,7.3,869
+2011,Ferrari,#62 Risi Competizione F458 Italia GTC,Forza GT3,Update 11,Car Dealer,262000,M,R,ITA,4.9,6.3,6.5,5.3,805
+2010,Ferrari,599XX,Modern Factory Racecars,Update 6,Car Dealer,1300000,F,R,ITA,6.2,6.0,5.8,7.1,836
+2009,Ferrari,458 Italia,Modern Sport GT,Base,Car Dealer,250000,M,R,ITA,6.5,4.2,3.9,6.0,727
+2007,Ferrari,430 Scuderia,Modern Sport GT,Update 4,Car Dealer,177000,M,R,ITA,6.4,4.2,4.0,5.4,707
+2003,Ferrari,360 Challenge Stradale,Sport GT Icons,Base,Car Dealer,142000,M,R,ITA,5.5,3.8,3.9,4.1,644
+2002,Ferrari,Enzo Ferrari,Exotic GT Classics,Base,Car Dealer,338000,M,R,ITA,7.3,5.3,5.3,6.3,787
+2002,Ferrari,575M Maranello,Exotic GT Classics,Base,Car Dealer,128000,F,R,ITA,5.8,2.6,2.7,4.4,585
+1998,Ferrari,#12 Risi Competizione F333 SP,Early LMP,Base,Car Dealer,334000,M,R,ITA,5.5,8.9,9.3,7.7,935
+1996,Ferrari,F50 GT,Early Factory Racecars,Base,Car Dealer,315000,M,R,ITA,7.7,7.0,7.2,7.5,913
+1995,Ferrari,F50,Exotic GT Classics,Base,Car Dealer,159000,M,R,ITA,5.9,4.1,4.4,4.4,683
+1994,Ferrari,F355 Berlinetta,Sport GT Icons,Base,Car Dealer,132000,M,R,ITA,5.2,2.7,3.0,3.6,568
+1992,Ferrari,512 TR,Exotic GT Classics,Base,Car Dealer,126000,M,R,ITA,5.2,2.5,2.9,3.2,533
+1990,Ferrari,#1 Scuderia Ferrari 641,Grand Prix Rivals,Base,Car Dealer,450000,M,R,ITA,6.8,10.0,10.0,10.0,999
+1989,Ferrari,F40 Competizione,Early Factory Racecars,Base,Car Dealer,290000,M,R,ITA,7.8,6.6,7.1,6.5,874
+1987,Ferrari,F40,Exotic GT Classics,Base,Car Dealer,170000,M,R,ITA,6.1,3.6,4.0,5.6,699
+1984,Ferrari,288 GTO,Sport GT Icons,Base,Car Dealer,141000,M,R,ITA,5.0,2.6,2.9,4.0,569
+1982,Ferrari,#72 N.A.R.T. 512 BB/LM,GTX Sportscars,Base,Car Dealer,241000,R,R,ITA,6.3,5.4,5.9,5.1,774
+1976,Ferrari,#1 Scuderia Ferrari 312 T2,Formula 70s,Base,Car Dealer,288000,M,R,ITA,4.6,7.8,7.9,9.7,871
+1970,Ferrari,512 S,Vintage Le Mans Prototypes,Base,Car Dealer,275000,M,R,ITA,6.7,5.9,6.3,7.9,843
+1969,Ferrari,Dino 246 GT,Vintage Exotic GT,Base,Car Dealer,93000,M,R,ITA,2.1,1.5,1.8,2.0,311
+1967,Ferrari,#24 Ferrari Spa 330 P4,Vintage Le Mans Prototypes,Base,Car Dealer,235000,M,R,ITA,5.9,4.7,5.2,6.5,764
+1964,Ferrari,F-158,Formula 60s,Base,Car Dealer,194000,M,R,ITA,3.6,4.4,4.5,5.3,677
+1963,Ferrari,250LM,Vintage Le Mans Sportscars,Base,Car Dealer,174000,M,R,ITA,5.0,3.1,3.3,3.6,624
+1962,Ferrari,250 GTO,Vintage Le Mans Sportscars,Base,Car Dealer,160000,F,R,ITA,4.3,2.6,3.2,3.8,560
+1962,Ferrari,250 GT Berlinetta Lusso,Sport Coupe Icons,Base,Car Dealer,119000,F,R,ITA,2.7,1.4,1.5,2.9,381
+1957,Ferrari,250 Testa Rossa,Vintage Le Mans Sportscars,Base,Car Dealer,164000,F,R,ITA,3.7,2.3,2.7,4.2,559
+1953,Ferrari,500 Mondial,Vintage Le Mans Sportscars,Base,Car Dealer,123000,F,R,ITA,2.1,1.6,2.1,2.1,365
+1948,Ferrari,166 Inter Sport,The Birth of Grand Prix,Base,Car Dealer,65000,F,R,ITA,1.2,1.9,2.1,2.3,342
+2024,Ford,NASCAR Next Gen Mustang Dark Horse,NASCAR,Update 14,Car Dealer,293000,f,r,usa,6.0,7.0,7.0,5.5,855
+2024,Ford,#25 Mustang RTR,Formula Drift,Update 13,Car Dealer,236000,f,r,usa,6.8,4.6,4.5,6.1,810
+2024,Ford,#88 Mustang RTR,Formula Drift,Update 13,Car Dealer,236000,f,r,usa,6.8,4.6,4.5,6.1,810
+2024,Ford,#124 Mustang RTR,Formula Drift,Update 13,Car Dealer,236000,f,r,usa,5.6,4.6,4.5,6.8,837
+2024,Ford,Mustang Dark Horse,Modern Sport Touring,Update 13 Car Pass,Car Dealer,97000,f,r,usa,5.4,3.8,3.5,4.0,633
+2024,Ford,Mustang GT,Modern Sport Touring,Update 13,Car Dealer,91000,f,r,usa,4.9,2.8,2.8,3.8,579
+2024,Ford,Mustang GT3,Forza GT3,Racing Heroes Car Pack,Car Dealer,310000,f,r,usa,5.0,6.9,6.8,6.1,829
+2020,Ford,Mustang Shelby GT500,Modern Sport Touring,Base,Car Dealer,210000,f,r,usa,6.4,4.1,3.9,5.3,724
+2018,Ford,#98 Breathless Pro Racing TA Mustang,Forza T/A,Car Pass,Car Dealer,302000,f,r,usa,5.5,7.1,7.2,6.7,897
+2018,Ford,Mustang GT,Modern Sport Touring,Base,Car Dealer,88000,f,r,usa,4.9,2.7,2.7,3.7,568
+2017,Ford,GT,Modern Sport GT,Base,Challenge Hub Reward,310000,m,r,usa,7.9,4.8,4.8,6.8,795
+2017,Ford,#17 Shell V-Power Racing Team Falcon FG X,Forza AUS,Base,Car Dealer,246000,f,r,usa,5.0,5.6,5.6,5.7,785
+2017,Ford,Focus RS,Modern Hot Hatch,Base,Car Dealer,80000,f,a,usa,4.1,2.6,2.6,3.3,535
+2016,Ford,#66 Ford Racing GT Le Mans,Forza GT2,Base,Car Dealer,264000,m,r,usa,4.6,6.6,6.9,5.6,820
+2016,Ford,Shelby GT-350R,Modern Sport Touring,Base,Car Dealer,108000,f,r,usa,5.0,4.0,3.8,3.9,651
+2015,Ford,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,Forza P2,Base,Car Dealer,322000,M,R,USA,5.1,9.3,9.2,6.8,921
+2015,Ford,Falcon GT F 351,Modern Sport Touring,Base,Car Dealer,83000,f,r,usa,5.6,2.6,2.4,3.6,544
+2014,Ford,FPV Limited Edition Pursuit Ute,Modern Sport Touring,Update 15,Car Dealer,63000,f,r,usa,4.3,2.0,2.2,3.3,479
+2014,Ford,#17 AMD Tuning Focus ST BTCC,Forza Touring Cars,Race Day Car Pack,Car Dealer,204000,f,f,usa,3.4,5.2,5.4,4.3,703
+2013,Ford,Shelby GT500,Modern Sport Touring,Update 13,Car Dealer,105000,f,r,usa,601,2.9,2.9,4.1,639
+2009,Ford,Focus RS,Modern Hot Hatch,Base,Car Dealer,70000,f,f,usa,2.8,2.6,2.6,3.0,485
+2005,Ford,Ford GT,Modern Sport GT,Base,Car Dealer,111000,m,r,usa,6.6,3.4,3.5,4.2,642
+2003,Ford,Focus RS,Modern Hot Hatch,Base,Car Dealer,53000,f,f,usa,1.9,2.1,2.1,2.6,384
+2000,Ford,SVT Cobra R,Sport Touring Classics,Base,Car Dealer,89000,f,r,usa,4.3,3.1,3.0,3.2,533
+1999,Ford,Racing Puma,Early Sport Compact,Base,Car Dealer,34000,f,f,usa,1.4,2.1,2.2,1.7,303
+1995,Ford,Mustang SVT Cobra R,Sport Touring Classics,Update 13,Car Dealer,74000,f,r,usa,3.5,2.4,2.5,2.8,443
+1993,Ford,SVT Cobra R,Sport Touring Classics,Base,Car Dealer,60000,f,r,usa,2.2,2.2,2.4,2.3,374
+1992,Ford,Escort RS Cosworth,Hot Hatch Icons,Base,Car Dealer,73000,f,a,usa,2.7,2.5,2.8,2.4,421
+1992,Ford,Falcon GT,Sport Touring Classics,Base,Car Dealer,67000,f,r,usa,3.5,1.8,2.0,2.6,396
+1991,Ford,#15 Roush Racing Whistler Mustang,GTX Sportscars,Car Pass,Car Dealer,266000,g,t,usa,7.2,5.6,5.9,5.8,824
+1987,Ford,Sierra Cosworth RS500,Sport Touring Classics,Base,Car Dealer,71000,f,r,usa,2.6,2.2,2.5,2.7,395
+1986,Ford,Mustang SVO,Sport Touring Classics,Base,Car Dealer,49000,f,r,usa,1.9,1.9,2.2,2.0,314
+1986,Ford,Escort RS Turbo,Hot Hatch Icons,Base,Car Dealer,37000,f,f,usa,1.0,1.4,4.6,4.9,290
+1982,Ford,#6 Zakspeed Roush Mustang IMSA GT,GTX Sportscars,Base,Car Dealer,259000,f,r,usa,4.5,6.2,6.4,5.6,810 
+1981,Ford,#2 Zakspeed Racing Capri Turbo,GTX Sportscars,Base,Car Dealer,253000,F,R,USA,4.6,6.2,6.5,5.2,799
+1981,Ford,Fiesta XR2,Hot Hatch Icons,Base,Car Dealer,11000,f,f,usa,1.0,1.2,1.2,1.2,243
+1977,Ford,Escort RS1800,Vintage Sport Compact,Base,Car Dealer,27000,f,r,usa,1.0,1.3,1.3,1.7,267
+1973,Ford,XB Falcon GT,Vintage Muscle,Base,Car Dealer,68000,f,r,usa,2.0,1.3,1.2,2.8,337
+1973,Ford,Escort RS1600,Vintage Sport Compact,Base,Car Dealer,27000,f,r,usa,1.0,1.2,1.2,1.7,263
+1972,Ford,Falcon XA GT-HO,Vintage Muscle,Update 15,Car Dealer,79000,f,r,usa,3.5,1.3,1.4,2.8,374
+1970,Ford,#15 Mustang Boss 302 Trans Am,Vintage Trans Am,Update 13,Challenge Hub Reward,189000,f,r,usa,3.0,3.7,3.5,3.2,584
+1969,Ford,Mustang Boss 302,Vintage Muscle,Base,Car Dealer,73000,f,r,usa,2.7,1.3,1.4,2.4,343
+1968,Ford,Mustang GT 2+2 Fastback,Vintage Muscle,Base,Car Dealer,59000,f,r,usa,3.0,1.0,1.0,2.3,297
+1966,Ford,#2 GT40 MkII Le Mans,Vintage Le Mans Prototypes,Base,Challenge Hub Reward,217000,M,R,USA,6.0,4.3,4.6,5.0,728
+1966,Ford,Lotus Cortina,Vintage Sport Compact,Base,Car Dealer,22000,f,r,usa,1.0,1.1,1.1,1.4,248
+1965,Ford,Mustang GT Coupe,Vintage Muscle,Base,Car Dealer,75000,f,r,usa,2.3,1.1,1.2,2.9,338
+1964,Ford,GT40 Mk I,Vintage Le Mans Prototypes,Base,Car Dealer,200000,f,r,usa,5.3,4.0,4.4,4.4,691
+2020,Formula Drift,#91 BMW M2,Formula Drift,Update 16,Car Dealer,255000,f,r,usa,4.9,4.3,4.3,6.3,801
+2020,Formula Drift,#151 Toyota GR Supra,Formula Drift,Update 13,Car Dealer,256000,f,r,usa,4.1,4.4,4.2,5.7,801
+2016,Formula Drift,#530 HSV Maloo Gen-F,Formula Drift,Update 15,Car Dealer,238000,f,r,usa,6.6,3.7,3.8,5.4,768
+2015,Formula Drift,#13 Ford Mustang,Formula Drift,Update 13,Car Dealer,243000,f,r,usa,3.3,4.2,4.1,5.6,767
+2006,Formula Drift,#43 Dodge Viper SRT10,Formula Drift,Update 13,Car Dealer,262000,f,r,usa,6.1,4.7,4.6,6.1,816
+2001,Formula Drift,#215 Nissan Silvia Spec-R,Formula Drift,Racing Heroes Car Pack,Car Dealer,296000,f,r,usa,6.1,3.9,4.1,6.4,801
+1995,Formula Drift,#34 Toyota Supra MxIV,Formula Drift,Update 20,Car Dealer,261000,f,r,usa,7.0,4.0,4.1,6.1,813
+1997,Formula Drift,#777 Nissan 240SX,Formula Drift,Update 13,Car Dealer,252000,f,r,usa,5.0,4.1,3.9,6.5,799
+1975,Forsberg Racing,Forsberg Racing Nissan ‘Gold Leader’ Datsun 280Z,Formula Drift,Update 18,Car Dealer,148000,f,r,usa,5.1,3.0,3.0,4.5,633
+2019,Ginetta,#6 Team LNT Ginetta G60-LT-P1,Forza P1,Update 1,Car Dealer,418000,m,r,gbr,7.1,10.0,10.0,8.1,981
+2019,Ginetta,G55 GT4,Forza GT4,Car Pass,Car Dealer,215000,f,r,gbr,3.4,5.3,5.4,4.7,723
+2019,Ginetta,G40 Junior,G40 Junior Spec,Update 8,Car Dealer,45000,f,r,gbr,1.0,2.8,2.8,1.6,300
+2022,Gordon Murray Automotive,T.50,Modern Exotic GT,Update 2,Car Dealer,403000,m,r,gbr,8.2,6.2,6.1,6.3,859
+2019,Hennessey,Camaro Exorcist,Modern Exotic GT,Update 14,Challenge Hub Reward,238000,g,r,usa,7.4,3.7,3.9,4.9,725
+1985,HDT,VK Commodore Group A,Sport Touring Classics,Update 15,Car Dealer,63000,f,r,aus,1.9,1.7,1.6,2.4,359
+2017,Holden,#22 Walkinshaw Performance VF Commodore,Forza AUS,Base,Car Dealer,247000,f,r,aus,5.0,5.5,5.5,5.9,785
+2013,Holden,#10 Holden Xbox Racing Team Commodore VF,Forza AUS,Update 15,Challenge Hub Reward,600000,f,r,aus,4.8,5.5,5.5,5.8,781
+1991,Holden,HSV Commodore Group A SV,Sport Touring Classics,Update 15,Car Dealer,66000,f,r,aus,4.1,1.9,2.0,2.4,388
+1988,Holden,VL Commodore Group A SV,Sport Touring Classics,Base,Car Dealer,60000,f,r,aus,3.1,1.7,1.8,2.4,359
+1977,Holden,Torana A9X,Vintage Sport Compact,Base,Car Dealer,51000,f,r,aus,1.4,1.0,1.1,2.6,298
+1973,Holden,HQ Monaro GTS 350,Vintage Muscle,Base,Car Dealer,63000,f,r,aus,1.3,1.1,1.2,2.6,321
+1968,Holden,Monaro GTS 327,Street Drag Racers,Base,Car Dealer,47000,f,r,aus,1.3,1.0,1.0,2.4,282
+2025,Honda,IndyCar,IndyCar,Update 21,Car Dealer,440000,m,r,jpn,8.2,10.0,10.0,7.1,993
+2020,Honda,#73 LA Honda World Racing Civic,Forza Touring Cars,Base,Car Dealer,200000,f,f,jpn,2.9,5.3,5.4,4.3,693
+2018,Honda,Civic Type R,Modern Hot Hatch,Base,Car Dealer,89000,f,f,jpn,4.9,2.8,3.1,3.5,571
+2009,Honda,S2000 CR,Modern Sport Compact,Base,Car Dealer,53000,f,r,jpn,3.0,2.2,2.5,2.4,405
+2005,Honda,NSX-R,Sport GT Icons,Base,Car Dealer,83000,m,r,jpn,4.4,2.7,3.0,3.3,524
+2004,Honda,Civic Type R,Modern Hot Hatch,Base,Car Dealer,51000,f,f,jpn,2.5,1.8,2.1,2.2,379
+2000,Honda,Prelude Type SH,Early Sport Compact,Base,Car Dealer,35000,f,f,jpn,2.0,1.5,1.7,2.1,312
+1997,Honda,Civic Type R,Hot Hatch Icons,Base,Car Dealer,49000,f,f,jpn,2.6,1.6,1.9,2.2,348
+1992,Honda,NSX-R,Sport GT Icons,Base,Car Dealer,90000,m,r,jpn,4.0,2.5,2.8,3.2,502
+1991,Honda,CR-X SiR,Hot Hatch Icons,Base,Car Dealer,42000,f,f,jpn,1.9,1.7,2.1,1.7,305
+1970,Honda,S800,Sport Coupe Icons,Base,Car Dealer,14000,f,r,jpn,1.0,1.3,1.2,1.1,210
+1967,Honda,RA300,Formula 60s,Base,Car Dealer,227000,m,r,jpn,4.9,4.3,4.1,7.2,747
+2014,HSV,Limited Edition Gen-F GTS Maloo,Modern Sport Touring,Update 15,Car Dealer,100000,f,r,aus,4.7,2.8,2.5,3.8,568
+2014,HSV,GEN-F GTS,Modern Sport Touring,Base,Car Dealer,98000,f,r,aus,5.7,2.7,2.5,4.0,560
+2011,HSV,GTS,Modern Sport Touring,Update 15,Car Dealer,85000,f,r,aus,4.7,2.4,2.5,3.3,503
+1996,HSV,GTSR,Sport Touring Classics,Base,Car Dealer,79000,f,r,aus,3.6,1.9,2.0,2.7,416
+2023,Hyundai,IONIQ 5 N,Modern Hot Hatch,Update 17,Car Dealer,105000,m,a,kor,3.2,2.7,2.6,4.5,683
+2022,Hyundai,Elantra N,Modern Sport Compact,Update 17,Car Dealer,57000,f,f,kor,3.8,2.2,2.5,3.0,480
+2021,Hyundai,#98 Bryan Herta Autosport Elantra N,Forza Touring Cars,Update 17,Car Dealer,191000,f,f,kor,3.2,5.0,5.1,4.0,670
+2021,Hyundai,i20 N,Modern Hot Hatch,Update 17,Car Dealer,48000,f,f,kor,2.3,2.4,2.7,2.6,438
+2020,Hyundai,i30 N,Modern Hot Hatch,Update 17,Car Dealer,54000,f,f,kor,3.4,2.5,2.5,2.8,466
+2020,Hyundai,#98 Bryan Herta Autosport Veloster N,Forza Touring Cars,Base,Car Dealer,200000,f,f,kor,3.3,5.2,5.4,4.3,692
+2019,Hyundai,Veloster N Forza Edition,Modern Hot Hatch,VIP,Gifted,60000,f,f,kor,2.8,3.3,3.5,2.6,497
+2019,Hyundai,Veloster N,Modern Hot Hatch,Base,Car Dealer,54000,f,f,kor,3.6,2.6,2.7,2.7,468
+2014,Infiniti,Q50 Eau Rouge,Sport Luxury,Base,Car Dealer,123000,f,a,usa,7.3,2.9,2.6,4.8,663
+2012,Infiniti,IPL G Coupe,Modern Sport Touring,Base,Car Dealer,72000,f,r,usa,4.3,2.3,2.3,2.8,442
+2003,Infiniti,G35 Coupe,Sport Touring Classics,Base,Car Dealer,73000,f,r,usa,4.4,2.1,2.3,2.6,415
+2015,Jaguar,F-TYPE R Coupé,Modern Sport Coupe,Base,Car Dealer,124000,f,r,gbr,6.4,3.2,2.9,4.7,646
+2015,Jaguar,XKR-S GT,Modern Sport Touring,Base,Car Dealer,124000,f,r,gbr,6.1,3.6,3.3,4.7,646
+2015,Jaguar,XFR-S,Sport Luxury,Base,Car Dealer,106000,f,r,gbr,6.6,2.9,2.6,4.0,570
+1993,Jaguar,XJ220S TWR,Exotic GT Classics,Base,Car Dealer,334000,m,r,gbr,7.9,4.2,4.5,6.4,786
+1993,Jaguar,XJ220,Exotic GT Classics,Base,Car Dealer,154000,m,r,gbr,7.0,3.6,3.8,5.5,700
+1991,Jaguar,Sport XJR-15,Exotic GT Classics,Base,Car Dealer,285000,m,r,gbr,6.5,3.7,4.1,5.6,740
+1988,Jaguar,#1 Jaguar Racing XJR-9,GTP/C,Base,Car Dealer,395000,m,r,gbr,6.2,10.0,10.0,8.8,969
+1983,Jaguar,#44 Group 44 XJR-5,GTP/C,Base,Car Dealer,328000,m,r,gbr,7.2,9.2,9.9,7.5,928
+1961,Jaguar,E-type,Vintage Le Mans Sportscars,Base,Car Dealer,87000,f,r,gbr,1.5,1.3,1.5,1.9,304
+1959,Jaguar,Mk II 3.8,Sport Coupe Icons,Base,Car Dealer,49000,f,r,gbr,1.0,1.0,1.0,1.6,252
+1956,Jaguar,D-Type,Vintage Le Mans Sportscars,Base,Car Dealer,138000,f,r,gbr,4.7,2.3,2.9,2.3,493
+2020,Koenigsegg,Jesko,Modern Hypercars,Base,Car Dealer,450000,m,r,den,10.0,6.3,6.3,7.8,941
+2017,Koenigsegg,Agera RS,Modern Hypercars,Base,Car Dealer,430000,m,r,den,10.0,5.6,5.5,7.8,905
+2015,Koenigsegg,One:1,Modern Hypercars,Update 18,Car Dealer,436000,m,r,den,10.0,6.0,6.0,8.0,916
+2020,KTM,X-Bow GT2,Modern Factory Racecars,Update 1,Car Dealer,278000,m,r,aut,5.1,6.6,6.8,6.7,849
+2018,KTM,X-Bow GT4,Forza GT4,Base,Car Dealer,229000,m,r,aut,2.5,7.3,7.3,4.9,750
+2013,KTM,X-Bow R,Track Toys,Base,Car Dealer,134000,m,r,aut,2.0,5.4,5.3,4.6,685
+2024,Lamborghini,SC63,Forza Proto-H,Update 18,Car Dealer,373000,m,r,ita,6.9,9.9,9.9,8.2,956
+2024,Lamborghini,Revuelto,Modern Exotic GT,Update 18,Car Dealer,375000,m,a,ita,8.5,4.5,4.3,7.9,834
+2022,Lamborghini,Huracán EVO Spyder,Modern Sport GT,Update 12,Challenge Hub Reward,220000,m,a,ita,6.3,3.9,3.6,5.5,736
+2021,Lamborghini,Countach LPI 800-4,Modern Hypercars,Update 18,Challenge Hub Reward,338000,m,a,ita,7.1,4.1,3.8,6.8,780
+2020,Lamborghini,Essenza SCV12,Modern Factory Racecars,Base,Car Dealer,324000,m,r,ita,7.2,8.3,8.2,6.9,923
+2020,Lamborghini,Huracán STO,Modern Sport GT,Base,Car Dealer,305000,m,r,ita,6.0,5.0,4.7,6.4,766
+2020,Lamborghini,Huracán EVO,Modern Sport GT,Base,Car Dealer,291000,m,a,ita,6.3,4.1,3.8,5.8,752
+2019,Lamborghini,Sián FKP 37,Modern Hypercars,Base,Car Dealer,345000,m,a,ita,7.6,4.4,4.2,7.0,806
+2018,Lamborghini,#63 Squadra Corse Huracán Super Trofeo Evo,Super Trofeo,Car Pass,Car Dealer,266000,m,r,ita,5.0,6.5,6.6,6.1,824
+2018,Lamborghini,Aventador SVJ,Modern Exotic GT,Base,Car Dealer,363000,m,a,ita,7.3,5.0,4.9,7.1,823
+2018,Lamborghini,Huracán Performante,Modern Sport GT,Base,Car Dealer,319000,m,a,ita,6.3,4.6,4.4,6.2,781
+2016,Lamborghini,Centenario LP 770-4,Modern Exotic GT,Base,Car Dealer,341000,m,a,ita,7.2,4.5,4.4,6.9,803
+2016,Lamborghini,Aventador Superveloce,Modern Exotic GT,Update 2,Car Dealer,323000,m,a,ita,7.1,4.4,4.2,6.7,785
+2015,Lamborghini,#63 Squadra Corse Huracan LP620-2 Super Trofeo,Super Trofeo,Update 3,Car Dealer,261000,m,r,ita,4.1,6.6,6.4,6.4,814
+2014,Lamborghini,Huracán LP 610-4,Modern Sport GT,Update 6,Car Dealer,303000,m,a,ita,6.7,4.0,3.8,6.2,763
+2013,Lamborghini,Veneno,Modern Hypercars,Base,Car Dealer,374000,m,a,ita,7.1,5.6,5.6,6.9,833
+2012,Lamborghini,Aventador J,Modern Exotic GT,Base,Car Dealer,316000,m,a,ita,6.7,4.2,4.1,6.8,777
+2011,Lamborghini,Sesto Elemento,Modern Sport GT,Update 2,Career: Complete the Prestige Tour series,358000,m,a,ita,6.5,4.6,4.6,7.2,819
+2011,Lamborghini,Gallardo LP 570-4 Superleggera,Modern Sport GT,Base,Car Dealer,253000,m,a,ita,7.0,3.6,3.7,5.0,731
+2010,Lamborghini,Murciélago LP 670-4 SV,Modern Exotic GT,Update 4,Career: Complete the Italian Challengers series,276000,m,a,ita,6.8,4.1,3.9,5.2,755
+2008,Lamborghini,Revénton,Modern Exotic GT,Update 10,Career: Complete the July Open Class Tour series,217000,m,a,ita,7.4,3.6,3.5,4.3,719
+1999,Lamborghini,Diablo GTR,Early Factory Racecars,Base,Car Dealer,227000,m,r,ita,6.7,4.9,5.0,4.9,748
+1997,Lamborghini,Diablo SV,Exotic GT Classics,Base,Car Dealer,144000,m,r,ita,6.9,3.0,3.3,4.5,653
+1988,Lamborghini,Countach LP5000 QV,Exotic GT Classics,Base,Car Dealer,136000,m,r,ita,4.4,2.7,3.1,3.9,588
+1973,Lamborghini,Espada 400 GT,Vintage Exotic GT,Base,Car Dealer,96000,f,r,ita,2.7,1.5,1.7,2.5,357
+1972,Lamborghini,Jarama S,Vintage Exotic GT,Base,Car Dealer,103000,f,r,ita,2.8,1.7,1.7,2.8,377
+1967,Lamborghini,Miura P400,Vintage Exotic GT,Base,Car Dealer,115000,m,r,ita,3.5,1.6,1.8,2.9,402
+1992,Lancia,Delta HF Integrale EVO,Hot Hatch Icons,Update 4,Car Dealer,70000,f,a,ita,1.6,1.6,1.6,2.0,309
+2021,Lexus,LC 500,Sport Luxury,Base,Car Dealer,94000,f,r,usa,5.8,2.7,2.6,3.6,542
+2020,Lexus,#14 VASSER SULLIVAN RC F GT3,Forza GT3,Car Pass,Car Dealer,246000,f,r,usa,4.7,6.2,6.3,5.4,784
+2020,Lexus,RC F Track Edition,Modern Sport Coupe,Base,Car Dealer,101000,f,r,usa,5.8,3.3,3.0,3.8,575
+2015,Lexus,RC F,Modern Sport Coupe,Base,Car Dealer,94000,f,r,usa,6.4,2.7,2.8,3.4,542
+2014,Lexus,IS 350 F Sport,Modern Sport Touring,Base,Car Dealer,67000,f,r,usa,4.3,2.0,2.1,2.8,417
+2013,Lexus,GS350 F Sport,Sport Luxury,Base,Car Dealer,75000,f,a,usa,4.7,2.1,2.3,2.7,459
+2010,Lexus,LFA,Modern Sport GT,Base,Challenge Hub Reward,131000,f,r,usa,6.0,4.1,3.9,5.0,697
+2016,Ligier,#11 Euro International JS P3,Forza P3,Car Pass,Car Dealer,282000,m,r,fra,3.9,9.1,9.3,6.7,897
+1969,Lola,#10 Simoniz Special T163,Prototype Group Racing,Base,Car Dealer,275000,m,r,gbr,5.7,6.0,6.2,9.3,840
+1969,Lola,#6 Sunoco T70 MkIIIB,Prototype Group Racing,Base,Car Dealer,253000,m,r,gbr,5.2,5.9,6.2,7.1,798
+2023,Lotus,Emira,Modern Sport GT,Base,Car Dealer,113000,m,r,gbr,4.6,3.7,3.7,3.7,600
+2020,Lotus,Evija,Modern Exotic GT,Base,Car Dealer,427000,m,a,gbr,6.7,4.7,4.8,4.6,931
+2018,Lotus,Evora GT430,Modern Sport Coupe,Update 18,Challenge Hub Reward,136000,m,r,gbr,5.3,4.2,4.4,4.7,695
+2016,Lotus,3-Eleven,Track Toys,Base,Car Dealer,255000,m,r,gbr,3.9,4.9,4.7,6.5,734
+2011,Lotus,Evora S,Modern Sport Coupe,Base,Car Dealer,110000,m,r,gbr,4.6,3.2,3.3,3.8,588
+2002,Lotus,Esprit V8,Sport GT Icons,Base,Car Dealer,115000,m,r,gbr,5.1,2.7,3.0,4.0,579
+1986,Lotus,#12 Team Lotus 98T,Grand Prix Rivals,Car Pass,Car Dealer,450000,m,r,gbr,7.1,10.0,10.0,8.8,999
+1976,Lotus,#5 Team Lotus 77,Formula 70s,Base,Car Dealer,292000,m,r,gbr,4.2,7.8,7.9,7.9,877
+1971,Lotus,Elan Sprint,Vintage Sport Compact,Base,Car Dealer,54000,f,r,gbr,1.0,1.1,1.3,1.6,272
+1967,Lotus,Type 49,Formula 60s,Base,Car Dealer,233000,m,r,gbr,5.4,4.4,4.5,6.3,761
+1965,Lotus,#1 Team Lotus Type 40,Vintage Le Mans Prototypes,Car Pass,Car Dealer,221000,m,r,gbr,5.9,3.8,4.2,6.5,736
+1965,Lotus,Team Lotus type 35,Formula 60s,Car Pass,Car Dealer,209000,m,r,gbr,4.4,4.2,4.5,6.1,710
+2021,Lynk & Co,03+,Modern Sport Compact,Base,Car Dealer,55000,f,a,chn,3.6,2.3,2.4,2.4,415
+2020,Lynk & Co,#62 Cyan Racing 03,Forza Touring Cars,Base,Car Dealer,198000,f,f,chn,3.1,5.1,5.3,3.8,688
+2014,Maserati,Ghibli S Q4,Sport Luxury,Base,Car Dealer,104000,f,a,ita,4.5,2.5,2.5,3.6,537
+2004,Maserati,MC12,Exotic GT Classics,Base,Car Dealer,304000,m,r,ita,6.9,4.7,4.8,6.1,759
+1997,Maserati,Ghibli Cup,Sport Touring Classics,Base,Car Dealer,102000,f,r,ita,4.6,2.2,2.4,3.3,475
+1961,Maserati,Tipo 61 Birdcage,Vintage Le Mans Sportscars,Base,Car Dealer,163000,f,r,ita,3.9,2.8,2.8,4.4,595
+1957,Maserati,300 S,Vintage Le Mans Sportscars,Base,Car Dealer,157000,f,r,ita,3.9,2.6,3.1,3.3,554
+1953,Maserati,A6GCS/53 PininFarina Berlinetta,Vintage Le Mans Sportscars,Base,Car Dealer,90000,f,r,ita,1.9,1.1,1.3,1.7,290
+1939,Maserati,8CTF,The Birth of Grand Prix,Car Dealer,166000,f,r,ita,5.0,2.4,2.9,4.0,606
+1970,Matra-Simca,#146 Equipe Matra-Simca MS650 Tour de France,Vintage Le Mans Prototypes,Car Pass,Car Dealer,241000,m,r,fra,5.2,5.0,5.3,6.8,775
+2022,Mazda,MX-5 Miata RF,Modern Sport Compact,Update 17,Car Dealer,49000,f,r,jpn,2.3,2.4,2.5,2.3,392
+2017,Mazda,MX-5 Cup,Forza Specials,Update 2,Car Dealer,119000,f,r,jpn,1.6,3.5,3.6,2.3,477
+2016,Mazda,MX-5,Modern Sport Compact,Base,Car Dealer,45000,f,r,jpn,1.9,2.2,2.5,2.3,377
+2015,Mazda,Formula Mazda,Formula Mazda Spec,Base,Car Dealer,203000,m,r,jpn,2.4,5.8,6.2,4.1,699
+2014,Mazda,#70 SpeedSource Lola B12/80,Forza P2,Base,Car Dealer,357000,m,r,jpn,5.6,10.0,10.0,6.6,949
+2013,Mazda,MX-5,Modern Sport Compact,Base,Car Dealer,36000,f,r,jpn,2.4,1.9,2.3,2.0,345
+2011,Mazda,RX-8 R3,Modern Sport Compact,Base,Car Dealer,43000,f,r,jpn,2.8,2.1,2.3,2.1,369
+2010,Mazda,#16 Mazda Racing B09/86,Forza P2,Update 14,Car Dealer,330000,m,r,jpn,5.1,9.8,9.9,7.3,939
+2008,Mazda,Furai,Forza Specials,Racing Heroes Car Pack,Car Dealer,353000,m,r,jpn,5.0,10.0,10.0,7.5,931
+2002,Mazda,RX-7 Spirit R Type-A,Early Sport Compact,Base,Car Dealer,84000,f,r,jpn,4.7,2.6,2.9,3.2,519
+1997,Mazda,RX-7,Early Sport Compact,Base,Car Dealer,77000,f,r,jpn,4.7,2.2,2.4,2.9,462
+1994,Mazda,MX-5 Miata,Early Sport Compact,Base,Car Dealer,27000,f,r,jpn,1.0,1.8,2.1,1.6,287
+1992,Mazda,323 GT-R,Hot Hatch Icons,Base,Car Dealer,63000,f,a,jpn,2.1,1.6,1.8,2.5,382
+1991,Mazda,#55 Mazda 787B,GTP/C,Base,Challenge Hub Reward,366000,m,r,jpn,7.2,9.9,10.0,7.7,954
+1991,Mazda,#62 RX-7,GTX Sportscars,Base,Car Dealer,262000,f,r,jpn,5.7,6.0,6.3,6.3,819
+1990,Mazda,Savanna RX-7,Early Sport Compact,Base,Car Dealer,51000,f,r,jpn,3.1,1.7,1.8,2.1,334
+1990,Mazda,MX-5 Miata,Early Sport Compact,Base,Car Dealer,16000,f,r,jpn,1.0,1.8,1.9,1.5,268
+1985,Mazda,RX-7 GSL-SE,Early Sport Compact,Base,Car Dealer,25000,f,r,jpn,1.3,1.4,1.7,1.4,274
+1973,Mazda,RX-3,Vintage Sport Compact,Base,Car Dealer,11000,f,r,jpn,1.0,1.0,1.0,1.2,233
+1972,Mazda,Cosmo 110S Series II,Sport Coupe Icons,Base,Car Dealer,16000,f,r,jpn,1.0,1.0,1.1,1.2,247
+2023,McLaren,Artura,Modern Exotic GT,Update 12,Challenge Hub Reward,289000,m,r,gbr,7.3,3.9,3.6,6.3,751
+2021,McLaren,765LT Coupe,Modern Sport GT,Base,Car Dealer,371000,m,r,gbr,7.1,5.1,4.8,7.9,830
+2021,McLaren,Sabre,Modern Hypercars,Update 3,Car Dealer,324000,m,r,gbr,7.5,4.4,4.1,7.5,786
+2021,McLaren,620R,Modern Sport GT,Base,Car Dealer,290000,m,r,gbr,5.9,4.5,4.2,6.6,752
+2020,McLaren,GT,Modern Exotic GT,Base,Car Dealer,186000,m,r,gbr,6.4,3.5,3.4,5.8,710
+2019,McLaren,Senna GTR,Modern Factory Racecars,Car Pass,Car Dealer,310000,m,r,gbr,6.4,7.8,7.6,7.9,908
+2019,McLaren,#03 720S GT3,Forza GT3,Car Pass,Car Dealer,256000,m,r,gbr,4.6,6.4,6.7,6.2,806
+2019,McLaren,720S Spider,Modern Sport GT,Base,Car Dealer,324000,m,r,gbr,5.9,4.8,4.4,7.4,786
+2018,McLaren,Senna,Modern Hypercars,Base,Car Dealer,404000,m,r,gbr,7.00,6.3,6.0,7.9,860
+2018,McLaren,720S Coupe,Modern Sport GT,Base,Car Dealer,346000,m,r,gbr,7.1,4.8,4.6,7.7,807
+2018,McLaren,600LT Coupé,Modern Sport GT,Base,Car Dealer,292000,m,r,gbr,6.2,4.2,4.1,6.8,753
+2015,McLaren,P1 GTR,Modern Factory Racecars,Base,Car Dealer,313000,m,r,gbr,8.4,6.7,6.6,8.6,911
+2015,McLaren,650S Coupe,Modern Sport GT,Update 3,Career: Complete the Open Class Tour - British Marques series,296000,m,r,gbr,6.7,4.1,3.9,6.4,756
+2013,McLaren,P1,Modern Exotic GT,Base,Car Dealer,404000,m,r,gbr,9.7,5.5,5.4,7.8,862
+1997,McLaren,F1 GT,Early Factory Racecars,Base,Car Dealer,247000,m,r,gbr,7.6,5.1,5.4,5.8,787
+1993,McLaren,F1,Exotic GT Classics,Base,Car Dealer,281000,m,r,gbr,9.2,3.7,3.9,5.3,736
+1988,McLaren,#12 Honda McLaren MP4/4,Grand Prix Rivals,Base,Car Dealer,450000,m,r,gbr,6.8,10.0,10.0,10.0,999
+1976,McLaren,#11 Team McLaren M23,Formula 70s,Base,Car Dealer,285000,m,r,gbr,4.4,7.6,7.7,8.1,865
+1969,McLaren,#4 McLaren Cars M8B,Prototype Group Racing,Base,Car Dealer,284000,m,r,gbr,7.2,6.1,6.5,9.1,860
+1966,McLaren,#4 Bruce McLaren Motor Racing M1B,Prototype Group Racing,Base,Car Dealer,256000,m,r,gbr,6.1,5.1,5.3,8.0,805
+1966,McLaren,M2B,Formula 60s,Base,Car Dealer,215000,m,r,gbr,3.5,4.7,4.7,6.6,725
+2021,Mercedes-AMG,Mercedes-AMG ONE,Modern Hypercars,Base,Car Dealer,417000,m,a,deu,7.6,6.0,6.1,10.0,912
+2020,Mercedes-AMG,GT Black Series,Modern Sport GT,Base,Car Dealer,334000,f,r,deu,6.1,5.3,4.9,6.8,801
+2018,Mercedes-AMG,GT3,Forza GT3,Car Pass,Car Dealer,261000,f,r,deu,5.0,6.4,6.7,6.1,817
+2018,Mercedes-AMG,GT 4-Door Coupé,Sport Luxury,Base,Car Dealer,134000,f,a,deu,7.4,2.8,2.6,5.4,684
+2018,Mercedes-AMG,E 63 S,Sport Luxury,Base,Car Dealer,132000,f,a,deu,6.7,2.8,2.5,5.6,676
+2017,Mercedes-AMG,GT R,Modern Sport GT,Base,Car Dealer,240000,f,r,deu,6.5,4.5,4.3,5.7,728
+2016,Mercedes-AMG,C 63 S Coupé Forza Edition,Modern Sport Touring,VIP,Gifted,138000,f,r,deu,5.2,4.5,4.2,5.0,700
+2016,Mercedes-AMG,C 63 S Coupé,Modern Sport Touring,Base,Car Dealer,113000,f,r,deu,5.5,3.3,2.9,4.4,601
+2017,Mercedes-Benz,#33 Mac Tools Ciceley Motorsports A-Class (A45),Forza Touring Cars,Base,Car Dealer,203000,f,f,deu,3.2,5.1,5.2,4.3,698
+2013,Mercedes-Benz,A 45 AMG,Modern Hot Hatch,Base,Car Dealer,91000,f,a,deu,3.9,2.4,2.2,3.5,529
+2012,Mercedes-Benz,C 63 AMG Coupé Black Series,Modern Sport Touring,Base,Car Dealer,112000,f,r,deu,5.8,3.0,2.9,4.5,619
+2012,Mercedes-Benz,SLK 55 AMG,Modern Sport Coupe,Base,Car Dealer,96000,f,r,deu,6.1,2.3,2.3,4.0,551
+2011,Mercedes-Benz,SLS AMG,Modern Sport GT,Base,Car Dealer,129000,f,r,deu,6.8,3.6,3.4,5.2,688
+2009,Mercedes-Benz,SL 65 AMG Black Series,Modern Sport GT,Base,Car Dealer,129000,f,r,deu,7.1,3.2,3.2,5.1,684
+2004,Mercedes-Benz,C 32 AMG,Sport Touring Classics,Base,Car Dealer,83000,f,r,deu,5.1,2.2,2.2,3.4,470
+1998,Mercedes-Benz,AMG CLK GTR,Early Factory Racecars,Update 10,Car Dealer,298000,m,r,deu,6.2,4.9,5.0,5.7,759
+1990,Mercedes-Benz,190E 2.5-16 Evolution II,Sport Touring Classics,Base,Car Dealer,82000,f,r,deu,3.0,2.7,2.8,2.4,400
+1989,Mercedes-Benz,#63 Sauber-Mercedes C 9,GTP/C,Base,Car Dealer,376000,m,r,deu,8.4,9.7,10.0,8.3,959
+1955,Mercedes-Benz,300 SLR,Vintage Le Mans Sportscars,Base,Car Dealer,143000,f,r,deu,4.7,2.5,3.1,3.3,533
+1954,Mercedes-Benz,300 SL Coupé,Sport Coupe Icons,Base,Car Dealer,79000,f,r,deu,2.0,1.1,1.3,1.9,291
+1939,Mercedes-Benz,W154,The Birth of Grand Prix,Base,Car Dealer,157000,f,r,deu,5.8,2.1,2.7,3.2,583
+1990,Mercury,#15 Whistler Radar Cougar XR-7,GTX Sportscars,Base,Car Dealer,259000,f,r,usa,5.9,5.6,5.9,5.8,812
+1970,Mercury,Cougar Eliminator,Vintage Muscle,Base,Car Dealer,80000,f,r,usa,1.0,1.1,1.3,3.1,369
+1986,Merkur,#11 MAC Tools XR4Ti,GTX Sportscars,Base,Car Dealer,258000,f,r,usa,5.7,5.9,6.2,5.6,807
+2021,MG,MG6 XPower,Modern Sport Touring,Base,Car Dealer,88000,f,f,gbr,4.2,2.8,2.9,3.1,518
+2020,MG,#20 MG6 XPower,Forza Touring Cars,Update 2,Car Dealer,204000,f,f,gbr,3.1,5.4,5.5,4.7,716
+1966,MG,MGB GT,Vintage Sport Compact,Base,Car Dealer,29000,f,r,gbr,1.0,1.0,1.1,1.1,226
+1958,MG,MGA Twin-Cam,Sport Coupe Icons,Base,Car Dealer,37000,f,r,gbr,1.0,1.0,1.1,1.0,224
+2021,MINI,John Cooper Works GP,Modern Hot Hatch,Base,Car Dealer,89000,f,f,gbr,3.5,2.8,2.6,3.9,570
+2012,MINI,John Cooper Works GP,Modern Hot Hatch,Base,Car Dealer,57000,f,f,gbr,2.5,2.6,2.5,2.6,428
+1965,MINI,Cooper S,Vintage Sport Compact,Base,Car Dealer,19000,f,f,gbr,1.0,1.3,1.1,1.2,219
+2008,Mitsubishi,Lancer Evolution X GSR,Modern Sport Compact,Base,Car Dealer,73000,f,a,jpn,3.0,2.8,2.8,3.2,496
+2006,Mitsubishi,Lancer Evolution IX MR,Modern Sport Compact,Base,Car Dealer,74000,f,a,jpn,3.7,2.7,2.7,2.9,490
+2005,Mitsubishi,#1 Sierra Sierra Enterprises Lancer Evolution Time Attack,Forza Specials,Update 20,Car Dealer,356000,f,a,jpn,4.5,7.8,8.0,10.0,940
+2004,Mitsubishi,Lancer Evolution VIII MR,Early Sport Compact,Base,Car Dealer,77000,f,a,jpn,3.2,2.8,2.8,3.0,496
+1999,Mitsubishi,Lancer Evolution VI GSR,Early Sport Compact,Base,Car Dealer,82000,f,a,jpn,2.7,2.6,2.7,3.1,496
+1998,Mitsubishi,FTO GP Version R,Early Sport Compact,Base,Car Dealer,50000,f,f,jpn,2.9,1.6,2.0,2.0,355
+1997,Mitsubishi,GTO,Early Sport Compact,Base,Car Dealer,74000,f,a,jpn,4.2,2.2,2.4,2.6,451
+1995,Mitsubishi,Lancer Evolution III GSR,Early Sport Compact,Update 10,Car Dealer,80000,f,a,jpn,3.1,1.8,2.0,3.0,449
+1995,Mitsubishi,Eclipse GSX,Early Sport Compact,Base,Car Dealer,52000,f,a,jpn,3.4,1.6,2.0,2.0,352
+1992,Mitsubishi,Galant VR-4,Early Sport Compact,Base,Car Dealer,51000,f,a,jpn,2.2,1.4,1.5,2.2,341
+2016,NIO,EP9,Modern Hypercars,Base,Car Dealer,438000,m,a,chn,5.5,9.4,8.9,5.2,961
+2024,Nissan,Z NISMO,Modern Sport Coupe,Update 20,Challenge Hub Reward,93000,f,r,jpn,5.8,3.2,3.0,3.5,588
+2023,Nissan,Z,Modern Sport Coupe,Base,Car Dealer,83000,f,r,jpn,5.8,2.6,2.9,3.5,546
+2020,Nissan,GT-R NISMO (R35),Modern Sport GT,Base,Car Dealer,206000,f,a,jpn,6.6,3.5,3.3,5.6,722
+2019,Nissan,370Z Nismo,Modern Sport Coupe,Base,Car Dealer,78000,f,r,jpn,4.7,2.8,3.0,3.1,525
+2018,Nissan,Sentra NISMO,Modern Sport Compact,Base,Car Dealer,33000,f,f,jpn,1.1,1.9,2.0,2.2,336
+2017,Nissan,Altima Racecar,Forza AUS,Base,Car Dealer,246000,f,r,jpn,4.9,5.6,5.6,5.7,783
+2017,Nissan,GT-R (R35),Modern Sport GT,Base,Car Dealer,126000,f,a,jpn,6.5,3.3,3.2,5.5,702
+2015,Nissan,#23 GT-R LM NISMO,Forza P1,Base,Car Dealer,411000,f,f,jpn,6.6,10.0,10.0,7.6,978
+2003,Nissan,Fairlady Z,Early Sport Compact,Base,Car Dealer,63000,f,r,jpn,4.1,2.2,2.3,2.5,424
+2002,Nissan,Skyline GT-R V-Spec II,Sport GT Icons,Base,Car Dealer,88000,f,a,jpn,4.5,2.7,2.9,3.1,535
+2000,Nissan,Silvia Spec-R,Early Sport Compact,Base,Car Dealer,60000,f,r,jpn,3.3,1.9,2.2,2.6,399
+1999,Nissan,#23 NISMO Clarion R391,Early LMP,Car Pass,Car Dealer,370000,m,r,jpn,6.5,9.8,10.0,7.5,955
+1998,Nissan,R390 (GT1),Exotic GT Classics,Base,Car Dealer,323000,m,r,jpn,7.2,4.5,4.8,7.2,796
+1998,Nissan,Silvia K's Aero,Early Sport Compact,Base,Car Dealer,57000,f,r,jpn,3.1,1.8,2.1,2.7,380
+1998,Nissan,#23 Pennzoil NISMO Skyline GT-R,GTX Sportscars,Update 11,Challenge Hub Reward,259000,f,r,jpn,4.0,7.0,7.2,5.7,811
+1997,Nissan,Skyline GT-R V-Spec,Sport GT Icons,Base,Car Dealer,81000,f,a,jpn,4.1,2.4,2.5,3.0,485
+1994,Nissan,Fairlady Z Version S Twin Turbo,Sport GT Icons,Base,Car Dealer,66000,f,r,jpn,3.7,1.8,2.2,2.8,398
+1994,Nissan,Silvia K's,Early Sport Compact,Base,Car Dealer,61000,f,r,jpn,3.2,1.8,2.1,2.7,381
+1993,Nissan,Skyline GT-R V-Spec,Sport GT Icons,Base,Car Dealer,89000,f,r,jpn,3.6,2.6,2.5,3.2,505
+1993,Nissan,240SX SE,Early Sport Compact,Base,Car Dealer,25000,f,r,jpn,1.8,1.6,1.9,1.5,284
+1992,Nissan,Silvia CLUB K's,Early Sport Compact,Base,Car Dealer,51000,f,r,jpn,2.6,1.6,2.0,2.2,339
+1991,Nissan,#23 Nissan R91CP,GTP/C,Base,Car Dealer,408000,m,r,jpn,6.8,9.9,10.0,7.2,976
+1990,Nissan,Pulsar GTi-R,Early Sport Compact,Base,Car Dealer,66000,f,a,jpn,2.0,1.6,1.8,2.5,387
+1988,Nissan,#24 Nissan Motorsports International R88C,GTP/C,Update 9,Challenge Hub Reward,363000,m,r,jpn,7.5,9.5,10.0,7.8,955
+1988,Nissan,#33 Bob Sharp Racing 300ZX,GTX Sportscars,Base,Car Dealer,261000,f,r,jpn,5.6,5.9,6.1,5.7,815
+1987,Nissan,Skyline GTS-R (HR31),Sport Touring Classics,Base,Car Dealer,53000,f,r,jpn,3.1,1.7,1.9,2.1,333
+1985,Nissan,#83 GTP ZX-Turbo,GTP/C,Base,Car Dealer,342000,m,r,jpn,6.4,9.6,10.0,7.5,944
+1984,Nissan,#20 Bluebird Super Silhouette,GTX Sportscars,Base,Car Dealer,258000,f,r,jpn,4.9,6.1,6.3,6.1,808
+1984,Nissan,#11 Tomica Skyline Turbo Super Silhouette,GTX Sportscars,Base,Car Dealer,255000,f,r,jpn,4.4,6.3,6.5,5.8,803
+1983,Nissan,#23 Nissan Motorsports Silvia Super Silhouette,GTX Sportscars,Car Pass,Car Dealer,253000,f,r,jpn,5.2,5.8,6.1,5.9,800
+1973,Nissan,Skyline H/T 2000GT-R,Vintage Sport Compact,Base,Car Dealer,37000,f,r,jpn,1.0,1.0,1.1,1.9,275
+1971,Nissan,Skyline 2000GT-R,Vintage Sport Compact,Base,Car Dealer,42000,f,r,jpn,1.2,1.0,1.1,2.0,279
+1969,Nissan,#21 Nissan Racing R382,Prototype Group Racing,Base,Car Dealer,m,r,jpn,6.0,5.9,6.3,7.1,816
+1969,Nissan,Fairlady Z 432,Vintage Sport Compact,Base,Car Dealer,42000,f,r,jpn,1.0,1.4,1.5,1.8,277
+1967,Nissan,R380 II,Vintage Le Mans Sportscars,Base,Car Dealer,130000,m,r,jpn,4.2,2.3,3.0,4.0,578
+1990,Oldsmobile,#75 Cutlass Supreme Trans Am,GTX Sportscars,Race Day Car Pack,Car Dealer,261000,f,r,usa,6.2,5.6,5.9,5.9,814
+1969,Oldsmobile,Hurst/Olds 442,Street Drag Racers,Base,Car Dealer,82000,f,r,usa,1.5,1.1,1.2,2.7,353
+1979,Opel,Kadett C GT/E,Vintage Sport Compact,Base,Car Dealer,13000,f,r,deu,1.0,1.0,1.2,1.5,251
+2020,Oreca,#38 Performance Tech Motorsports Oreca 07,Forza P2,Update 18,Car Dealer,339000,m,r,fra,6.5,9.0,9.1,7.7,940
+2017,Oreca,#38 Jackie Chan DC Racing Oreca 07,Forza P2,Car Pass,Car Dealer,337000,m,r,fra,6.5,9.3,9.4,7.6,945
+2022,Pagani,Huayra R,Modern Factory Racecars,Update 3,Career: Complete the Contemporary Tour series,325000,m,r,ita,8.7,7.0,7.2,8.0,925
+2016,Pagani,Huayra BC,Modern Hypercars,Base,Car Dealer,418000,m,r,ita,8.1,5.8,5.9,7.7,871
+2009,Pagani,Zonda Cinque Roadster,Modern Hypercars,Update 6,Career: Complete the Combustion Tour series,366000,m,r,ita,6.2,5.3,5.4,6.7,821
+2018,Peugeot,#7 DG Sport Compétition 308,Forza Touring Cars,Car Pass,Car Dealer,204000,f,f,fra,2.8,5.4,5.5,4.7,716
+2011,Peugeot,308 GTI,Modern Hot Hatch,Base,Car Dealer,23000,f,f,fra,2.2,1.5,1.6,1.9,302
+1993,Peugeot,#3 Peugeot Talbot Sport 905 EVO 1C,GTP/C,Base
+1984,Peugeot,205 Turbo 16,Hot Hatch Icons,Base,Car Dealer,75000,m,a,fra,1.6,2.1,1.9,2.7,398
+1971,Plymouth,Cuda 426 HEMI,Vintage Muscle,Base,Car Dealer,81000,f,r,usa,2.9,1.1,1.2,3.1,377
+1971,Plymouth,GTX 426 HEMI,Street Drag Racers,Base,Car Dealer,80000,f,r,usa,3.5,1.0,1.2,3.1,373
+2002,Pontiac,Firebird Trans Am Ram Air,Sport Touring Classics,Base,Car Dealer,74000,f,r,usa,3.8,2.1,2.5,2.6,444
+1987,Pontiac,Firebird Trans Am GTA,Sport Touring Classics,Base,Car Dealer,55000,f,r,usa,2.6,1.7,2.0,2.0,319
+1973,Pontiac,Firebird Trans Am SD-455,Vintage Muscle,Base,Car Dealer,80000,f,r,usa,2.7,1.1,1.3,2.8,358
+1969,Pontiac,GTO Judge,Street Drag Racers,Base,Car Dealer,80000,f,r,usa,1.5,1.1,1.2,2.7,349
+1969,Pontiac,Firebird Trans Am,Vintage Muscle,Base,Car Dealer,79000,f,r,usa,1.9,1.1,1.2,2.7,345
+2024,Porsche,#5 Porsche Penske Motorsport 963,Forza Proto-H,Porsche 963 Combo,Car Dealer,240000,m,r,deu,7.0,9.7,9.8,8.2,957
+2023,Porsche,911 Turbo S,Modern Sport GT,Update 19,Challenge Hub Reward,321000,r,a,deu,6.7,4.3,3.8,6.7,789
+2023,Porsche,911 GT3 R,Forza GT3,Update 19,Car Dealer,264000,r,r,deu,4.8,6.6,6.5,6.4,820
+2023,Porsche,911 GT3 RS,Modern Sport GT,Update 18,Car Dealer,316000,r,r,deu,5.4,6.1,5.8,5.7,783
+2022,Porsche,718 Cayman GT4 RS,Modern Sport Coupe,Update 5,Challenge Hub Reward,245000,m,r,deu,6.3,4.3,4.3,5.5,730
+2021,Porsche,Mission R,Mission R Spec,Base,Car Dealer,293000,m,a,deu,4.2,6.0,5.9,6.1,879
+2021,Porsche,911 GT3,Modern Sport GT,Base,Car Dealer,262000,r,r,deu,6.1,4.7,4.5,5.4,737
+2020,Porsche,Taycan Turbo S,Sport Luxury,Base,Car Dealer,280000,r,a,deu,3.7,3.1,2.9,7.7,749
+2019,Porsche,#70 Porsche Motorsport 935,Modern Factory Racecars,Update 8,Challenge Hub Reward,264000,r,r,deu,6.5,5.7,5.8,7.1,819
+2019,Porsche,911 GT3 RS,Modern Sport GT,Base,Car Dealer,289000,r,r,deu,5.7,5.2,4.9,5.8,756
+2019,Porsche,911 Speedster,Modern Sport GT,Base,Car Dealer,135000,r,r,deu,6.5,3.8,3.6,4.9,689
+2019,Porsche,911 Carrera S,Modern Sport GT,Welcome Pack,Car Dealer,134000,r,r,deu,6.3,3.6,3.6,5.2,685
+2018,Porsche,911 GT2 RS Forza Edition,Modern Sport GT,Forza Loyalty,Gifted,410000,r,r,deu,9.1,5.9,5.6,8.3,900
+2018,Porsche,911 GT2 RS,Modern Sport GT,Base,Car Dealer,336000,r,r,deu,7.1,5.1,4.8,7.4,803
+2018,Porsche,#73 Park Place Motorsports 911 GT3 R,Forza GT3,Race Day Car Pack,Car Dealer,255000,r,r,deu,4.9,6.2,6.4,5.7,801
+2018,Porsche,718 Cayman GTS,Modern Sport Coupe,Base,Car Dealer,115000,m,r,deu,5.1,3.0,2.9,4.5,608
+2017,Porsche,#2 Porsche Team 919 Hybrid,Forza P1,Base,Car Dealer,450000,m,a,deu,6.7,10.0,10.0,10.0,999
+2017,Porsche,#92 Porsche GT Team 911 RSR,Forza GT2,Base,Car Dealer,259000,m,r,deu,4.7,6.6,6.7,5.9,811
+2017,Porsche,Panamera Turbo,Sport Luxury,Base,Car Dealer,123000,f,a,deu,6.8,3.0,2.6,4.9,643
+2016,Porsche,Cayman GT4,Modern Sport Coupe,Update 19,Car Dealer,130000,m,r,deu,5.0,4.3,4.0,4.3,668
+2016,Porsche,911 GT3 RS,Modern Sport GT,Update 1,Car Dealer,279000,r,r,deu,5.8,5.0,4.7,5.7,748
+2015,Porsche,#91 Porsche Team Manthey 991 RSR,Forza GT2,Base,Car Dealer,258000,r,r,deu,4.5,6.3,6.4,6.2,806
+2015,Porsche,Cayman GTS,Modern Sport Coupe,Update 8,Car Dealer,109000,m,r,deu,4.7,3.1,3.0,4.1,585
+2014,Porsche,918 Spyder,Modern Exotic GT,Base,Car Dealer,390000,m,a,deu,7.0,5.3,5.0,8.5,852
+2014,Porsche,911 Turbo S,Modern Sport GT,Update 5,Car Dealer,191000,r,a,deu,7.0,3.6,3.3,5.5,717
+2012,Porsche,911 GT2 RS,Modern Sport GT,Base,Car Dealer,307000,r,r,deu,6.9,4.7,4.3,6.4,774
+2007,Porsche,911 GT3,Sport GT Icons,Base,Car Dealer,130000,r,r,deu,6.0,3.5,3.4,4.4,657
+2004,Porsche,911 GT3,Sport GT Icons,Base,Car Dealer,121000,r,r,deu,5.7,3.2,3.2,3.9,611
+2003,Porsche,Carrera GT,Exotic GT Classics,Base,Car Dealer,288000,m,r,deu,6.6,4.5,4.2,5.6,750
+1997,Porsche,911 GT1 Strassenversion,Early Factory Racecars,Base,Car Dealer,240000,m,r,deu,5.4,5.6,5.4,5.5,773
+1995,Porsche,911 GT2,Sport GT Icons,Base,Challenge Hub Reward,137000,r,r,deu,4.7,3.4,3.3,4.7,640
+1993,Porsche,911 Turbo S Leichtbau,Sport GT Icons,Base,Car Dealer,135000,r,r,deu,4.9,3.1,3.2,4.6,626
+1993,Porsche,968 Turbo S,Sport Touring Classics,Base,Car Dealer,113000,f,r,deu,4.2,2.6,2.8,3.7,534
+1993,Porsche,928 GTS,Sport Touring Classics,Base,Car Dealer,98000,f,r,deu,4.5,2.0,2.2,3.3,464
+1989,Porsche,944 Turbo,Sport Touring Classics,Base,Car Dealer,95000,f,r,deu,3.3,2.1,2.3,3.1,429
+1987,Porsche,#203 Porsche AG 961,GTX Sportscars,Update 19,Car Dealer,267000,r,a,deu,5.9,4.9,5.0,6.8,825
+1987,Porsche,#17 Porsche AG 962c,GTP/C,Base,Car Dealer,399000,m,r,deu,8.9,9.1,9.6,8.3,971
+1987,Porsche,959,Exotic GT Classics,Base,Car Dealer,156000,r,a,deu,6.0,3.2,3.1,5.1,687
+1983,Porsche,#11 John Fitzpatrick Racing 956,GTP/C,Car Pass,Car Dealer,373000,m,r,deu,9.0,8.7,9.4,8.2,959
+1982,Porsche,911 Turbo 3.3,Sport GT Icons,Base,Car Dealer,105000,r,r,deu,2.9,2.0,2.0,3.5,448
+1981,Porsche,#1 Porsche System Engineering 924 GTP Le Mans,GTX Sportscars,Update 19,Challenge Hub Reward,517000,f,r,deu,5.0,4.2,4.5,5.6,727
+1980,Porsche,924 Carrera GTS,Sport Touring Classics,Base,Car Dealer,102000,f,r,deu,3.5,1.9,2.1,3.1,427
+1978,Porsche,#78 MOMO 935/78,GTX Sportscars,Update 19,Car Dealer,290000,r,r,deu,7.9,6.0,6.4,7.5,873
+1978,Porsche,#43 Porsche Racing 935/78,GTX Sportscars,Update 19,Car Dealer,290000,r,r,deu,5.9,6.5,6.4,8.5,873
+1974,Porsche,#1 911 RSR,GTX Sportscars,Update 5,Challenge Hub Reward,206000,r,r,deu,3.5,5.3,5.3,5.0,705
+1973,Porsche,911 Carrera RS,Vintage Sport Compact,Base,Car Dealer,95000,r,r,deu,2.3,1.6,1.8,2.9,371
+1971,Porsche,#23 917/20,Vintage Le Mans Prototypes,Update 19,Car Dealer,290000,m,r,deu,7.7,5.8,6.3,8.6,871
+1970,Porsche,#3 917 LH,Vintage Le Mans Prototypes,Base,Car Dealer,282000,m,r,deu,8.7,5.3,5.8,9.2,857
+1970,Porsche,914/6,Vintage Sport Compact,Base,Car Dealer,49000,m,r,deu,1.0,1.2,1.3,1.6,265
+1960,Porsche,718 RS 60,Vintage Le Mans Sportscars,Base,Car Dealer,145000,m,r,deu,2.7,2.7,3.0,3.8,536
+1957,Porsche,356A Speedster,Sport Coupe Icons,Base,Car Dealer,43000,r,r,deu,1.0,1.5,1.6,1.0,223
+1955,Porsche,550 Spyder,Sport Coupe Icons,Base,Car Dealer,68000,m,r,deu,1.3,1.5,1.9,1.4,271
+2015,Radical,RXC Turbo,Track Toys,Base,Car Dealer,407000,m,r,gbr,4.9,7.2,7.3,7.4,891
+2019,RAESR,Tachyon Speed,Modern Hypercars,Base,Car Dealer,438000,m,a,usa,8.0,5.9,5.8,6.1,941
+2018,Renault,Megane R.S.,Modern Hot Hatch,Base,Car Dealer,61000,f,f,fra,3.1,2.5,2.7,2.8,446
+2016,Renault,Clio R.S. 16 Concept,Modern Hot Hatch,Base,Car Dealer,78000,f,f,fra,2.9,3.2,3.4,3.0,526
+2008,Renault,Mégane R26.R,Modern Hot Hatch,Base,Car Dealer,77000,f,f,fra,2.6,3.2,3.4,2.8,512
+2003,Renault,Sport Clio V6,Modern Hot Hatch,Base,Car Dealer,53000,m,r,fra,2.6,2.2,2.2,2.4,384
+1993,Renault,Clio Williams,Hot Hatch Icons,Base,Car Dealer,36000,f,f,fra,1.2,1.6,1.8,1.8,298
+1980,Renault,5 Turbo,Hot Hatch Icons,Base,Car Dealer,55000,m,r,fra,1.0,1.8,1.9,2.4,316
+1977,Renault,#15 Equipe Renault Elf R.S. 01,Formula 70s,Update 7,Challenge Hub Reward,267000,m,r,fra,5.0,6.8,6.5,7.7,828
+1967,Renault,8 Gordini,Vintage Sport Compact,Base,Car Dealer,17000,r,r,fra,1.0,1.2,1.0,1.2,228
+2021,Rimac,Nevera,Modern Hypercars,Base,Car Dealer,423000,m,a,hrv,9.4,4.1,4.0,4.3,886
+2019,Rimac,Concept Two,Modern Hypercars,Base,Car Dealer,432000,m,a,hrv,8.9,4.2,4.0,10.0,908
+2018,Saleen,S302 Black Label,Modern Sport Touring,Update 13,Challenge Hub Reward,139000,f,r,usa,7.3,3.0,3.0,4.8,681
+2018,Saleen,S1,Modern Sport GT,Base,Car Dealer,142000,m,r,usa,4.4,4.3,4.3,5.1,694
+2017,Saleen,S7 LM,Modern Exotic GT,Update 2,Car Dealer,404000,m,r,usa,9.2,5.4,5.4,7.2,860
+2004,Saleen,S7,Exotic GT Classics,Base,Car Dealer,297000,m,r,usa,7.8,6.3,6.5,5.9,753
+1967,Shelby,GT 500,Vintage Muscle,Update 13,Car Dealer,96000,f,r,usa,2.7,1.1,1.1,2.7,336
+1965,Shelby,Cobra Daytona Coupe,Vintage Le Mans Sportscars,Base,Car Dealer,165000,f,r,usa,5.0,3.1,3.7,3.5,619
+1965,Shelby,Cobra 427 S/C,Vintage Le Mans Sportscars,Base,Car Dealer,147000,f,r,usa,3.7,1.7,2.2,4.4,543
+1963,Shelby,Monaco King Cobra,Vintage Le Mans Prototypes,Base,Car Dealer,250000,m,r,usa,5.4,5.4,5.7,6.6,793
+2016,Spania,GTA GTA Spano,Modern Exotic GT,Update 2,Car Dealer,391000,m,r,esp,9.2,5.3,5.2,7.1,848
+2013,SRT,Viper GTS,Modern Sport GT,Base,Car Dealer,161000,f,r,usa,6.7,3.7,3.9,5.0,710
+2022,SUBARU,BRZ,Modern Sport Compact,Base,Car Dealer,57000,f,r,jpn,2.4,2.4,2.7,2.7,428
+2019,SUBARU,STI S209 Forza Edition,Modern Sport Compact,VIP,Gifted,96000,f,a,jpn,3.2,4.1,4.2,3.5,600
+2019,SUBARU,STI S209,Modern Sport Compact,Base,Car Dealer,83000,f,a,jpn,3.4,3.1,3.1,3.3,547
+2018,SUBARU,#1 Adrian Flux SUBARU Racing Levorg GT,Forza Touring Cars,Race Day Car Pack,Car Dealer,192000,f,r,jpn,3.1,5.4,5.5,3.7,673
+2015,SUBARU,WRX STI,Modern Sport Compact,Base,Car Dealer,74000,f,a,jpn,3.6,2.5,2.6,3.1,507
+2013,SUBARU,BRZ,Modern Sport Compact,Base,Car Dealer,38000,f,r,jpn,2.0,2.1,2.4,2.2,354
+2011,SUBARU,WRX STI,Modern Sport Compact,Base,Car Dealer,67000,f,a,jpn,3.7,2.2,2.3,2.8,473
+2008,SUBARU,IMPREZA WRX STI,Modern Sport Compact,Base,Car Dealer,69000,f,a,jpn,3.0,2.3,2.3,3.1,476
+2005,SUBARU,IMPREZA WRX STI,Modern Sport Compact,Update 10,Car Dealer,76000,f,a,jpn,3.5,2.2,2.4,3.3,503
+2004,SUBARU,IMPREZA WRX STI,Early Sport Compact,Base,Car Dealer,76000,f,a,jpn,3.3,2.2,2.2,3.3,490
+1998,SUBARU,Impreza 22B-STI Version,Early Sport Compact,Base,Car Dealer,86000,f,a,jpn,2.6,2.7,2.8,3.2,511
+1990,SUBARU,LEGACY RS,Early Sport Compact,Base,Car Dealer,48000,f,a,jpn,2.2,1.4,1.6,1.9,323
+2024,Toyota,NASCAR Next Gen Camry XSE,NASCAR,Update 14,Car Dealer,293000,f,r,jpn,6.0,7.0,7.0,5.5,855
+2023,Toyota,Camry TRD,Modern Sport Compact,Update 17,Car Dealer,54000,f,f,jpn,4.2,1.9,2.0,2.6,412
+2022,Toyota,GR86,Modern Sport Compact,Update 17,Car Dealer,52000,f,r,jpn,2.6,2.2,2.3,2.8,404
+2021,Toyota,GR Yaris,Modern Hot Hatch,Update 17,Challenge Hub Reward,81000,f,a,jpn,2.8,2.9,2.7,3.3,539
+2020,Toyota,GR Supra,Modern Sport Coupe,Welcome Pack,Car Dealer,90000,f,r,jpn,4.0,3.1,3.2,4.0,578
+2019,Toyota,86 TRD SE,Modern Sport Compact,Car Pass,Car Dealer,45000,f,r,jpn,2.0,2.5,2.5,2.3,376
+2014,Toyota,#8 Toyota Racing TS040 HYBRID,Forza P1,Base,Car Dealer,418000,m,a,jpn,6.4,9.9,10.0,10.0,981
+2003,Toyota,Celica Sport Specialty II,Early Sport Compact,Base,Car Dealer,37000,f,f,jpn,2.3,1.5,1.8,2.0,329
+1999,Toyota,#3 Toyota Motorsports GT-ONE TS020,Early LMP,Base,Car Dealer,342000,m,r,jpn,6.6,9.1,9.3,7.7,943
+1998,Toyota,Supra RZ,Sport GT Icons,Base,Car Dealer,77000,f,r,jpn,4.5,2.2,2.4,3.1,470
+1997,Toyota,Mark II Tourer V JZX100,Sport Touring Classics,Racing Heroes Car Pack,Car Dealer,58000,f,r,jpn,3.1,1.6,1.8,2.9,381
+1995,Toyota,MR2 GT,Early Sport Compact,Base,Car Dealer,58000,m,r,jpn,3.4,1.6,1.9,2.6,375
+1994,Toyota,Celica GT-Four ST205,Early Sport Compact,Base,Car Dealer,57000,f,a,jpn,3.1,1.8,1.9,2.2,368
+1992,Toyota,#99 All American Racers Toyota Eagle MkIII,GTP/C,Base,Car Dealer,418000,m,r,jpn,5.6,10.0,10.0,8.3,981
+1992,Toyota,Celica GT-Four RC ST185,Early Sport Compact,Base,Car Dealer,50000,f,a,jpn,2.7,1.6,1.9,1.9,339
+1992,Toyota,Supra 2.0 GT,Early Sport Compact,Base,Car Dealer,47000,f,r,jpn,2.6,1.7,1.9,2.1,327
+1989,Toyota,MR2 SC,Early Sport Compact,Base,Car Dealer,38000,m,r,jpn,1.9,1.5,1.7,1.9,296
+1985,Toyota,Sprinter Trueno GT Apex,Hot Hatch Icons,Base,Car Dealer,22000,f,r,jpn,1.0,1.3,1.5,1.5,270
+1984,Toyota,#25 Horsepower Techs Starlet Time Attack,Forza Specials,Update 20,Car Dealer,301000,f,r,jpn,3.6,7.0,6.4,5.9,801
+1974,Toyota,Celica GT,Vintage Sport Compact,Base,Car Dealer,11000,f,r,jpn,1.0,1.1,1.2,1.1,227
+1974,Toyota,Corolla SR5,Vintage Sport Compact,Base,Car Dealer,11000,f,r,jpn,1.0,1.2,1.0,1.0,181
+1969,Toyota,2000GT,Sport Coupe Icons,Base,Car Dealer,33000,f,r,jpn,1.2,1.0,1.2,1.5,265
+2018,TVR,Griffith,Modern Sport GT,Base,Car Dealer,129000,f,r,gbr,5.9,3.3,3.3,4.8,667
+2015,Ultima,Evolution Coupe 1020,Track Toys,Base,Car Dealer,417000,m,r,gbr,9.1,5.4,5.8,7.2,903
+2017,Vauxhall,#66 Power Maxed TAG Racing Astra,Forza Touring Cars,Race Day Car Pack,Car Dealer,204000,f,f,gbr,3.3,5.3,5.5,4.2,702
+2016,Vauxhall,Corsa VXR,Modern Hot Hatch,Base,Car Dealer,38000,f,f,gbr,1.8,2.1,2.0,2.3,354
+2012,Vauxhall,Astra VXR,Modern Hot Hatch,Base,Car Dealer,61000,f,f,gbr,3.1,2.6,2.4,2.7,447
+2006,Vauxhall,Astra VXR,Modern Hot Hatch,Base,Car Dealer,51000,f,f,gbr,2.6,2.0,2.0,2.5,386
+1990,Vauxhall,Lotus Carlton,Sport Touring Classics,Base,Car Dealer,91000,f,r,gbr,4.8,2.1,2.3,3.3,499
+2022,Volkswagen,Golf R,Modern Hot Hatch,Base,Car Dealer,70000,f,a,deu,4.2,2.6,2.5,2.7,489
+2021,Volkswagen,Golf R,Modern Hot Hatch,Welcome Pack,Car Dealer,70000,f,a,deu,3.6,2.4,2.5,2.8,488
+2018,Volkswagen,#22 Experion Racing Golf GTI,Forza Touring Cars,Car Pass,Car Dealer,206000,f,f,deu,2.7,5.4,5.5,4.6,704
+2014,Volkswagen,Golf R,Modern Hot Hatch,Base,Car Dealer,69000,f,a,deu,3.5,2.3,2.3,2.9,483
+2003,Volkswagen,Golf R32,Modern Hot Hatch,Base,Car Dealer,56000,f,a,deu,3.1,2.0,2.1,2.4,395
+1998,Volkswagen,Gti VR6 Mk3,Hot Hatch Icons,Base,Car Dealer,34000,f,f,deu,1.9,1.5,1.7,2.0,302
+1995,Volkswagen,Corrado VR6,Hot Hatch Icons,Base,Car Dealer,48000,f,f,deu,2.5,1.6,1.9,2.0,340
+1992,Volkswagen,Golf Gti 16v Mk2,Hot Hatch Icons,Base,Car Dealer,28000,f,f,deu,1.0,1.4,1.6,1.7,286
+1988,Volkswagen,Scirocco 16v,Hot Hatch Icons,Base,Car Dealer,13000,f,f,deu,1.0,1.3,1.5,1.3,263
+1983,Volkswagen,Golf GTI,Hot Hatch Icons,Base,Car Dealer,19000,f,f,deu,1.0,1.3,1.5,1.4,264
+1981,Volkswagen,Scirocco S,Hot Hatch Icons,Base,Car Dealer,11000,f,f,deu,1.0,1.0,1.2,1.0,222
+1997,Volvo,850 R,Sport Touring Classics,Base,Car Dealer,55000,f,f,swe,2.9,1.6,1.8,2.3,332
+2017,VUHL,05RR,Track Toys,Base,Car Dealer,317000,m,r,mex,3.9,5.2,5.2,7.0,785
+2020,Xpeng,P7,Modern Sport Touring,Base,Car Dealer,97000,r,a,chn,1.0,2.5,2.6,2.7,558
+2019,Zenvo,TSR-S,Modern Hypercars,Base,Car Dealer,418000,m,r,dnk,8.9,5.4,5.2,7.6,868

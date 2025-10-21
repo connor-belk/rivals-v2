@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Brands Hatch",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "name": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "name": "Circuit de Spa-Francorchamps",
+    "country": "Belgium",
+    "continent": "Europe"
+  },
+  {
+    "name": "Daytona International Speedway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Eagle Rock Speedway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Fujimi Kaido",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "name": "Grand Oak Raceway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Hakone Circuit",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "name": "Hockenheimring",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "name": "Homestead-Miami Speedway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Indianapolis Motor Speedway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Kyalami",
+    "country": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "name": "Le Mans",
+    "country": "France",
+    "continent": "Europe"
+  },
+  {
+    "name": "Lime Rock Park",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Maple Valley Raceway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Road Atlanta",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Mid-Ohio",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Bathurst Mount Panorama",
+    "country": "Australia",
+    "continent": "Oceania"
+  },
+  {
+    "name": "Mugello",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "name": "Nürburgring",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "name": "Road America",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Sebring International Raceway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Silverstone",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "name": "Sunset Peninsula Raceway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Suzuka",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "name": "Virginia International Raceway",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Watkins Glen",
+    "country": "United States",
+    "continent": "North America "
+  },
+  {
+    "name": "Laguna Seca",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "name": "Yas Marina",
+    "country": "United Arab Emirates",
+    "continent": "Middle East"
+  }
+]

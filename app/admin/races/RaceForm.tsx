@@ -1,4 +1,4 @@
-export default function EventForm() {
+export default function RaceForm() {
   return (
     <form>
       <p>Create a New Event</p>

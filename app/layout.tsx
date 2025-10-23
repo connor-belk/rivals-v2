@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import ToastWrapper from "../components/ToastWrapper";
 import Navbar from "../components/Navbar";
 // import Footer from "../components/Footer";
 
@@ -31,7 +32,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased h-full`}
       >
         {/* <Navbar /> */}
-        {children}
+        <ToastWrapper>{children}</ToastWrapper>
         {/* <Footer /> */}
       </body>
     </html>

@@ -1,0 +1,9 @@
+export default function EventForm() {
+  return (
+    <form>
+      <p>Create a New Event</p>
+      <label htmlFor="title">Title:</label>
+      <input name="title" type="text" placeholder="Event Title" />
+    </form>
+  );
+}

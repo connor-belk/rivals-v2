@@ -77,7 +77,7 @@ model Series {
   division  Division @relation(fields: [divisionId], references: [id])
   PImax     String   @db.VarChar(3)  
   races     Race[]
-  current   Boolean  @default(false)
+  isCurrent   Boolean  @default(false)
   
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt

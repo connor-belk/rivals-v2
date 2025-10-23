@@ -20,7 +20,7 @@ import {
 
 const navigation = [
   { name: "Home", href: "/", icon: HomeIcon, current: false },
-  { name: "Dashboard", href: "/admin", icon: HomeIcon, current: false },
+  { name: "Dashboard", href: "/admin", icon: ChartPieIcon, current: false },
   { name: "Drivers", href: "/admin/drivers", icon: UsersIcon, current: false },
   { name: "Races", href: "/admin/races", icon: FolderIcon, current: false },
   { name: "Series", href: "/admin/series", icon: CalendarIcon, current: false },
@@ -30,11 +30,6 @@ const navigation = [
     icon: DocumentDuplicateIcon,
     current: false,
   },
-];
-const teams = [
-  { id: 1, name: "Heroicons", href: "#", initial: "H", current: false },
-  { id: 2, name: "Tailwind Labs", href: "#", initial: "T", current: false },
-  { id: 3, name: "Workcation", href: "#", initial: "W", current: false },
 ];
 
 function classNames(...classes: any[]) {
@@ -76,22 +71,10 @@ export default function AdminNav() {
 
             {/* Sidebar component, swap this element with another sidebar if you like */}
             <div className="relative flex grow flex-col gap-y-5 overflow-y-auto bg-white px-6 pb-2 dark:bg-gray-900 dark:before:pointer-events-none dark:before:absolute dark:before:inset-0 dark:before:border-r dark:before:border-white/10 dark:before:bg-black/10">
-              {/* <div className="relative flex h-16 shrink-0 items-center">
-                  <img
-                    alt="Your Company"
-                    src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-                    className="h-8 w-auto dark:hidden"
-                  />
-                  <img
-                    alt="Your Company"
-                    src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=400"
-                    className="h-8 w-auto not-dark:hidden"
-                  />
-                </div> */}
               <nav className="relative flex flex-1 flex-col">
                 <ul role="list" className="flex flex-1 flex-col gap-y-7 mt-5">
                   <li>
-                    <ul role="list" className="-mx-2 space-y-1">
+                    <ul role="list" className="-mx-2 space-y-4">
                       <p className="font-bold ml-5 mb-5">Admin Navigation</p>
                       {navigation.map((item) => (
                         <li key={item.name}>
@@ -101,7 +84,7 @@ export default function AdminNav() {
                               item.current
                                 ? "bg-gray-50 text-indigo-600 dark:bg-white/5 dark:text-white"
                                 : "text-gray-700 hover:bg-gray-50 hover:text-indigo-600 dark:text-gray-400 dark:hover:bg-white/5 dark:hover:text-white",
-                              "group flex gap-x-3 rounded-md p-2 text-sm/6 font-semibold"
+                              "group flex gap-x-5 rounded-md p-2 text-lg/6 font-semibold"
                             )}
                           >
                             <item.icon
@@ -194,14 +177,6 @@ export default function AdminNav() {
         <div className="relative flex-1 text-sm/6 font-semibold text-gray-900 dark:text-white">
           Admin Dashboard
         </div>
-        <a href="#" className="relative">
-          <span className="sr-only">Your profile</span>
-          {/* <img
-              alt=""
-              src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-              className="size-8 rounded-full bg-gray-50 outline -outline-offset-1 outline-black/5 dark:bg-gray-800 dark:outline-white/10"
-            /> */}
-        </a>
       </div>
     </>
   );

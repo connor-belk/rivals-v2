@@ -14,6 +14,7 @@ export async function POST(req: Request) {
   const divisionId = data.divisionId;
   const PImax = data.PImax;
   let name = data.name;
+  const isCurrent = data.isCurrent;
 
   const divisionName = await prisma.division.findUnique({
     where: {
@@ -48,6 +49,7 @@ export async function POST(req: Request) {
     divisionId,
     PImax,
     name,
+    isCurrent,
     division: divisionName!.name,
   };
 
@@ -57,6 +59,7 @@ export async function POST(req: Request) {
         divisionId: newData.divisionId,
         PImax: newData.PImax,
         name: newData.name,
+        isCurrent: newData.isCurrent,
       },
     })
     .catch((err) => console.error(err));

@@ -1,11 +1,16 @@
 import SeriesForm from "./SeriesForm";
+import prisma from "@/lib/prisma";
 
-export default function SeriesPage() {
-  const divisions = [
-    { id: 1, name: "Division 1" },
-    { id: 2, name: "Division 2" },
-    { id: 3, name: "Division 3" },
-  ];
+export default async function SeriesPage() {
+  const divisions = await prisma.division
+    .findMany({
+      select: {
+        id: true,
+        name: true,
+      },
+    })
+    .catch((err) => console.error(err));
+
   const series = [
     { id: 1, name: "Series 1" },
     { id: 2, name: "Series 2" },

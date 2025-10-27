@@ -14,16 +14,7 @@ export async function POST(req: Request) {
   const divisionId = data.divisionId;
   const PImax = data.PImax;
   let name = data.name;
-  const isCurrent = data.isCurrent;
-
-  const divisionName = await prisma.division.findUnique({
-    where: {
-      id: divisionId,
-    },
-    select: {
-      name: true,
-    },
-  });
+  let isCurrent = data.isCurrent;
 
   if (!divisionId || !PImax || divisionId === "" || PImax === "") {
     return NextResponse.json({ error: "Division ID or PImax is required." });
@@ -41,8 +32,25 @@ export async function POST(req: Request) {
     return NextResponse.json({
       error: "Series name must be no more than 255 characters.",
     });
-  } else if (!name || name === "") {
+  }
+
+  const divisionName = await prisma.division.findUnique({
+    where: {
+      id: divisionId,
+    },
+    select: {
+      name: true,
+    },
+  });
+
+  if (!name || name === "") {
     name = `${divisionName!.name} at ${PImax}PI Series`;
+  }
+
+  if (isCurrent === "on") {
+    isCurrent = true;
+  } else {
+    isCurrent = false;
   }
 
   const newData = {
@@ -65,4 +73,17 @@ export async function POST(req: Request) {
     .catch((err) => console.error(err));
 
   return NextResponse.json(newSeries);
+}
+
+export async function DELETE(req: Request) {
+  const data = await req.json();
+  console.log(data);
+
+  const deletedSeries = await prisma.series.delete({
+    where: {
+      id: data.id,
+    },
+  });
+
+  return NextResponse.json({ message: data });
 }

@@ -1,5 +1,5 @@
-import SeriesForm from "./SeriesForm";
 import prisma from "@/lib/prisma";
+import SeriesTable from "./(components)/SeriesTable";
 
 export default async function SeriesPage() {
   const divisions = await prisma.division
@@ -11,11 +11,15 @@ export default async function SeriesPage() {
     })
     .catch((err) => console.error(err));
 
-  const series = [
-    { id: 1, name: "Series 1" },
-    { id: 2, name: "Series 2" },
-    { id: 3, name: "Series 3" },
-  ];
+  const series = await prisma.series.findMany({
+    include: {
+      division: true,
+    },
+  });
 
-  return <SeriesForm series={series} divisions={divisions} />;
+  return (
+    <>
+      <SeriesTable series={series} divisions={divisions} />
+    </>
+  );
 }

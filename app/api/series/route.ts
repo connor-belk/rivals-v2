@@ -87,3 +87,51 @@ export async function DELETE(req: Request) {
 
   return NextResponse.json({ message: data });
 }
+
+export async function PUT(req: Request) {
+  const data = await req.json();
+
+  const updateSeries = await prisma.series.update({
+    where: {
+      id: data.id,
+    },
+    data: {
+      name: data.name,
+      divisionId: data.divisionId,
+      PImax: data.PImax,
+      isCurrent: data.isCurrent,
+    },
+  });
+
+  return NextResponse.json({ updateSeries, message: "Series updated." });
+}
+
+export async function PATCH(req: Request) {
+  const data = await req.json();
+
+  if (!data.id || !data.isCurrent) {
+    return NextResponse.json({
+      error: "ID and isCurrent are required.",
+      status: 400,
+    });
+  }
+
+  if (typeof data.isCurrent !== "boolean") {
+    if (data.isCurrent === "true") {
+      data.isCurrent = true;
+    } else {
+      data.isCurrent = false;
+    }
+  }
+
+  const updateSeries = await prisma.series.update({
+    where: {
+      id: data.id,
+    },
+    data: {
+      isCurrent: data.isCurrent,
+    },
+  });
+
+  return NextResponse.json({ updateSeries, message: "Series updated." });
+}

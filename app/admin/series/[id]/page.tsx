@@ -1,5 +1,7 @@
 import prisma from "@/lib/prisma";
 import DeleteSeries from "./(components)/DeleteSeries";
+import Link from "next/link";
+import UpdateSeriesForm from "./(components)/UpdateSeriesForm";
 
 export default async function SeriesDetailsPage({
   params,
@@ -22,6 +24,12 @@ export default async function SeriesDetailsPage({
     return (
       <div>
         <p>Series not found.</p>
+        <Link
+          href="/admin/series"
+          className="underline hover:text-blue-600 active:text-purple-600"
+        >
+          Return to Series Table
+        </Link>
       </div>
     );
   }
@@ -41,7 +49,6 @@ export default async function SeriesDetailsPage({
             <th>Track</th>
             <th>Layout</th>
             <th>Laps</th>
-            <th>Series</th>
             <th>Start Time</th>
           </tr>
         </thead>
@@ -52,13 +59,13 @@ export default async function SeriesDetailsPage({
                 <td>{r.track}</td>
                 <td>{r.layoutId}</td>
                 <td>{r.laps}</td>
-                <td>{series.name}</td>
                 <td>{r.startsAt.toString()}</td>
               </tr>
             );
           })}
         </tbody>
       </table>
+      <UpdateSeriesForm series={series} />
     </div>
   );
 }

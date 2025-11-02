@@ -9,6 +9,9 @@ export default function DriverForm({ driver }: { driver: any }) {
   const [status, setStatus] = useState("");
   const router = useRouter();
 
+  const adminData = JSON.parse(localStorage.getItem("adminData") || "{}");
+  const drivers = adminData.drivers;
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -44,11 +47,17 @@ export default function DriverForm({ driver }: { driver: any }) {
     });
 
     if (res.ok) {
+      const deletedId = await res.json();
+      const remainingDrivers = drivers.filter((d: any) => d.id !== deletedId);
+      localStorage.setItem(
+        "adminData",
+        JSON.stringify({ ...adminData, drivers: remainingDrivers })
+      );
       setStatus("Deleted!");
       setIsEditing(false);
       setTimeout(() => {
         router.push("/admin/drivers");
-      });
+      }, 1000);
     }
   };
 
@@ -63,7 +72,7 @@ export default function DriverForm({ driver }: { driver: any }) {
         </h2>
         <button
           type="button"
-          onClick={handleDelete}
+          onClick={() => handleDelete(driver)}
           className="px-3 py-1 bg-red-500 text-white rounded hover:bg-red-600"
         >
           Delete

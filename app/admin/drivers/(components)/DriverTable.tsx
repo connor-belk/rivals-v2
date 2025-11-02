@@ -5,7 +5,11 @@ export default function DriverTable() {
   const driverData = localStorage.getItem("adminData");
   const drivers = JSON.parse(driverData!).drivers;
 
-  const handleDriverDelete = async (id: string) => {
+  const handleDriverDelete = async (driver: any) => {
+    const confirmed = confirm(
+      `Are you sure you want to delete the ${driver.firstName} driver record?`
+    );
+    if (!confirmed) return;
     const response = await fetch(`/api/drivers`, {
       method: "DELETE",
     });
@@ -38,7 +42,10 @@ export default function DriverTable() {
                     Edit
                   </button>
                 </Link>
-                <button className="hover:cursor-pointer px-2 bg-red-500 text-white rounded-full">
+                <button
+                  onClick={() => handleDriverDelete(driver)}
+                  className="hover:cursor-pointer px-2 bg-red-500 text-white rounded-full"
+                >
                   Delete
                 </button>
               </td>
